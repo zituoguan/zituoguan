@@ -154,7 +154,6 @@
 
 - [Lomorage](https://lomorage.com/) - 通过简单的自托管软件实现的谷歌相册替代方案。支持的客户端有：iOS、Android、Web、MAC/Windows。后端可在Raspberry Pi、Armbian、MAC/Windows/Linux上运行。 ([Source Code](https://github.com/lomorage/homepage)) `⊘ Proprietary` `Go`
 - [PhotoStructure](https://photostructure.com/) - 将您家庭的所有照片和视频自动组织成一个有趣而美丽的网站。通过Docker、NodeJS或本地桌面安装程序运行。 `⊘ Proprietary` `Nodejs`
-- [Picaport](https://www.picapport.de/en/index.php) - 一个用于您的局域网、网络空间或家庭网络的照片服务器，带有Web图库，可让您在中央位置组织照片、视频、PDF和许多其他媒体类型。 ([Demo](https://en.onlinedemo.picapport.de/)) `CC-BY-NC-4.0` `Java/Docker`
 - [Reservo](https://reservo.co) - 可扩展的图像托管脚本，支持 CDN、付费账户升级、广告位以及拖放上传。 ([Demo](https://demo.reservo.co/)) `⊘ Proprietary` `PHP`
 - [Single File PHP Gallery](http://sye.dk/sfpg/) - 一个单一的PHP文件构建的Web图库。 `⊘ Proprietary` `PHP`
 

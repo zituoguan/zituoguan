@@ -2063,7 +2063,6 @@ _Related: [投票和事件](#投票和事件)_
 - [KitchenOwl](https://tombursch.github.io/kitchenowl/) - 一款跨平台的购物清单、食谱存储、费用跟踪和餐饮计划应用，遵循 Material Design 设计语言。 ([Source Code](https://github.com/TomBursch/kitchenowl)) `AGPL-3.0` `Docker/deb`
 - [Mealie](https://nightly.mealie.io/) - 受Material Design启发的食谱管理器，具有分类和标签管理、购物清单、餐饮计划和站点定制功能。Mealie专注于简单的用户交互，以确保整个家庭都能使用该应用程序。 ([Source Code](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
 - [RecipeSage](https://github.com/julianpoy/recipesage) - 一个食谱保存器、餐饮计划组织者和购物清单管理器，可以直接从任何URL导入食谱。 ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
-- [reciphpes!](https://github.com/nanawel/reciphpes) - 一个轻量级、基于Symfony的食谱索引软件，支持搜索和标签，使用SQLite数据库。 `MIT` `Docker/Nodejs`
 - [Specifically Clementines](https://davideshay.github.io/groceries/) - 食品购物应用（之前是Groceries），提供与多个用户/设备（Web/Android/iOS）的可靠同步、食谱和与Tandoor的集成。 ([Demo](https://www.specificallyclementines.com/), [Source Code](https://github.com/davideshay/groceries)) `MIT` `Docker`
 - [Tandoor Recipes](https://docs.tandoor.dev/) - Django 应用，用于管理、标记和搜索食谱，可使用内置模型或托管 PDF、图像或其他文件的外部存储提供程序。 ([Demo](https://app.tandoor.dev/accounts/login/?demo), [Source Code](https://github.com/TandoorRecipes/recipes)) `MIT` `Python/Docker/K8S`
 
