@@ -8,7 +8,7 @@
 
 **[HTML 版本](https://zituoguan.com/)（推荐）**，[Markdown 版本](https://github.com/zituoguan/zituoguan)（旧版）。
 
-请参阅 [Contributing](#contributing)。
+请参阅 [贡献](#贡献)。
 
 --------------------
 
@@ -83,7 +83,7 @@
   - [软件开发 - FaaS 和无服务器](#软件开发---faas-和无服务器)
   - [软件开发 - IDE 和工具](#软件开发---ide-和工具)
   - [软件开发 - 低代码](#软件开发---低代码)
-  - [软件开发 - 持续集成与部署](#软件开发---持续集成与部署)
+  - [软件开发 - 持续集成和部署](#软件开发---持续集成和部署)
   - [软件开发 - 本地化](#软件开发---本地化)
   - [软件开发 - 测试](#软件开发---测试)
   - [软件开发 - 项目管理](#软件开发---项目管理)
@@ -958,7 +958,7 @@ _Related: [内容管理系统（CMS）](#内容管理系统（cms）)_
 
 [流媒体](https://en.wikipedia.org/wiki/Streaming_media)是以连续的方式从源头传递和消费的多媒体，网络元素中几乎没有或没有中间存储。
 
-**Please visit [流媒体 - 音频流媒体](#media-streaming---audio-streaming), [流媒体 - 多媒体流媒体](#media-streaming---multimedia-streaming), [流媒体 - 视频流媒体](#media-streaming---video-streaming)**
+**Please visit [流媒体 - 音频流媒体](#流媒体 - 音频流媒体), [流媒体 - 多媒体流媒体](#流媒体 - 多媒体流媒体), [流媒体 - 视频流媒体](#流媒体 - 视频流媒体)**
 
 _See also: [流媒体系统列表 - Wikipedia](https://en.wikipedia.org/wiki/List_of_streaming_media_systems), [流媒体系统比较 - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_streaming_media_systems)_
 
@@ -1360,7 +1360,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [wiki软件清单 - Wikipe
 
 [自动化](https://en.wikipedia.org/wiki/Automation)软件，旨在减少人类在流程中的干预。
 
-_Related: [物联网（IoT）](#物联网（iot）), [软件开发 - 持续集成与部署](#软件开发---持续集成与部署)_
+_Related: [物联网（IoT）](#物联网（iot）), [软件开发 - 持续集成和部署](#软件开发---持续集成和部署)_
 
 - [Accelerated Text](https://github.com/accelerated-text/accelerated-text) - 自动生成在措辞和结构上有所变化的数据的多个自然语言描述。 `Apache-2.0` `Java`
 - [Activepieces](https://www.activepieces.com) - 无代码业务自动化工具，类似于 Zapier 或 Tray。例如，您可以为每个新的 Trello 卡片发送 Slack 通知。 ([Source Code](https://github.com/activepieces/activepieces)) `MIT` `Docker`
@@ -1550,7 +1550,7 @@ _Related: [库存管理](#库存管理), [资源规划](#资源规划)_
 
 [软件开发](https://en.wikipedia.org/wiki/Software_development)是涉及构思、规范、设计、编程、文档编制、测试和修复错误的过程，用于创建和维护应用程序、框架或其他软件组件。
 
-**Please visit [软件开发 - API 管理](#software-development---api-management), [软件开发 - 持续集成与部署](#software-development---continuous-integration--deployment), [软件开发 - FaaS 与无服务器](#software-development---faas--serverless), [软件开发 - IDE 与工具](#software-development---ide--tools), [软件开发 - 本地化](#software-development---localization), [软件开发 - 低代码](#software-development---low-code), [软件开发 - 项目管理](#software-development---project-management), [软件开发 - 测试](#software-development---testing)**
+**Please visit [软件开发 - API 管理](#软件开发 - API 管理), [软件开发 - 持续集成与部署](#软件开发 - 持续集成与部署), [软件开发 - FaaS 和无服务器](#软件开发 - FaaS 和无服务器), [软件开发 - IDE 和工具](#软件开发 - IDE 和工具), [软件开发 - 本地化](#软件开发 - 本地化), [软件开发 - 低代码](#软件开发 - 低代码), [软件开发 - 项目管理](#软件开发 - 项目管理), [软件开发 - 测试](#软件开发 - 测试)**
 
 
 
@@ -1630,13 +1630,13 @@ _Related: [软件开发 - IDE 和工具](#软件开发---ide-和工具)_
 - [ToolJet](https://tooljet.io/) - 低代码框架，通过最小的工程投入构建和部署内部工具（Retool和Mendix的替代品）。 ([Source Code](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs/Docker/K8S`
 
 
-### 软件开发 - 持续集成与部署
+### 软件开发 - 持续集成和部署
 
 **[`^        back to top        ^`](#Awesome-Selfhosted)**
 
 [持续集成](https://en.wikipedia.org/wiki/Continuous_integration)和[持续部署](https://en.wikipedia.org/wiki/Continuous_deployment)的软件和工具。
 
-**Please visit [awesome-sysadmin/持续集成与持续部署](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
+**Please visit [awesome-sysadmin/持续集成和部署](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
 
 _Related: [自动化](#自动化)_
 
