@@ -1,14 +1,14 @@
-# Awesome-Selfhosted
+# 自托管精选
 
 [![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1)
 
-Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
+自托管是在自己的服务器上托管和管理应用程序，而不是依赖于 [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) 提供商。
 
-This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted on your own server(s). Non-Free software is listed on the [Non-Free](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) page.
+这是一个列出了可以在您自己的服务器上托管的[自由](https://en.wikipedia.org/wiki/Free_software)软件 [网络服务](https://en.wikipedia.org/wiki/Network_service) 和 [Web 应用](https://en.wikipedia.org/wiki/Web_application)的清单。非自由软件列在 [Non-Free](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) 页面。
 
-**[HTML version](https://awesome-selfhosted.net/) (recommended)**, [Markdown version](https://github.com/awesome-selfhosted/awesome-selfhosted) (legacy).
+**[HTML 版本](https://zituoguan.com/)（推荐）**，[Markdown 版本](https://github.com/zituoguan/zituoguan)（旧版）。
 
-See [Contributing](#contributing).
+请参阅 [Contributing](#contributing)。
 
 --------------------
 
@@ -104,10 +104,10 @@ See [Contributing](#contributing).
   - [预订和日程安排](#预订和日程安排)
   - [食谱管理](#食谱管理)
 - [List of Licenses](#list-of-licenses)
-- [Anti-features](#anti-features)
-- [External Links](#external-links)
-- [Contributing](#contributing)
-- [License](#license)
+- [反特性](#反特性)
+- [外部链接](#外部链接)
+- [贡献](#贡献)
+- [许可证](#许可证)
 
 --------------------
 
@@ -241,6 +241,7 @@ _Related: [Web 服务器](#web-服务器)_
 - [sish](https://github.com/antoniomika/sish) - 通过仅使用SSH实现到本地主机的HTTP(S)/WS(S)/TCP隧道（Serveo/ngrok的替代品）。 `MIT` `Go/Docker`
 - [socks5-proxy-server](https://github.com/nskondratev/socks5-proxy-server) - 带有内置身份验证和Telegram机器人的SOCKS5代理服务器，用于用户管理和用户数据使用统计（在按数据量支付时非常方便）。已经Docker化，安装简便。 `Apache-2.0` `Docker`
 - [Squid](http://www.squid-cache.org/) - Web缓存代理，支持HTTP、HTTPS、FTP等。通过缓存和重复使用频繁请求的网页，减少带宽并提高响应时间。 ([Source Code](https://code.launchpad.net/squid)) `GPL-2.0` `C/deb`
+- [SWAG（Secure Web Application Gateway）](https://github.com/linuxserver/docker-swag) - Nginx webserver 和带有 PHP 支持的反向代理，内置 Certbot（Let's Encrypt）客户端和 fail2ban 集成。 `GPL-3.0` `Docker`
 - [SWAG（Secure Web Application Gateway）](https://github.com/linuxserver/docker-swag) - Nginx webserver 和带有 PHP 支持的反向代理，内置 Certbot（Let's Encrypt）客户端和 fail2ban 集成。 `GPL-3.0` `Docker`
 - [Tinyproxy](https://tinyproxy.github.io/) - 轻量级的 HTTP/HTTPS 代理守护程序。 ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C/deb`
 
@@ -536,7 +537,6 @@ _See also: [awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetm
 _Related: [任务管理和待办清单](#任务管理和待办清单), [软件开发 - 项目管理](#软件开发---项目管理)_
 
 - [Bugzilla](https://www.bugzilla.org/) - 通用缺陷跟踪器和测试工具，最初由Mozilla项目开发和使用。 `MPL-2.0` `Perl`
-- [django-todo](http://django-todo.org/) - 可插拔、多用户、多组、多列表的待办事项和工单系统 - 一个可重用的应用程序，旨在嵌入到任何现有的Django项目中。 ([Source Code](https://github.com/shacker/django-todo)) `BSD-3-Clause` `Python/Django`
 - [Erxes](https://erxes.io/install/) - 旨在帮助企业吸引更多参与的客户的营销、销售和客户服务平台。 ([Source Code](https://github.com/erxes/erxes)) `GPL-3.0` `Docker`
 - [FreeScout](https://github.com/freescout-helpdesk/freescout) - Help Scout 的开源克隆版：基于电子邮件的客户支持应用、帮助台和共享邮箱。 `AGPL-3.0` `PHP/Docker`
 - [GlitchTip](https://glitchtip.com) - 开源错误跟踪应用。GlitchTip收集您的应用报告的错误。 ([Source Code](https://gitlab.com/glitchtip/glitchtip)) `MIT` `Python/Docker/K8S`
@@ -716,7 +716,7 @@ _Related: [协同办公](#协同办公)_
 - [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - SeaweedFS 是一个开源的分布式文件系统，支持 WebDAV、S3 API、FUSE 挂载、HDFS 等，针对大量小文件进行优化，易于扩展容量。 `Apache-2.0` `Go`
 - [SFTPGo](https://github.com/drakkan/sftpgo) - 灵活、功能齐全且高度可配置的 SFTP 服务器，支持可选的 FTP/S 和 WebDAV。 `AGPL-3.0` `Go/deb/Docker`
 - [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer，一个处理Amazon S3协议的开源服务器实现。 ([Source Code](https://github.com/scality/cloudserver)) `Apache-2.0` `Docker/Nodejs`
-- [ZOT OCI Registry](https://zotregistry.io/) - 一个可用于生产的、与供应商无关的OCI本地容器镜像注册表。 ([Demo](https://zothub.io), [Source Code](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
+- [ZOT OCI Registry](https://zotregistry.io/) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
 - [ZOT OCI Registry](https://zotregistry.io/) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
 
 
@@ -1180,6 +1180,7 @@ _Related: [社区支持农业（CSA）](#社区支持农业（csa）)_
 - [Bagisto](https://bagisto.com/en/) - 领先的 Laravel 开源电子商务框架，具备多库存来源、税收、本地化、Dropshipping 等令人兴奋的功能。 ([Demo](https://demo.bagisto.com/), [Source Code](https://github.com/bagisto/bagisto)) `MIT` `PHP`
 - [CoreShop](https://www.coreshop.org) - CoreShop是Pimcore的电子商务插件。 ([Source Code](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`
 - [Drupal Commerce](https://drupalcommerce.org) - Drupal Commerce 是 Drupal CMS 的一款流行的电子商务模块，支持数十个支付、运输和与购物相关的模块。 ([Source Code](https://git.drupalcode.org/project/commerce)) `GPL-2.0` `PHP`
+- [Magento开源版](https://github.com/magento/magento2) - 领先的开放式全渠道创新提供商。 `OSL-3.0` `PHP`
 - [Magento开源版](https://github.com/magento/magento2) - 领先的开放式全渠道创新提供商。 `OSL-3.0` `PHP`
 - [Mailchimp Open Commerce](https://mailchimp.com/developer/open-commerce/) - 可定制的、实时响应的JavaScript商务平台（以前是Reaction Commerce）。 ([Source Code](https://github.com/reactioncommerce/reaction)) `GPL-3.0` `Nodejs`
 - [MedusaJs](https://medusajs.com/) - Medusa是一款开源的无头商业引擎，使开发人员能够创建令人惊叹的数字商业体验。 ([Demo](https://next.medusajs.com/), [Source Code](https://github.com/medusajs/medusa)) `MIT` `Nodejs`
@@ -1842,7 +1843,7 @@ _Related: [工单](#工单), [任务管理和待办清单](#任务管理和待�
 - [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) - 最私密和安全的聊天和应用程序平台 - 现在支持双向棘轮端对端加密。 `AGPL-3.0` `Haskell`
 - [Soketi](https://soketi.app/) - 简单、快速、弹性的开源WebSocket服务器（Pusher的替代品）。 ([Source Code](https://github.com/soketi/soketi)) `MIT` `Nodejs/Docker/K8S`
 - [Spectrum 2](https://spectrum.im/) - Spectrum 2是一个开源的即时通讯传输工具。它允许用户即使在使用不同的即时通讯网络时也能进行聊天。 ([Source Code](https://github.com/SpectrumIM/spectrum2)) `GPL-3.0` `C++`
-- [Synapse](https://matrix-org.github.io/synapse/latest/) - 用于 [Matrix](https://matrix.org/) 的服务器，Matrix 是一种用于分散式持久通信的开放标准。 ([Source Code](https://github.com/matrix-org/synapse)) `Apache-2.0` `Python/deb`
+- [Synapse](https://matrix-org.github.io/synapse/latest/) - 用于 [Matrix](https://matrix.org/) 的服务器，Matrix 是一种用于分散式持久通信的开放标准。 ([Source Code](https://github.com/element-hq/synapse)) `Apache-2.0` `Python/deb`
 - [Syndie](https://syndie.de) - Syndie 是一个用于运行分布式论坛的自由系统。 `CC0-1.0` `Java`
 - [Tailchat](https://tailchat.msgbyte.com/) - 下一代 noIM 应用，位于您自己的工作空间，不仅仅是另一个 Slack/Discord/rocket.chat。 ([Demo](https://nightly.paw.msgbyte.com/), [Source Code](https://github.com/msgbyte/tailchat)) `Apache-2.0` `Docker/K8S/Nodejs`
 - [TextBelt](https://github.com/typpo/textbelt) `⚠` - 使用运营商特定的网关免费发送短信的出站短信 API，无广告。 `MIT` `Javascript`
@@ -1880,8 +1881,9 @@ _Related: [工单](#工单), [任务管理和待办清单](#任务管理和待�
 - [Dovel](https://dovel.email) - 根据简单的配置文件发送和接收电子邮件的 SMTP 服务器，可选择提供用于浏览电子邮件的 Web 界面。 ([Source Code](https://dovel.email/server/tree.html)) `LGPL-3.0` `Go`
 - [emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith的Bash脚本，用于在Debian上完全自动设置Postfix/Dovecot/SpamAssassin/OpenDKIM服务器。 `GPL-3.0` `Shell`
 - [homebox](https://github.com/progmaticltd/homebox) - Ansible脚本套件，用于在Debian上部署一个完全功能的邮件服务器。尽可能不显眼和自动化，专注于稳定性和安全性。 `GPL-3.0` `Shell`
-- [Inboxen](https://inboxen.org) - Inboxen是一个为您提供无限数量独特收件箱的服务。 ([Source Code](https://github.com/Inboxen/Inboxen)) `GPL-3.0` `Python`
+- [Inboxen](https://inboxen.org) - Inboxen是一个为您提供无限数量独特收件箱的服务。 ([Source Code](https://codeberg.org/Inboxen/Inboxen)) `GPL-3.0` `Python`
 - [iRedMail](https://www.iredmail.org/) - 基于Postfix和Dovecot的功能齐全的邮件服务器解决方案。 ([Source Code](https://github.com/iredmail/iRedMail)) `GPL-3.0` `Shell`
+- [Maddy邮件服务器](https://github.com/foxcpp/maddy) - 一体化邮件服务器，实现了SMTP（MTA和MX）和IMAP。用单个守护程序替代了Postfix、Dovecot、OpenDKIM、OpenSPF、OpenDMARC。 `GPL-3.0` `Go`
 - [Maddy邮件服务器](https://github.com/foxcpp/maddy) - 一体化邮件服务器，实现了SMTP（MTA和MX）和IMAP。用单个守护程序替代了Postfix、Dovecot、OpenDKIM、OpenSPF、OpenDMARC。 `GPL-3.0` `Go`
 - [Mail-in-a-Box](https://mailinabox.email/) - 通过一个命令将任何Ubuntu服务器转变为功能齐全的邮件服务器。 ([Source Code](https://github.com/mail-in-a-box/mailinabox)) `CC0-1.0` `Shell`
 - [Mailcow](https://mailcow.email/) - 基于Dovecot、Postfix和其他开源软件的邮件服务器套件，提供现代化的Web界面进行管理。 ([Source Code](https://github.com/mailcow/mailcow-dockerized)) `GPL-2.0` `Docker/PHP`
@@ -1981,6 +1983,7 @@ _Related: [工单](#工单), [任务管理和待办清单](#任务管理和待�
 - [Lemmy](https://join-lemmy.org/) - 一个面向联合网络的链接聚合器/Reddit克隆（作为Reddit的替代品）。 ([Source Code](https://github.com/LemmyNet/lemmy)) `AGPL-3.0` `Docker/Rust`
 - [Libreddit](https://github.com/libreddit/libreddit) `⚠` - 使用Rust编写的Reddit的私有前端。 `AGPL-3.0` `Rust`
 - [Loomio](https://www.loomio.org/) - Loomio是一个协作决策工具，使任何人都能轻松参与影响他们的决策。 ([Source Code](https://github.com/loomio/loomio)) `AGPL-3.0` `Docker`
+- [Mars服务器](https://github.com/borjapazr/mars-server) - 使用Docker、Docker Compose、Make和Bash进行管理的家庭服务器。 ([Source Code](https://github.com/mastodon/mastodon), [Clients](https://github.com/hyperupcall/awesome-mastodon)) `MIT` `Docker`
 - [Mars服务器](https://github.com/borjapazr/mars-server) - 使用Docker、Docker Compose、Make和Bash进行管理的家庭服务器。 ([Source Code](https://github.com/mastodon/mastodon), [Clients](https://github.com/hyperupcall/awesome-mastodon)) `MIT` `Docker`
 - [Misago](https://misago-project.org/) - Misago 是一个功能齐全的现代论坛应用程序，快速、可扩展且响应灵敏。 ([Source Code](https://github.com/rafalp/Misago)) `GPL-2.0` `Docker`
 - [Misskey](https://misskey.io/) - 去中心化的类应用微博服务器/社交网络服务，适用于 Fediverse，使用 ActivityPub 协议，类似于 GNU social 和 Mastodon。 ([Source Code](https://github.com/misskey-dev/misskey)) `AGPL-3.0` `Nodejs/Docker`
@@ -2116,32 +2119,31 @@ _Related: [投票和事件](#投票和事件)_
 
 --------------------
 
-## Anti-features
+## 反特性
 
-- `⚠ ` - Depends on a proprietary service outside the user's control
-
---------------------
-
-## External Links
-
-**[`^        back to top        ^`](#awesome-selfhosted)**
-
-- [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
-- Lists of software aimed at privacy and decentralization in some form: [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/), [Libre Projects](https://libreprojects.net/), [Easy Indie App](https://easyindie.app)
-- Other Awesome lists: [Awesome Big Data](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-- Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
-- Communities/forums: [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/c/selfhost on lemmy.ml](https://lemmy.ml/c/selfhost), [/m/selfhosted on kbin.social](https://kbin.social/m/selfhosted), [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [r-selfhosted forum](https://forum.r-selfhosted.com/), [/r/selfhosted Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [Homelab forum](https://homelabforum.com/), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
-- [theme.park](https://theme-park.dev/) - A collection of themes/skins for 50 selfhosted apps! ([Source Code](https://github.com/GilbN/theme.park/)) `MIT` `CSS`
-- [Track Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/) - Get the latest updates of awesome-selfhosted.
+- `⚠` - 依赖于用户无法控制的专有服务
 
 --------------------
 
-## Contributing
+## 外部链接
 
-Contributing guidelines can be found [here](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/CONTRIBUTING.md).
+**[`^        返回顶部        ^`](#自托管精选)**
 
-## License
+- [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - 精选的令人惊叹的开源系统管理员资源清单。
+- 面向隐私和去中心化的一些形式的软件列表: [PRISM Break](https://prism-break.org/en/)，[privacytools.io](https://www.privacytools.io/)，[Alternative Internet](https://redecentralize.github.io/alternative-internet/)，[Libre Projects](https://libreprojects.net/)，[Easy Indie App](https://easyindie.app)
+- 其他令人惊叹的清单: [Awesome Big Data](https://github.com/0xnr/awesome-bigdata)，[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- 动态域名服务: [Afraid.org](https://freedns.afraid.org/domain/registry/)，[Pagekite](https://pagekite.net/)
+- 社群/论坛: [/c/selfhosted 在 lemmy.world](https://lemmy.world/c/selfhosted)，[/c/selfhost 在 lemmy.ml](https://lemmy.ml/c/selfhost)，[/m/selfhosted 在 kbin.social](https://kbin.social/m/selfhosted)，[/r/selfhosted 在 reddit](https://old.reddit.com/r/selfhosted/)，[r-selfhosted 论坛](https://forum.r-selfhosted.com/)，[/r/selfhosted Matrix 频道](https://matrix.to/#/#selfhosted:selfhosted.chat)，[Homelab 论坛](https://homelabforum.com/)，[/r/homelab 在 reddit](https://old.reddit.com/r/homelab/)，[IndieWeb](https://indieweb.org/)
+- [theme.park](https://theme-park.dev/) - 为 50 个自托管应用提供主题/皮肤的集合！([源代码](https://github.com/GilbN/theme.park/)) `MIT` `CSS`
+- [追踪 Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/) - 获取 awesome-selfhosted 的最新更新。
 
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
-Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
-The list of authors can be found in the [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
+--------------------
+
+## 贡献
+
+贡献指南可在[此处](https://github.com/zituoguan/zituoguan-data/blob/master/CONTRIBUTING.md)找到。
+
+## 许可证
+
+此清单采用 [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) 许可。许可条款摘要可在[此处](https://creativecommons.org/licenses/by-sa/3.0/)查看。
+作者列表可在 [AUTHORS](https://github.com/zituoguan/zituoguan-data/blob/master/AUTHORS) 文件中找到。

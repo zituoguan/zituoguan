@@ -1,12 +1,10 @@
-# Awesome Selfhosted - Non-Free Software
+# 自托管精选 - 非自由软件
 
-**Software listed here does not meet the [Free Software](https://en.wikipedia.org/wiki/Free_software) definition**. It implements their own licensing with restrictions and grants which you must check on each case. Restrictions may include limits on allowed use of the software, access to the source code, modification and further redistribution. This software can therefore contain anti user-freedom features, such as but not limited to: backdoors, user lock-in, sending personal data to a third party.
-
+**此处列出的软件不符合自由软件 [自由软件](https://en.wikipedia.org/wiki/Free_software) 的定义**。 它们采用了自己的许可协议，带有一些限制和授权，您必须在每种情况下检查。这些限制可能包括对软件的允许使用、对源代码的访问、修改和进一步重新分发的限制。因此，这些软件可能包含反对用户自由的功能，例如但不限于：后门、用户锁定、将个人数据发送给第三方。
 --------------------
 
 ## Table of contents
 
-- [Software](#software)
   - [代理](#代理)
   - [内容管理系统（CMS）](#内容管理系统（cms）)
   - [地图和全球定位系统（GPS）](#地图和全球定位系统（gps）)
