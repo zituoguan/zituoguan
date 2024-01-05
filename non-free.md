@@ -19,7 +19,6 @@
   - [流媒体 - 视频流媒体](#流媒体---视频流媒体)
   - [游戏](#游戏)
   - [照片和视频库](#照片和视频库)
-  - [物联网（IoT）](#物联网（iot）)
   - [电子商务](#电子商务)
   - [知识管理工具](#知识管理工具)
   - [自动化](#自动化)
@@ -123,6 +122,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
+- [GameVault](https://gamevau.lt) - 在您自己的服务器上组织、下载和播放无DRM的游戏，配备元数据增强和用户友好的界面。 ([Demo](https://demo.gamevau.lt), [Source Code](https://github.com/Phalcode/gamevault-backend)) `CC-BY-NC-SA-4.0` `Nodejs/Docker`
 - [Keygen](https://github.com/keygen-sh/keygen-api) - 自托管的软件许可和分发API。 `Elastic-2.0` `Ruby`
 - [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities是用于局域网管理和通过互联网进行远程支持的自托管远程支持软件。 `⊘ Proprietary` `Unknown`
 - [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - 高速远程支持和远程访问，可立即连接并更快地解决问题。 `⊘ Proprietary` `Unknown`
@@ -154,13 +154,6 @@
 - [PhotoStructure](https://photostructure.com/) - 将您家庭的所有照片和视频自动组织成一个有趣而美丽的网站。通过Docker、NodeJS或本地桌面安装程序运行。 `⊘ Proprietary` `Nodejs`
 - [Reservo](https://reservo.co) - 可扩展的图像托管脚本，支持 CDN、付费账户升级、广告位以及拖放上传。 ([Demo](https://demo.reservo.co/)) `⊘ Proprietary` `PHP`
 - [Single File PHP Gallery](http://sye.dk/sfpg/) - 一个单一的PHP文件构建的Web图库。 `⊘ Proprietary` `PHP`
-
-
-### 物联网（IoT）
-
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
-
-- [Atman IoT](https://atman-iot.com) - 一个自托管的物联网（IoT）网关，专注于快速原型设计 IoT 解决方案，以独立的 Docker 容器形式打包，承诺帮助您在一周内构建您的 IoT 解决方案。 ([Demo](https://atman-iot.com/signup-redirect/)) `⊘ Proprietary` `Nodejs`
 
 
 ### 电子商务
@@ -208,6 +201,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
+- [Akaunting](https://akaunting.com/) - Akaunting 是一款免费、在线且开源的会计软件，专为小企业和自由职业者设计。 ([Source Code](https://github.com/akaunting/akaunting)) `BUSL-1.1` `PHP`
 - [Pancake](https://www.pancakeapp.com/) - 在线发票、项目管理、时间跟踪和提案软件。 `⊘ Proprietary` `PHP`
 
 
@@ -216,6 +210,8 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Budibase](https://www.budibase.com) - 在几分钟内构建和自动化内部工具、管理面板、仪表板、CRUD 应用等（与 Outsystems、Retool、Mendix、Appian 等类似）。 ([Source Code](https://github.com/Budibase/budibase)) `⊘ Proprietary` `Nodejs/Docker/K8S`
+- [Dify.ai](https://dify.ai) - 构建、测试和部署LLM应用程序。 ([Source Code](https://github.com/langgenius/dify)) `Apache-2.0/Commons-Clause` `Docker`
+- [Dify.ai](https://dify.ai) - 构建、测试和部署LLM应用程序。 ([Source Code](https://github.com/langgenius/dify)) `Apache-2.0/Commons-Clause` `Docker`
 
 
 ### 软件开发 - 测试
@@ -277,6 +273,7 @@
 
 - `BUSL-1.1` - [Business Source License 1.1](https://spdx.org/licenses/BUSL-1.1.html)
 - `CC-BY-NC-SA-3.0` - [Creative Commons Attribution-NonCommercial-ShareAlike License 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- `CC-BY-NC-SA-4.0` - [Creative Commons Attribution-NonCommercial-ShareAlike License 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - `CC-BY-ND-3.0` - [Creative Commons Attribution-NoDerivs Unported License 3.0](https://creativecommons.org/licenses/by-nd/3.0/)
 - `CC-BY-NC-4.0` - [Creative Commons Attribution-NonCommercial License 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 - `Commons-Clause` - [Commons Clause License](https://commonsclause.com/)
