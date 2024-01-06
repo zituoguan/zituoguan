@@ -10,7 +10,7 @@
 
 请参阅 [贡献](#贡献)。
 
-推荐Vaultwarden社区服务器(https://mmglq.com)(密码管理器)
+推荐Vaultwarden社区服务器[https://mmglq.com](https://mmglq.com)(密码管理器)
 --------------------
 
 ## Table of contents
