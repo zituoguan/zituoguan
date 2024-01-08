@@ -874,6 +874,7 @@ _See also: [CalDAV和CardDAV实现比较 - 维基百科](https://en.wikipedia.or
 - [CUPS](https://www.cups.org/) - CUPS（Common Unix Print System）使用Internet Printing Protocol（IPP）支持打印到本地和网络打印机。 ([Source Code](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
 - [CyberChef](https://github.com/gchq/CyberChef) - 在Web浏览器中执行各种操作，如AES、DES和Blowfish加密和解密，创建十六进制转储，计算哈希等等。 ([Demo](https://gchq.github.io/CyberChef)) `Apache-2.0` `Javascript`
 - [Digiboard](https://digiboard.app/) - 创建协作式白板（文档以法语提供）。 ([Source Code](https://codeberg.org/ladigitale/digiboard)) `AGPL-3.0` `Nodejs`
+- [Digicard](https://codeberg.org/ladigitale/digicard) - 创建简单的图形组合（文档以法语提供）。 ([Demo](https://ladigitale.dev/digicard/)) `AGPL-3.0` `Nodejs`
 - [Digiface](https://ladigitale.dev/digiface/) - 使用 Avataaars 库创建头像（法语文档）。 ([Demo](https://ladigitale.dev/digiface/), [Source Code](https://codeberg.org/ladigitale/digiface)) `AGPL-3.0` `Nodejs`
 - [Digiview](https://ladigitale.dev/digiview/) `⚠` - 以无干扰的界面查看 YouTube 视频（法语文档）. ([Demo](https://ladigitale.dev/digiview/), [Source Code](https://codeberg.org/ladigitale/digiview)) `AGPL-3.0` `Nodejs/PHP`
 - [Digiwords](https://ladigitale.dev/digiwords/) - 用于创建词云的简单在线应用程序（文档以法语提供）。 ([Source Code](https://codeberg.org/ladigitale/digiwords)) `AGPL-3.0` `Nodejs/PHP`
@@ -1979,7 +1980,7 @@ _Related: [工单](#工单), [任务管理和待办清单](#任务管理和待�
 - [Lemmy](https://join-lemmy.org/) - 一个面向联合网络的链接聚合器/Reddit克隆（作为Reddit的替代品）。 ([Source Code](https://github.com/LemmyNet/lemmy)) `AGPL-3.0` `Docker/Rust`
 - [Libreddit](https://github.com/libreddit/libreddit) `⚠` - 使用Rust编写的Reddit的私有前端。 `AGPL-3.0` `Rust`
 - [Loomio](https://www.loomio.org/) - Loomio是一个协作决策工具，使任何人都能轻松参与影响他们的决策。 ([Source Code](https://github.com/loomio/loomio)) `AGPL-3.0` `Docker`
-- [Mars服务器](https://github.com/borjapazr/mars-server) - 使用Docker、Docker Compose、Make和Bash进行管理的家庭服务器。 ([Source Code](https://github.com/mastodon/mastodon), [Clients](https://github.com/hyperupcall/awesome-mastodon)) `MIT` `Docker`
+- [Mastodon](https://joinmastodon.org/) - 联合式微博服务。 ([Source Code](https://github.com/mastodon/mastodon), [Clients](https://github.com/hyperupcall/awesome-mastodon)) `AGPL-3.0` `Ruby`
 - [Misago](https://misago-project.org/) - Misago 是一个功能齐全的现代论坛应用程序，快速、可扩展且响应灵敏。 ([Source Code](https://github.com/rafalp/Misago)) `GPL-2.0` `Docker`
 - [Misskey](https://misskey.io/) - 去中心化的类应用微博服务器/社交网络服务，适用于 Fediverse，使用 ActivityPub 协议，类似于 GNU social 和 Mastodon。 ([Source Code](https://github.com/misskey-dev/misskey)) `AGPL-3.0` `Nodejs/Docker`
 - [Movim](https://movim.eu/) - 现代化的联邦社交网络，基于 XMPP，具有完整的群聊、订阅和微博功能。 ([Source Code](https://github.com/movim/movim)) `AGPL-3.0` `PHP/Docker`
