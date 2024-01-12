@@ -205,7 +205,6 @@ _Related: [监控](#监控), [书签和链接分享](#书签和链接分享)_
 - [linkding](https://github.com/sissbruecker/linkding) - 具有快速干净界面的最小书签管理工具。通过Docker简单安装，可在您的Raspberry Pi上运行。 `MIT` `Docker/Python/Nodejs`
 - [LinkWarden](https://linkwarden.app/) - 一个自托管的书签+存档管理器，用于存储您的有用链接。 ([Source Code](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
 - [NeonLink](https://github.com/AlexSciFier/neonlink) - 一种带有独特设计的自托管书签服务，使用 Docker 安装简便。 `MIT` `Docker`
-- [Pinry](https://docs.getpinry.com/) - 针对那些想要保存、标记和共享图像、视频和网页的用户的平铺式图像板系统。 ([Demo](https://pin.37soloist.com/), [Source Code](https://github.com/pinry/pinry)) `BSD-2-Clause` `Docker/Python`
 - [Servas](https://github.com/beromir/Servas) - 一款自托管的书签管理工具。它支持通过标签、分组和专门用于以后访问的列表进行组织。支持多用户，并提供双因素认证 (2FA)。还提供了适用于 Firefox 和 Chrome 的伴侣浏览器扩展。 ([Clients](https://github.com/beromir/Servas#browser-extensions)) `GPL-3.0` `Docker/Nodejs/PHP`
 - [Shaarli](https://github.com/shaarli/Shaarli) - 个人、极简、超快、无数据库的书签和链接分享平台。 ([Demo](https://demo.shaarli.org)) `Zlib` `PHP/deb`
 - [Shiori](https://github.com/go-shiori/shiori) - 使用 Go 构建的简单书签管理器。 `MIT` `Go/Docker`
@@ -871,7 +870,6 @@ _See also: [CalDAV和CardDAV实现比较 - 维基百科](https://en.wikipedia.or
 - [Bracket](https://evroon.github.io/bracket) - Bracket 是一个灵活的锦标赛系统，可构建锦标赛设置，添加团队，安排比赛，跟踪比分，并实时向公众展示排名。 ([Source Code](https://github.com/evroon/bracket)) `MIT` `Docker/Nodejs`
 - [CapRover](https://caprover.com/) - 在几分钟内构建你自己的平台即服务（PaaS）。 ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
 - [Cerbos](https://cerbos.dev) - 一个自托管的、开源的用户授权层，适用于您的应用程序。 ([Demo](https://play.cerbos.dev), [Source Code](https://github.com/cerbos/cerbos)) `Apache-2.0` `Go/deb/Docker/K8S`
-- [changedetection.io](https://github.com/dgtlmoon/changedetection.io) - 自托管工具，用于保持与网站内容变化的最新状态。 `Apache-2.0` `Python/Docker`
 - [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog是一个自托管的PHP应用，允许您记录您的业余无线电联系。 ([Source Code](https://github.com/magicbug/cloudlog)) `MIT` `PHP/Docker`
 - [CUPS](https://www.cups.org/) - CUPS（Common Unix Print System）使用Internet Printing Protocol（IPP）支持打印到本地和网络打印机。 ([Source Code](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
 - [CyberChef](https://github.com/gchq/CyberChef) - 在Web浏览器中执行各种操作，如AES、DES和Blowfish加密和解密，创建十六进制转储，计算哈希等等。 ([Demo](https://gchq.github.io/CyberChef)) `Apache-2.0` `Javascript`
@@ -1173,7 +1171,7 @@ _Related: [监控](#监控)_
 - [cState](https://cstate.netlify.app/) - 用于超快速Hugo的静态状态页面。清晰的设计，最小化的JS，超轻的HTML/CSS，高度可定制，可选的管理面板，只读API，支持IE8+。最适用于Netlify、Docker。 ([Demo](https://cstate.mnts.lt/), [Source Code](https://github.com/cstate/cstate)) `MIT` `Go`
 - [Gatus](https://github.com/TwiN/gatus) - 自动化服务健康仪表板。 ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker/K8S`
 - [StatPing.ng](https://statping-ng.github.io/) - 一个易于使用的网站和应用程序状态页面。StatPing将自动获取应用程序并渲染一个具有丰富功能的漂亮状态页面，帮助您构建更好的状态页面。 ([Source Code](https://github.com/statping-ng/statping-ng)) `GPL-3.0` `Docker/Go`
-- [Uptime Kuma](https://github.com/louislam/uptime-kuma) - 类似于 "Uptime Robot" 的自托管网站监控工具。 ([Demo](https://demo.uptime.kuma.pet)) `MIT` `Docker/Nodejs`
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma) - 类似于 "Uptime Robot" 的自托管网站监控工具。 ([Demo](https://demo.kuma.pet)) `MIT` `Docker/Nodejs`
 - [Vigil](https://crates.io/crates/vigil-server) - 微服务状态页面。监视分布式基础架构并发送警报（Slack、短信等）。 ([Demo](https://status.crisp.chat/), [Source Code](https://github.com/valeriansaliou/vigil)) `MPL-2.0` `Rust/Docker/deb`
 
 
@@ -1300,7 +1298,6 @@ _Related: [维基](#维基)_
 - [Hasty Paste](https://enchantedcode.co.uk/hasty-paste/) - 一个快速粘贴文本并共享的地方。主要用于分享调试日志等，以帮助开发人员提供技术支持。该项目旨在既快速又简约。 ([Source Code](https://github.com/enchant97/hasty-paste)) `AGPL-3.0` `Docker/Python`
 - [Hemmelig](https://hemmelig.app) - 跨组织或私人共享加密的秘密。 ([Source Code](https://github.com/HemmeligOrg/Hemmelig.app)) `MIT` `Docker/Nodejs`
 - [MicroBin](https://github.com/szabodanika/microbin) - 简单、高性能、可配置、完全自包含的 pastebin 和 URL 缩短服务。 `BSD-3-Clause` `Rust/Docker`
-- [MokinToken](https://github.com/nexus-uw/mokintoken) - 使用 tweetnacl 的客户端加密粘贴板。 `Unlicense` `PHP/Docker`
 - [Opengist](https://github.com/thomiceli/opengist) - 由 Git 提供支持的自托管粘贴板。 ([Demo](https://opengist.thomice.li)) `AGPL-3.0` `Docker/Go/Nodejs`
 - [paaster](https://paaster.io) - Paaster是一个默认安全的端到端加密的Pastebin，建立在简单性的基础上。 ([Source Code](https://github.com/WardPearce/paaster)) `GPL-3.0` `Docker`
 - [Password Pusher](https://pwpush.com) - 一个简单易用的应用程序，可以安全地通过网络传递密码（或文本）。密码在一定数量的查看和/或时间过去后会自动过期。 ([Source Code](https://github.com/pglombardo/PasswordPusher)) `GPL-3.0` `Docker/K8S/Ruby`
@@ -1309,7 +1306,6 @@ _Related: [维基](#维基)_
 - [PurritoBin](https://github.com/PurritoBin/PurritoBin) - 超快、极简、加密的命令行粘贴板，服务器不了解粘贴数据。 `ISC` `C++`
 - [rustypaste](https://github.com/orhun/rustypaste) - 一个极简的文件上传/粘贴服务。 `MIT` `Rust`
 - [SnyPy](https://snypy.com) - 开源的本地代码片段管理器。 ([Demo](https://app.snypy.com), [Source Code](https://github.com/snypy)) `MIT` `Docker`
-- [Spacebin](https://spaceb.in/) - 用于终极前沿的文本共享 — 由Golang和Fiber构建的可靠Pastebin服务器。 ([Source Code](https://github.com/orca-group/spirit)) `Apache-2.0` `Go`
 - [Sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - 使用 HashiCorp Vault 作为秘密存储的非常简单（部署和使用）的秘密消息服务。 `MIT` `Go`
 - [wantguns/bin](https://github.com/wantguns/bin) - 用于文本和二进制文件的极简过去式服务，以单个静态链接二进制文件的形式提供。 ([Demo](https://basedbin.fly.dev)) `GPL-3.0` `Rust/Docker`
 - [Wastebin](https://github.com/matze/wastebin) - 轻量、极简和快速的过去式服务，带有SQLite后端。 ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
@@ -1344,6 +1340,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [wiki软件清单 - Wikipe
 - [Tiki](https://tiki.org/HomePage) - 具有最多内置功能的 Wiki CMS Groupware。 ([Demo](https://tiki.org/Try-Tiki), [Source Code](https://gitlab.com/tikiwiki/tiki)) `LGPL-2.1` `PHP`
 - [WackoWiki](https://wackowiki.org/) - WackoWiki是一款轻量且易于安装的多语言Wiki引擎。 ([Source Code](https://github.com/WackoWiki/wackowiki)) `BSD-3-Clause` `PHP`
 - [Wiki.js](https://js.wiki/) - 使用Git和Markdown的现代、轻量且功能强大的Wiki应用程序。 ([Demo](https://docs.requarks.io), [Source Code](https://github.com/Requarks/wiki)) `AGPL-3.0` `Nodejs/Docker/K8S`
+- [WikiDocs](http://wikidocs.it) - 一个无数据库的 Markdown 纯文本 wiki 引擎。 ([Demo](https://demo.wikidocs.it), [Source Code](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
 - [WiKiss](https://wikiss.tuxfamily.org/) - Wiki，简单易用且易于安装。 ([Source Code](https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0)) `GPL-2.0` `PHP`
 - [Wikmd](https://github.com/Linbreux/wikmd) - 使用Markdown和Git的现代简单基于文件的Wiki。 `MIT` `Python/Docker`
 - [XWiki](https://www.xwiki.org) - 第二代维基，允许用户通过强大的基于扩展的架构扩展其功能。 ([Demo](https://playground.xwiki.org), [Source Code](https://github.com/xwiki/xwiki-platform)) `LGPL-2.1` `Java/Docker/deb`
@@ -1368,12 +1365,12 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [wiki软件清单 - Wikipe
 
 _Related: [物联网（IoT）](#物联网（iot）), [软件开发 - 持续集成和部署](#软件开发---持续集成和部署)_
 
-- [Accelerated Text](https://github.com/accelerated-text/accelerated-text) - 自动生成在措辞和结构上有所变化的数据的多个自然语言描述。 `Apache-2.0` `Java`
 - [Activepieces](https://www.activepieces.com) - 无代码业务自动化工具，类似于 Zapier 或 Tray。例如，您可以为每个新的 Trello 卡片发送 Slack 通知。 ([Source Code](https://github.com/activepieces/activepieces)) `MIT` `Docker`
 - [ActiveWorkflow](https://github.com/automaticmode/active_workflow) - 基于软件代理的智能流程和工作流自动化平台。 `MIT` `Ruby`
 - [Apache Airflow](https://airflow.apache.org/) - Airflow 是一个用于以编程方式编写、调度和监视工作流的平台。 ([Source Code](https://github.com/apache/airflow/)) `Apache-2.0` `Python/Docker`
 - [Automatisch](https://automatisch.io) - 业务自动化工具，可连接不同的服务，如Twitter、Slack等，以自动化业务流程（类似于Zapier的替代品）。 ([Source Code](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
 - [betanin](https://github.com/sentriz/betanin) - 音乐组织中间人，位于您的种子客户端和音乐播放器之间。基于beets.io，类似于Sonarr和Radarr。 `GPL-3.0` `Python/Docker`
+- [changedetection.io](https://github.com/dgtlmoon/changedetection.io) - 自托管工具，用于保持与网站内容变化的最新状态。 `Apache-2.0` `Python/Docker`
 - [ChiefOnboarding](https://chiefonboarding.com) - 员工入职平台，允许您分配用户帐户并创建包含待办事项、资源、文本/电子邮件/Slack消息等的序列！可作为Web门户和Slack机器人使用。 ([Source Code](https://github.com/chiefonboarding/ChiefOnboarding)) `AGPL-3.0` `Docker`
 - [Eonza](https://www.eonza.org) - Eonza用于在服务器或VPS主机上创建脚本并自动化任务。可以从任何设备上的任何浏览器管理服务器。 ([Source Code](https://github.com/gentee/eonza)) `MIT` `Go`
 - [Exadel CompreFace](https://exadel.com/solutions/compreface/) - 人脸识别系统，提供用于人脸识别、人脸检测和其他人脸服务的REST API，并可轻松通过Docker部署。有适用于Python和JavaScript语言的SDK。无需事先机器学习技能即可使用。 ([Source Code](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
