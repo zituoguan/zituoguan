@@ -244,6 +244,7 @@ _Related: [Web 服务器](#web-服务器)_
 - [SWAG（Secure Web Application Gateway）](https://github.com/linuxserver/docker-swag) - Nginx webserver 和带有 PHP 支持的反向代理，内置 Certbot（Let's Encrypt）客户端和 fail2ban 集成。 `GPL-3.0` `Docker`
 - [SWAG（Secure Web Application Gateway）](https://github.com/linuxserver/docker-swag) - Nginx webserver 和带有 PHP 支持的反向代理，内置 Certbot（Let's Encrypt）客户端和 fail2ban 集成。 `GPL-3.0` `Docker`
 - [Tinyproxy](https://tinyproxy.github.io/) - 轻量级的 HTTP/HTTPS 代理守护程序。 ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C/deb`
+- [txtdot](https://txtdot.github.io/documentation/) - 一个HTTP代理，它仅从页面中解析文本、链接和图片，减少互联网带宽使用，去除广告和沉重的脚本。 ([Demo](https://txt.dc09.ru), [Source Code](https://github.com/TxtDot/txtdot)) `MIT` `Nodejs/Docker`
 
 
 ### 任务管理和待办清单
@@ -258,7 +259,6 @@ _Related: [软件开发 - 项目管理](#软件开发---项目管理), [工单](
 - [Focalboard](https://www.focalboard.com/) - 定义、组织、跟踪和管理个人和团队的工作（Trello、Notion 和 Asana 的替代品）。 ([Source Code](https://github.com/mattermost/focalboard), [Clients](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go/Docker`
 - [Kanbana](https://github.com/SrGMC/kanbana) - 从平面Markdown文件创建看板以跟踪用户和项目（Crepido的分支）。 `MIT` `Nodejs`
 - [Kanboard](https://kanboard.org/) - 简单且开源的可视化任务板。 ([Source Code](https://github.com/kanboard/kanboard)) `MIT` `PHP`
-- [Minimalist Online Markdown Editor](http://markdown.pioul.fr) - 最简单、最流畅的在线 Markdown 编辑器。 ([Source Code](https://github.com/pioul/Minimalist-Online-Markdown-Editor)) `MIT` `Nodejs`
 - [myTinyTodo](https://www.mytinytodo.net/) - 使用 AJAX 风格简单管理待办事项清单的方式。使用 PHP、jQuery、SQLite/MySQL。符合 GTD。 ([Demo](https://www.mytinytodo.net/demo/), [Source Code](https://github.com/maxpozdeev/mytinytodo/)) `GPL-2.0` `PHP`
 - [Nullboard](https://github.com/apankrat/nullboard) - 单页极简看板；紧凑、易读且使用快捷。 `BSD-2-Clause` `Javascript`
 - [Our Shopping List](https://github.com/nanawel/our-shopping-list) - 简单的共享列表应用程序。典型用途包括购物清单，当然还有任何其他需要协作使用的小型待办事项列表。 ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
@@ -394,7 +394,6 @@ _Related: [数据库管理](#数据库管理), [个人仪表板](#个人仪表�
 - [Infinoted](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - 用于[Gobby](https://github.com/gobby/gobby/wiki)的服务器，Gobby是一个多平台协作文本编辑器。 ([Source Code](https://github.com/gobby/gobby)) `MIT` `C++`
 - [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - 办公套件，使您能够在一个地方管理文档、项目、团队和客户关系。 ([Source Code](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs/Docker`
 - [PHPOffice](https://github.com/PHPOffice) - PHPOffice包含可以用于读写大多数办公套件文件的库。 `LGPL-3.0` `PHP`
-- [Rustpad](https://rustpad.io/) - 高效且简约的协同代码编辑器，支持自托管，无需数据库。 ([Source Code](https://github.com/ekzhang/rustpad)) `MIT` `Rust/Docker`
 
 
 ### 协同办公
@@ -719,8 +718,8 @@ _Related: [协同办公](#协同办公)_
 - [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - SeaweedFS 是一个开源的分布式文件系统，支持 WebDAV、S3 API、FUSE 挂载、HDFS 等，针对大量小文件进行优化，易于扩展容量。 `Apache-2.0` `Go`
 - [SFTPGo](https://github.com/drakkan/sftpgo) - 灵活、功能齐全且高度可配置的 SFTP 服务器，支持可选的 FTP/S 和 WebDAV。 `AGPL-3.0` `Go/deb/Docker`
 - [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer，一个处理Amazon S3协议的开源服务器实现。 ([Source Code](https://github.com/scality/cloudserver)) `Apache-2.0` `Docker/Nodejs`
-- [ZOT OCI Registry](https://zotregistry.io/) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
-- [ZOT OCI Registry](https://zotregistry.io/) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
+- [ZOT OCI Registry](https://zotregistry.dev) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
+- [ZOT OCI Registry](https://zotregistry.dev) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
 
 
 ### 文件传输 - 点对点文件共享
@@ -864,7 +863,6 @@ _See also: [CalDAV和CardDAV实现比较 - 维基百科](https://en.wikipedia.or
 - [AlertHub](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub 是一个简单的工具，用于从 GitHub 发布中接收警报。 `MIT` `Nodejs/Docker`
 - [Anchr](https://anchr.io) - Anchr 是一个用于处理互联网上小任务的工具箱，包括书签集、URL 缩短和（加密的）图像上传。 ([Source Code](https://github.com/muety/anchr)) `GPL-3.0` `Nodejs`
 - [Apache Solr](https://lucene.apache.org/solr/) - Solr 是基于 Apache Lucene 构建的流行、高速、开源的企业搜索平台。 ([Source Code](https://lucene.apache.org/solr/downloads.html)) `Apache-2.0` `Java/Docker/K8S`
-- [asciiflow](https://asciiflow.com/) - 流程图绘制工具。 ([Source Code](https://github.com/lewish/asciiflow)) `MIT` `Nodejs`
 - [asciinema](https://github.com/asciinema/asciinema-server) - 用于托管 asciicasts 的 Web 应用程序。 ([Demo](https://asciinema.org/)) `Apache-2.0` `Elixir/Docker`
 - [Baby Buddy](https://github.com/babybuddy/babybuddy) - 帮助照顾者追踪婴儿的睡眠、喂养、换尿布和俯卧时间。 ([Demo](https://demo.baby-buddy.net/login/?next=/)) `BSD-2-Clause` `Python`
 - [Bracket](https://evroon.github.io/bracket) - Bracket 是一个灵活的锦标赛系统，可构建锦标赛设置，添加团队，安排比赛，跟踪比分，并实时向公众展示排名。 ([Source Code](https://github.com/evroon/bracket)) `MIT` `Docker/Nodejs`
@@ -1073,7 +1071,6 @@ _Related: [游戏 - 管理工具和控制面板](#游戏---管理工具和控制
 - [MTA:SA](https://multitheftauto.com/) `⚠` - Multi Theft Auto (MTA) 是一个软件项目，为 Rockstar North 的《侠盗猎车手》游戏系列添加了网络游戏功能，该功能在原版中并不存在。 ([Source Code](https://github.com/multitheftauto/mtasa-blue)) `GPL-3.0` `C++`
 - [piqueserver](https://github.com/piqueserver/piqueserver) - OpenSpades 的服务器，OpenSpades 是一个第一人称射击游戏，背景是一个可破坏的体素世界。 ([Clients](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
 - [Posio](https://github.com/abrenaut/posio) - 地理多人游戏。 `MIT` `Python`
-- [QuakeJS](https://github.com/begleysm/quakejs) - QuakeJS是ioquake3的Javascript端口，可以在浏览器中播放。 `MIT` `Nodejs`
 - [Quizmaster](https://github.com/nymanjens/quizmaster) - 用于进行测验的Web应用，包括供玩家输入答案的页面。 `Apache-2.0` `Scala`
 - [Red Eclipse 2](https://redeclipse.net) - 一个类似于Unreal Tournament的自由开源竞技场第一人称射击游戏。 ([Source Code](https://github.com/redeclipse/base)) `Zlib/MIT/CC-BY-SA-4.0` `C/C++/deb`
 - [Romm](https://github.com/zurdi15/romm) `⚠` - RomM (Rom Manager) 是一个与 IGDB 集成的基于 Web 的复古 ROM 管理器。 `GPL-3.0` `Docker`
@@ -1267,11 +1264,9 @@ _Related: [维基](#维基)_
 - [Joplin](https://joplinapp.org/) - Joplin是一款带有Markdown编辑器和加密支持的笔记应用，适用于移动和桌面平台。在客户端运行，并通过自托管的Nextcloud或类似服务同步（替代Evernote）。 ([Source Code](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 - [kiwix-serve](https://www.kiwix.org/en/downloads/kiwix-serve/) - 从 ZIM 文件提供维基的 HTTP 守护进程。 ([Source Code](https://github.com/kiwix/kiwix-tools)) `GPL-3.0` `C++`
 - [Livebook](https://livebook.dev) - 实时协作的基于Markdown的笔记本应用，支持运行Elixir代码片段、TeX和Mermaid图表。可通过Docker或Elixir轻松部署。 ([Source Code](https://github.com/livebook-dev/livebook)) `Apache-2.0` `Elixir/Docker`
-- [Markdown Edit](https://github.com/georgeOsdDev/markdown-edit/) - 在线Markdown编辑器/查看器。 `MIT` `Javascript`
 - [Meemo](https://meemo.minimal-space.de/) - 具有Markdown支持的个人笔记流。 ([Source Code](https://github.com/cloudron-io/meemo)) `MIT` `Nodejs`
 - [Memos](https://usememos.com/) - 一个开源、自托管的知识库，可与 SQLite 数据库文件配合使用。 ([Source Code](https://github.com/usememos/memos)) `MIT` `Docker/Go`
 - [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - 极简 notepad.cc 克隆。 ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
-- [MiniNote](https://github.com/muety/mininote) - 带持久性的简单 Markdown 记事应用程序。 `MIT` `Nodejs/Docker`
 - [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - 一款极简的基于Web的Markdown笔记应用。 ([Source Code](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
 - [Oddmuse](https://oddmuse.org/) - 用Perl编写的简单维基引擎。无需数据库。 ([Source Code](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
 - [Overleaf](https://www.overleaf.com/) - 基于Web的协作LaTeX编辑器。 ([Source Code](https://github.com/overleaf/overleaf)) `AGPL-3.0` `Ruby`
@@ -1390,6 +1385,7 @@ _Related: [物联网（IoT）](#物联网（iot）), [软件开发 - 持续集�
 - [Medusa](https://pymedusa.com/) - 用于电视节目的自动视频库管理器。它会监视您喜爱的节目的新集数，一旦发布，就会进行自动管理。 ([Source Code](https://github.com/pymedusa/Medusa), [Clients](https://github.com/medusajs/nextjs-starter-medusa)) `GPL-3.0` `Python`
 - [MetaTube](https://github.com/JVT038/MetaTube) `⚠` - 一个 Web 图形用户界面，可自动从 YouTube 下载音乐，并从 Spotify、Deezer 或 Musicbrainz 添加元数据。 `GPL-3.0` `Python`
 - [MeTube](https://github.com/alexta69/metube) - 用于 youtube-dl 的 Web 图形用户界面，支持播放列表。允许从数十个网站下载视频。 `AGPL-3.0` `Python/Nodejs/Docker`
+- [Mylar3](https://mylarcomics.com/) - 自动漫画书(cbr/cbz)下载程序，用于NZB和种子下载。 ([Source Code](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
 - [nefarious](https://github.com/lardbit/nefarious) - 用于自动下载电影和电视节目的Web应用程序。 `GPL-3.0` `Python`
 - [OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin是一个用于运行Linux shell命令的Web界面。 `AGPL-3.0` `Go`
 - [pyLoad](https://pyload.net/) - 一款轻量、可定制且可远程管理的下载器，用于支持1-click-hosting网站，如rapidshare.com或uploaded.to。 ([Source Code](https://github.com/pyload/pyload)) `GPL-3.0` `Python`
@@ -1418,7 +1414,6 @@ _Related: [物联网（IoT）](#物联网（iot）), [软件开发 - 持续集�
 - [Cloudbox](https://cloudbox.works) - 基于Ansible的解决方案，快速部署Docker容器化的云媒体服务器。 ([Source Code](https://github.com/Cloudbox/Cloudbox)) `GPL-3.0` `Shell/Ansible`
 - [DietPi](https://dietpi.com/) - Minimal Debian 操作系统，专为单板计算机优化，可轻松安装和管理多个用于在家自行托管的服务。 ([Source Code](https://github.com/MichaIng/DietPi)) `GPL-2.0` `Shell`
 - [DockSTARTer](https://dockstarter.com/) - DockSTARTer 帮助您开始在 Docker 中运行的家庭服务器应用。 ([Source Code](https://github.com/GhostWriters/DockSTARTer)) `MIT` `Shell`
-- [FLAP](https://www.flap.cloud) - 用于管理自托管服务的低维护框架。 ([Source Code](https://gitlab.com/flap-box/flap)) `AGPL-3.0` `Docker/Shell`
 - [FreedomBox](https://freedombox.org/) - 社区项目，旨在开发、设计和推广运行免费软件的个人服务器，用于私人、个人通信。 ([Source Code](https://salsa.debian.org/freedombox-team/freedombox)) `AGPL-3.0` `Python/deb`
 - [HomelabOS](https://homelabos.com) - 拥有您自己的离线优先、注重隐私的开源数据中心。通过简单的命令部署超过100个服务。 ([Source Code](https://gitlab.com/NickBusey/HomelabOS)) `MIT` `Docker`
 - [LibreServer](https://libreserver.org/) - 基于Debian的家庭服务器配置。 ([Source Code](https://github.com/bashrc2/libreserver)) `AGPL-3.0` `Shell`
