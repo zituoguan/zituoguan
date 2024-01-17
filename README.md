@@ -2008,7 +2008,7 @@ _Related: [会议管理](#会议管理)_
 
 - [BigBlueButton](https://bigbluebutton.org/) - 支持实时共享音频、视频、幻灯片（带有白板控制）、聊天和屏幕。教师可以通过投票、表情符号和分组房间与远程学生互动。 ([Source Code](https://github.com/bigbluebutton/bigbluebutton)) `LGPL-3.0` `Java`
 - [Galene](https://galene.org/) - Galène（或 Galene）是一个易于部署且需要中等服务器资源的视频会议服务器（“SFU”）。 ([Source Code](https://github.com/jech/galene)) `MIT` `Go`
-- [Janus](https://janus.conf.meetecho.com/) - 通用、轻量级、极简的WebRTC服务器。 ([Demo](https://janus.conf.meetecho.com/demos.html), [Source Code](https://github.com/meetecho/janus-gateway)) `GPL-3.0` `C`
+- [Janus](https://janus.conf.meetecho.com/) - 通用、轻量级、极简的WebRTC服务器。 ([Demo](https://janus.conf.meetecho.com/demos/), [Source Code](https://github.com/meetecho/janus-gateway)) `GPL-3.0` `C`
 - [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet是一个使用Jitsi Videobridge提供高质量、可扩展视频会议的开源（MIT）WebRTC JavaScript应用。 ([Demo](https://meet.jit.si), [Source Code](https://github.com/jitsi/jitsi-meet)) `Apache-2.0` `Nodejs/Docker/deb`
 - [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - 兼容WebRTC的选择性转发单元（SFU），允许多用户视频通信。 ([Source Code](https://github.com/jitsi/jitsi-videobridge)) `Apache-2.0` `Java/deb`
 - [MiroTalk C2C](https://c2c.mirotalk.com) - 实时点对点视频通话和屏幕共享，端到端加密，可嵌入任何网站的简单 iframe 中。 ([Source Code](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
