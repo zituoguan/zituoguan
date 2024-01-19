@@ -624,7 +624,7 @@ _Related: [分析](#分析), [自动化](#自动化)_
 
 _See also: [dbdb.io - 数据库之数据库](https://dbdb.io/)_
 
-- [Adminer](https://www.adminer.org/) - 在一个单独的 PHP 文件中进行数据库管理。支持 MySQL、MariaDB、PostgreSQL、SQLite、MS SQL、Oracle、Elasticsearch、MongoDB 等数据库。 ([Source Code](https://github.com/vrana/adminer/)) `Apache-2.0/GPL-2.0` `PHP`
+- [Adminer](https://www.adminer.org/) - 以单个 PHP 文件进行数据库管理。适用于 MySQL、MariaDB、PostgreSQL、SQLite、MS SQL、Oracle、Elasticsearch、MongoDB 等。 ([Source Code](https://github.com/vrana/adminer/)) `Apache-2.0/GPL-2.0` `PHP`
 - [Azimutt](https://azimutt.app) - 面向真实世界数据库（庞大且混乱）的可视化数据库探索工具。可以探索数据库模式以及数据，记录它们，扩展它们，甚至进行分析和指导。 ([Demo](https://azimutt.app/gallery/gospeak), [Source Code](https://github.com/azimuttapp/azimutt)) `MIT` `Elixir/Nodejs/Docker`
 - [Baserow](https://baserow.io/) - 在没有技术经验的情况下创建自己的数据库（与Airtable类似的替代品）。 ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Docker`
 - [Bytebase](https://www.bytebase.com/) - 为 DevOps 团队提供安全的数据库模式更改和版本控制，支持 MySQL、PostgreSQL、TiDB、ClickHouse 和 Snowflake。 ([Demo](https://demo.bytebase.com), [Source Code](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
@@ -1298,7 +1298,6 @@ _Related: [维基](#维基)_
 - [Password Pusher](https://pwpush.com) - 一个简单易用的应用程序，可以安全地通过网络传递密码（或文本）。密码在一定数量的查看和/或时间过去后会自动过期。 ([Source Code](https://github.com/pglombardo/PasswordPusher)) `GPL-3.0` `Docker/K8S/Ruby`
 - [Pastefy](https://pastefy.app/) - 美观、简单易用的Pastebin，支持可选的客户端加密、多标签粘贴、API、带有突出显示的编辑器等功能。 ([Source Code](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Docker/K8S/Java`
 - [PrivateBin](https://privatebin.info/) - PrivateBin是一个极简主义的、开源的在线粘贴板/讨论板，服务器对托管的数据毫不知情。 ([Demo](https://privatebin.net/), [Source Code](https://github.com/PrivateBin/PrivateBin)) `Zlib` `PHP`
-- [PurritoBin](https://github.com/PurritoBin/PurritoBin) - 超快、极简、加密的命令行粘贴板，服务器不了解粘贴数据。 `ISC` `C++`
 - [rustypaste](https://github.com/orhun/rustypaste) - 一个极简的文件上传/粘贴服务。 `MIT` `Rust`
 - [SnyPy](https://snypy.com) - 开源的本地代码片段管理器。 ([Demo](https://app.snypy.com), [Source Code](https://github.com/snypy)) `MIT` `Docker`
 - [Sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - 使用 HashiCorp Vault 作为秘密存储的非常简单（部署和使用）的秘密消息服务。 `MIT` `Go`
