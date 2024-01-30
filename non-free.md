@@ -31,6 +31,7 @@
   - [通信 - SIP](#通信---sip)
   - [通信 - 定制通信系统](#通信---定制通信系统)
   - [通信 - 电子邮件 - 邮件列表和通讯](#通信---电子邮件---邮件列表和通讯)
+  - [食谱管理](#食谱管理)
 - [List of Licenses](#list-of-licenses)
 
 --------------------
@@ -211,7 +212,6 @@
 
 - [Budibase](https://www.budibase.com) - 在几分钟内构建和自动化内部工具、管理面板、仪表板、CRUD 应用等（与 Outsystems、Retool、Mendix、Appian 等类似）。 ([Source Code](https://github.com/Budibase/budibase)) `⊘ Proprietary` `Nodejs/Docker/K8S`
 - [Dify.ai](https://dify.ai) - 构建、测试和部署LLM应用程序。 ([Source Code](https://github.com/langgenius/dify)) `Apache-2.0/Commons-Clause` `Docker`
-- [Dify.ai](https://dify.ai) - 构建、测试和部署LLM应用程序。 ([Source Code](https://github.com/langgenius/dify)) `Apache-2.0/Commons-Clause` `Docker`
 
 
 ### 软件开发 - 测试
@@ -263,6 +263,13 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Sendy](https://sendy.co) - 自托管的电子邮件通讯应用程序，可通过Amazon Simple Email Service（SES）或其他SMTP服务发送批量电子邮件。 `⊘ Proprietary` `PHP`
+
+
+### 食谱管理
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Tandoor Recipes](https://docs.tandoor.dev/) - Django 应用，用于管理、标记和搜索食谱，可使用内置模型或托管 PDF、图像或其他文件的外部存储提供程序。 ([Demo](https://app.tandoor.dev/accounts/login/?demo), [Source Code](https://github.com/TandoorRecipes/recipes)) `MIT/Commons-Clause` `Python/Docker/K8S`
 
 
 --------------------
