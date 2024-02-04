@@ -346,7 +346,7 @@ _Related: [数据库管理](#数据库管理), [个人仪表板](#个人仪表�
 - [AWStats](http://www.awstats.org/) - 从 web、流媒体、FTP 或邮件服务器的日志文件生成统计信息。 ([Demo](https://www.awstats.org/#DEMO), [Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
 - [Countly Community Edition](https://count.ly) - 实时移动和Web分析、崩溃报告和推送通知平台。 ([Source Code](https://github.com/countly)) `AGPL-3.0` `Nodejs/Docker`
 - [Druid](http://druid.io/) - 分布式、面向列、实时分析数据存储。 ([Source Code](https://github.com/apache/druid)) `Apache-2.0` `Java/Docker`
-- [EDA](https://eda.jortilles.com/en/jortilles-english/) - 用于数据分析和可视化的Web应用程序。 ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Docker/Rust`
+- [EDA](https://eda.jortilles.com/en/jortilles-english/) - 用于数据分析和可视化的Web应用程序。 ([Source Code](https://github.com/jortilles/EDA)) `AGPL-3.0` `Nodejs/Docker`
 - [Fathom Lite](https://github.com/usefathom/fathom) - 一个简单而注重隐私的Web分析工具（可替代Google Analytics）。 `MIT` `Go/Docker`
 - [GoAccess](http://goaccess.io/) - 实时网络日志分析器和交互式查看器，可在终端中运行。 ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
 - [GoatCounter](https://www.goatcounter.com) - 无需跟踪个人数据的简易网络统计工具。 ([Source Code](https://github.com/arp242/goatcounter)) `EUPL-1.2` `Go`
@@ -945,7 +945,7 @@ _Related: [内容管理系统（CMS）](#内容管理系统（cms）)_
 _See also: [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving)_
 
 - [ArchiveBox](https://archivebox.io/) - 自托管的“时光机”工具，可以从书签、浏览历史、RSS 订阅或其他来源创建网站的 HTML 和截图存档。 ([Source Code](https://github.com/ArchiveBox/ArchiveBox)) `MIT` `Python/Docker`
-- [ArchivesSpace](https://archivesspace.org/) - 用于管理和提供对档案、手稿和数字对象的 Web 访问的档案信息管理应用程序。 ([Demo](https://archivesspace.org/application/demo), [Source Code](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
+- [ArchivesSpace](https://archivesspace.org/) - 用于管理和提供对档案、手稿和数字对象的 Web 访问的档案信息管理应用程序。 ([Demo](https://archivesspace.org/application/sandbox), [Source Code](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
 - [CKAN](https://ckan.org) - CKAN是一个创建开放数据网站的工具。 ([Source Code](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 - [Collective Access - Providence](https://collectiveaccess.org/) - 高度可配置的基于Web的框架，用于管理、描述和发现数字和物理收藏，支持各种元数据标准、数据类型和媒体格式。 ([Source Code](https://github.com/collectiveaccess/providence)) `GPL-3.0` `PHP`
 - [Ganymede](https://github.com/Zibbp/ganymede) `⚠` - Twitch VOD 和直播流存档平台。每个存档包含渲染后的聊天记录。 `GPL-3.0` `Docker`
@@ -1360,7 +1360,6 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [wiki软件清单 - Wikipe
 _Related: [物联网（IoT）](#物联网（iot）), [软件开发 - 持续集成和部署](#软件开发---持续集成和部署)_
 
 - [Activepieces](https://www.activepieces.com) - 无代码业务自动化工具，类似于 Zapier 或 Tray。例如，您可以为每个新的 Trello 卡片发送 Slack 通知。 ([Source Code](https://github.com/activepieces/activepieces)) `MIT` `Docker`
-- [ActiveWorkflow](https://github.com/automaticmode/active_workflow) - 基于软件代理的智能流程和工作流自动化平台。 `MIT` `Ruby`
 - [Apache Airflow](https://airflow.apache.org/) - Airflow 是一个用于以编程方式编写、调度和监视工作流的平台。 ([Source Code](https://github.com/apache/airflow/)) `Apache-2.0` `Python/Docker`
 - [Automatisch](https://automatisch.io) - 业务自动化工具，可连接不同的服务，如Twitter、Slack等，以自动化业务流程（类似于Zapier的替代品）。 ([Source Code](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
 - [betanin](https://github.com/sentriz/betanin) - 音乐组织中间人，位于您的种子客户端和音乐播放器之间。基于beets.io，类似于Sonarr和Radarr。 `GPL-3.0` `Python/Docker`
@@ -1868,7 +1867,7 @@ _Related: [工单](#工单), [任务管理和待办清单](#任务管理和待�
 
 简化[电子邮件](https://en.wikipedia.org/wiki/Email)服务器的部署，例如适用于经验不足或急躁的管理员。
 
-- [AnonAddy](https://anonaddy.com) - 开源的电子邮件转发服务，用于创建别名。 ([Source Code](https://github.com/anonaddy/anonaddy)) `MIT` `PHP`
+- [AnonAddy](https://anonaddy.com) - 开源的电子邮件转发服务，用于创建别名。 ([Source Code](https://github.com/anonaddy/anonaddy)) `MIT` `PHP/Docker`
 - [DebOps](https://docs.debops.org/) - 将基于 Debian 的数据中心装在一个盒子里。一组通用的 Ansible 角色，可用于管理 Debian 或 Ubuntu 主机。 ([Source Code](https://github.com/debops/debops)) `GPL-3.0` `Ansible/Python`
 - [docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) - 在容器中运行的生产就绪的全栈但简单的邮件服务器（SMTP、IMAP、LDAP、Antispam、Antivirus等）。仅配置文件，没有 SQL 数据库。 ([Source Code](https://github.com/docker-mailserver/docker-mailserver)) `MIT` `Docker`
 - [Dovel](https://dovel.email) - 根据简单的配置文件发送和接收电子邮件的 SMTP 服务器，可选择提供用于浏览电子邮件的 Web 界面。 ([Source Code](https://dovel.email/server/tree.html)) `LGPL-3.0` `Go`
