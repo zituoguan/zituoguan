@@ -1900,7 +1900,6 @@ _Related: [工单](#工单), [任务管理和待办清单](#任务管理和待�
 - [Exim](https://www.exim.org/) - 在剑桥大学开发的消息传输代理（MTA）。 ([Source Code](https://git.exim.org/exim.git)) `GPL-3.0` `C/deb`
 - [Haraka](https://haraka.github.io/) - 用Javascript编写的高性能、可插件化的SMTP服务器。 ([Source Code](https://github.com/haraka/Haraka)) `MIT` `Nodejs`
 - [MailCatcher](https://mailcatcher.me/) - 一个Ruby gem，部署了一个简单的SMTP MTA网关，接受所有邮件并在Web界面中显示。适用于调试或开发。 ([Source Code](https://github.com/sj26/mailcatcher)) `MIT` `Ruby`
-- [OpenTrashmail](https://github.com/HaschekSolutions/opentrashmail) - 完整的垃圾邮件解决方案，提供一个SMTP服务器并具有用于管理接收的电子邮件的Web界面。支持多个和通配符域，并且完全基于文件（无需数据库）。包括RSS订阅和JSON API。 `Apache-2.0` `Python/PHP/Docker`
 - [OpenSMTPD](https://opensmtpd.org/) - 来自OpenBSD项目的安全SMTP服务器实现。 ([Source Code](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/)) `ISC` `C/deb`
 - [OpenTrashmail](https://github.com/HaschekSolutions/opentrashmail) - 一款完整的垃圾邮件解决方案，提供一个暴露SMTP服务器并具有用于管理接收的电子邮件的Web界面。支持多个和通配符域，完全基于文件（无需数据库）。包括RSS订阅和JSON API。 `Apache-2.0` `Python/PHP/Docker`
 - [Postfix](http://www.postfix.org/) - 快速、易于管理且安全的Sendmail替代品。 `IPL-1.0` `C/deb`
