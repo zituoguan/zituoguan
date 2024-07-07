@@ -25,9 +25,11 @@
   - [自托管解决方案](#自托管解决方案)
   - [资源规划](#资源规划)
   - [资金、预算和管理](#资金、预算和管理)
+  - [软件开发 - API 管理](#软件开发---api-管理)
   - [软件开发 - 低代码](#软件开发---低代码)
   - [软件开发 - 测试](#软件开发---测试)
   - [软件开发 - 项目管理](#软件开发---项目管理)
+  - [远程访问](#远程访问)
   - [通信 - SIP](#通信---sip)
   - [通信 - 定制通信系统](#通信---定制通信系统)
   - [通信 - 电子邮件 - 邮件列表和通讯](#通信---电子邮件---邮件列表和通讯)
@@ -67,10 +69,11 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Deskpro](https://www.deskpro.com/) - 基于本地的帮助台软件，包括电子邮件、聊天、语音和帮助中心发布。具有完全可见的源代码和API。 `⊘ Proprietary` `Unknown`
+- [Erxes](https://erxes.io/install/) - 旨在帮助企业吸引更多参与的客户的营销、销售和客户服务平台。 ([Source Code](https://github.com/erxes/erxes)) `AGPL-3.0/Commons-Clause` `Docker/Nodejs`
 - [Full Help](https://www.fullhelp.com/en/) - 简单易用的帮助台和知识库软件。自定义品牌、自定义主题、RESTful API、通信渠道、多公司支持、多语言支持等等！每月至少发布1个新版本。 `⊘ Proprietary` `PHP`
 - [JIRA](https://www.atlassian.com/software/jira) - 专业且可扩展的问题跟踪器。 `⊘ Proprietary` `Java`
 - [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - 自托管的帮助台软件 - 简单而强大。 ([Demo](https://www.jitbit.com/saas-helpdesk/trial/)) `⊘ Proprietary` `.NET`
-- [SupportPal](https://www.supportpal.com/) - 强大的帮助台软件 - 简单、快速且直观。 ([Demo](https://demo.supportpal.com/en)) `⊘ Proprietary` `PHP`
+- [SupportPal](https://www.supportpal.com/) - 强大的帮助台软件 - 简单、快速且直观。 ([Demo](https://www.supportpal.com/product/demo)) `⊘ Proprietary` `PHP`
 
 
 ### 搜索引擎
@@ -91,7 +94,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [DaneeCloud](https://docs.daneeskripter.dev/daneecloud/) - 多用户文件存储和共享应用程序。 ([Demo](https://cloud.daneeskripter.dev), [Source Code](https://github.com/DaneeSkripter/DaneeCloud)) `GPL-3.0/SSPL-1.0` `Nodejs`
+- [DaneeCloud](https://docs.daneeskripter.dev/projects/daneecloud) - 多用户文件存储和共享应用程序。 ([Source Code](https://github.com/DaneeSkripter/DaneeCloud)) `GPL-3.0/SSPL-1.0` `Nodejs`
 
 
 ### 文件传输和同步
@@ -175,6 +178,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
+- [Ctfreak](https://ctfreak.com) - 具有移动友好型 Web UI 的 IT 任务调度器，可调度并发、远程和链式执行的 Bash / Powershell / SQL 脚本、Webhooks 等。 `⊘ Proprietary` `Unknown`
 - [n8n](https://n8n.io/) - 免费的基于节点的工作流自动化工具。轻松自动化跨不同服务的任务。 ([Source Code](https://github.com/n8n-io/n8n)) `Apache-2.0/Commons-Clause` `Nodejs`
 
 
@@ -204,6 +208,13 @@
 
 - [Akaunting](https://akaunting.com/) - Akaunting 是一款免费、在线且开源的会计软件，专为小企业和自由职业者设计。 ([Source Code](https://github.com/akaunting/akaunting)) `BUSL-1.1` `PHP`
 - [Pancake](https://www.pancakeapp.com/) - 在线发票、项目管理、时间跟踪和提案软件。 `⊘ Proprietary` `PHP`
+
+
+### 软件开发 - API 管理
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Hook0](https://www.hook0.com) - 一个 Webhooks 作为服务（WaaS），使在线产品可以轻松提供 Webhooks 功能。每月免费分发最多 3,000 个事件，保留历史记录 7 天。 ([Source Code](https://gitlab.com/hook0/hook0)) `SSPL-1.0` `Rust/Nodejs/Docker`
 
 
 ### 软件开发 - 低代码
@@ -238,6 +249,13 @@
 - [Kanban Tool](https://kanbantool.com/kanban-tool-on-site) - 具有时间跟踪功能的高级看板工具。 `⊘ Proprietary` `Ruby`
 - [Kantree](https://kantree.io) - 工作管理和协作。 `⊘ Proprietary` `Python`
 - [Solo](https://www.getsoloapp.com/) - 为自由职业者创建的免费项目管理应用。创建联系人、管理任务、上传文件、跟踪项目进展并记笔记。 ([Demo](https://www.getsoloapp.com/demo/)) `⊘ Proprietary` `PHP`
+
+
+### 远程访问
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [SparkView](https://www.beyondssl.com/en/products/sparkview/) - 基于浏览器的远程访问解决方案。无需 VPN 客户端；只需将软件部署在 DMZ 中。随时随地访问虚拟机、桌面、服务器和应用程序，无需复杂昂贵的客户端部署或用户管理。 `⊘ Proprietary` `Java`
 
 
 ### 通信 - SIP
