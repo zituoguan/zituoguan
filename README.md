@@ -200,6 +200,7 @@ _Related: [监控](#监控), [书签和链接分享](#书签和链接分享)_
 - [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - 允许您托管自己的 Firefox 帐户服务器。 ([Source Code](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
 - [Grimoire](https://grimoire.pro) - 带有现代 UI 的书签管理器，具备自动内容和元数据提取、分类、过滤等功能。完全文档化的 REST API，并提供 Docker 镜像，便于部署。 ([Source Code](https://github.com/goniszewski/grimoire)) `MIT` `Nodejs/Docker`
 - [Hackershare](https://github.com/hackershare/hackershare) - 面向黑客的社交书签网站。 `MIT` `Ruby`
+- [Hoarder App](https://hoarder.app/) - 一款可自行托管的书签管理应用，带有AI功能，适合数据收集爱好者。 ([Demo](https://try.hoarder.app), [Source Code](https://github.com/hoarder-app/hoarder)) `AGPL-3.0` `Docker`
 - [LinkAce](https://www.linkace.org/) - 一个具有自动备份到Internet Archive、链接监控和完整REST API的书签存档。可以通过Docker安装，也可以作为简单的PHP应用程序安装。 ([Demo](https://demo.linkace.org/guest/links), [Source Code](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `Docker/PHP`
 - [linkding](https://github.com/sissbruecker/linkding) - 具有快速干净界面的最小书签管理工具。通过Docker简单安装，可在您的Raspberry Pi上运行。 `MIT` `Docker/Python/Nodejs`
 - [LinkWarden](https://linkwarden.app/) - 一个自托管的书签+存档管理器，用于存储您的有用链接。 ([Source Code](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
@@ -378,7 +379,7 @@ _Related: [数据库管理](#数据库管理), [个人仪表板](#个人仪表�
 - [CNCjs](https://cnc.js.org/) - 用于运行Grbl、Smoothieware或TinyG的CNC铣床控制器的基于Web的界面。 ([Source Code](https://github.com/cncjs/cncjs/)) `MIT` `Nodejs`
 - [Fluidd](https://docs.fluidd.xyz/) - 用于Klipper 3D打印机固件的轻量且响应灵敏的用户界面。 ([Source Code](https://github.com/fluidd-core/fluidd)) `GPL-3.0` `Docker/Nodejs`
 - [Mainsail](https://docs.mainsail.xyz/) - Klipper 3D打印机固件的现代响应式用户界面。随时随地，从任何设备控制和监控您的打印机。 ([Source Code](https://github.com/mainsail-crew/mainsail)) `GPL-3.0` `Docker/Python`
-- [VanDAM](https://github.com/Floppy/van_dam) - 用于3D打印文件的数字资产管理器，支持STL、OBJ、3MF等格式。 `MIT` `Docker`
+- [VanDAM](https://github.com/Floppy/van_dam) - 用于3D打印文件的数字资产管理器，支持STL、OBJ、3MF等格式。 ([Source Code](https://github.com/manyfold3d/manyfold)) `MIT` `Docker`
 - [OctoPrint](https://octoprint.org/) - 用于控制消费级3D打印机的灵活Web界面。 ([Source Code](https://github.com/OctoPrint/OctoPrint)) `AGPL-3.0` `Docker/Python`
 
 
@@ -526,7 +527,6 @@ _See also: [awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetm
 - [Passbolt](https://www.passbolt.com/) - 专为在任何Web服务器上以协作方式管理密码而设计的密码管理器，使用MySQL数据库后端。 ([Source Code](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
 - [PassIt](https://passit.io/) - 简单的密码管理工具，具有按组和用户共享的功能，但没有管理界面。 ([Demo](https://app.passit.io/), [Source Code](https://gitlab.com/passit)) `AGPL-3.0` `Docker/Django`
 - [Passky](https://passky.org) - 简单、现代且开源的密码管理器，配有网站、浏览器扩展、Android和桌面应用程序。 ([Demo](https://vault.passky.org), [Source Code](https://github.com/Rabbit-Company/Passky-Server)) `GPL-3.0` `PHP`
-- [PassWall](https://github.com/passwall/passwall-server) - 开源密码管理器。 `AGPL-3.0` `Docker`
 - [Psono](https://psono.com/) - 一款专为团队提供完整功能的有前途的密码管理器。 ([Demo](https://www.psono.pw), [Source Code](https://gitlab.com/psono)) `Apache-2.0` `Python`
 - [Teampass](https://teampass.net/) - 专为以协作方式管理密码而设计的密码管理器。使用一个对称密钥加密所有共享/团队密码，并在服务器端以文件和数据库的形式存储。适用于任何 Apache、MySQL 和 PHP 服务器。 ([Source Code](https://github.com/nilsteampassnet/TeamPass)) `GPL-3.0` `PHP`
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - 用Rust编写的轻量级Bitwarden服务器API实现。 `GPL-3.0` `Rust/Docker`
@@ -989,6 +989,7 @@ _Related: [流媒体 - 视频流媒体](#流媒体---视频流媒体), [流媒�
 - [Kodi](https://kodi.tv/) - 多媒体/娱乐中心，以前被称为 XBMC。适用于 Android、BSD、Linux、macOS、iOS 和 Windows。 ([Source Code](https://github.com/xbmc/xbmc)) `GPL-2.0` `C++/deb`
 - [Kyoo](https://github.com/zoriya/kyoo) - 创新的媒体浏览器，设计用于无缝流媒体播放动漫、系列和电影，提供动态转码、自动观看历史记录和智能元数据检索等高级功能。 ([Demo](https://kyoo.zoriya.dev)) `GPL-3.0` `Docker`
 - [LBRY](https://lbry.com/) - LBRY是一个安全、开放且由社区运营的数字市场，旨在取代Youtube和Amazon。 ([Demo](https://lbry.tv/), [Source Code](https://github.com/lbryio/lbry.com), [Clients](https://github.com/lbryio/lbry-desktop)) `MIT` `PHP`
+- [Meelo](https://github.com/Arthi-chaud/Meelo) - 面向收藏家和音乐狂热者的个人音乐服务器。 `GPL-3.0` `Docker`
 - [MistServer](https://mistserver.org/) - 在任何流媒体环境中都能很好运行的流媒体服务器。 ([Source Code](https://github.com/DDVTECH/mistserver)) `AGPL-3.0` `C++`
 - [NymphCast](http://nyanko.ws/nymphcast.php) - 将您选择的支持Linux的硬件转换为电视或音响的音频和视频源（替代品Chromecast）。 ([Source Code](https://github.com/MayaPosch/NymphCast)) `BSD-3-Clause` `C++`
 - [ReadyMedia](https://sourceforge.net/projects/minidlna/) - 简单的媒体服务器软件，旨在完全符合DLNA/UPnP-AV客户端的要求。以前称为MiniDLNA。 ([Source Code](https://sourceforge.net/p/minidlna/git/ci/master/tree/)) `GPL-2.0` `C`
@@ -1012,7 +1013,7 @@ _Related: [视频监控](#视频监控), [流媒体 - 多媒体流媒体](#流�
 - [MediaCMS](https://mediacms.io) - MediaCMS是一款现代、功能齐全的开源视频和媒体CMS，采用Python/Django/React编写，具有REST API功能。 ([Source Code](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
 - [Oblecto](https://github.com/robinp7720/Oblecto) `⚠` - 用于电影和电视节目的媒体服务器，具有响应式的Vue.js前端。具有强大的转码支持，以及通过联邦功能与朋友共享库的能力。 `AGPL-3.0` `Nodejs`
 - [Open Streaming Platform](https://openstreamingplatform.com) - 实时和点播视频流（替代Twitch和Youtube Live）。 ([Source Code](https://gitlab.com/Deamos/flask-nginx-rtmp-manager)) `MIT` `Python`
-- [OvenMediaEngine](https://ovenmediaengine.com) - OvenMediaEngine是一个可自托管的开源流媒体服务器，具有亚秒级延迟。 ([Demo](https://demo.ovenplayer.com), [Source Code](https://github.com/AirenSoft/OvenMediaEngine)) `GPL-3.0` `C++/Docker`
+- [OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine是一个可自托管的开源流媒体服务器，具有亚秒级延迟。 ([Demo](https://demo.ovenplayer.com)) `GPL-3.0` `C++/Docker`
 - [Owncast](https://owncast.online/) - 去中心化的单用户实时视频流和聊天服务器，用于运行类似于主流选项的自己的实时流。 ([Source Code](https://github.com/owncast/owncast)) `MIT` `Go`
 - [PeerTube](https://joinpeertube.org/en/) - 使用P2P（BitTorrent）直接在Web浏览器中进行的分散式视频流平台。 ([Source Code](https://github.com/Chocobozzz/PeerTube)) `AGPL-3.0` `Nodejs`
 - [Rapidbay](https://github.com/hauxir/rapidbay/) - 自托管的种子视频流服务/种子客户端，允许在浏览器或从Chromecast/AppleTV/智能电视中搜索和播放种子视频。 `MIT` `Python/Docker`
@@ -1083,7 +1084,6 @@ _Related: [游戏 - 管理工具和控制面板](#游戏---管理工具和控制
 - [Red Eclipse 2](https://redeclipse.net) - 一个类似于Unreal Tournament的自由开源竞技场第一人称射击游戏。 ([Source Code](https://github.com/redeclipse/base)) `Zlib/MIT/CC-BY-SA-4.0` `C/C++/deb`
 - [Romm](https://github.com/zurdi15/romm) `⚠` - RomM (Rom Manager) 是一个与 IGDB 集成的基于 Web 的复古 ROM 管理器。 `GPL-3.0` `Docker`
 - [Suroi](https://suroi.io/) - 一款受 surviv.io 启发的开源二维大逃杀游戏。 ([Demo](https://suroi.io/), [Source Code](https://github.com/HasangerGames/suroi)) `GPL-3.0` `Nodejs`
-- [Teeworlds](https://www.teeworlds.com) - 开源的二维复古多人射击游戏。 ([Source Code](https://github.com/teeworlds/teeworlds)) `Zlib` `C++/deb`
 - [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - 《威斯诺斯之战》是一款开源的、回合制的战术策略游戏，以高奇幻为主题，提供单人游戏和在线/热座多人对战。 `GPL-2.0` `C++/deb`
 - [Veloren](https://veloren.net/) - 多人在线角色扮演游戏。开源游戏，灵感来自Cube World、塞尔达传说、矮人要塞和Minecraft。 ([Source Code](https://gitlab.com/veloren/veloren)) `GPL-3.0` `Rust`
 - [Word Mastermind](https://github.com/clupasq/word-mastermind) - Wordle克隆。类似猜谜游戏Mastermind，但你需要猜测单词而不是颜色。 ([Demo](https://word-mastermind.glitch.me/)) `MIT` `Nodejs`
@@ -1245,6 +1245,7 @@ _Related: [笔记和编辑器](#笔记和编辑器), [维基](#维基), [数据�
 _Related: [电子商务](#电子商务)_
 
 - [ACP Admin](https://acp-admin.ch/) - CSA 管理。管理成员、订阅、交付、投放地点、成员参与、发票和电子邮件（文档以法语提供）。 ([Source Code](https://github.com/acp-admin/acp-admin/)) `MIT` `Ruby`
+- [E-Label](https://filipecarneiro.github.io/ELabel/) - 适用于欧盟销售的葡萄酒瓶上带有二维码的电子标签解决方案。 ([Source Code](https://github.com/filipecarneiro/ELabel)) `MIT` `Docker`
 - [FoodCoopShop](https://www.foodcoopshop.com/) - 面向食品合作社的用户友好开源软件。 ([Source Code](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP/Docker`
 - [Foodsoft](https://foodcoops.net/) - 基于Web的软件，用于管理非营利性食品合作社（产品目录、订购、会计、工作安排）。 ([Source Code](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Docker/Ruby`
 - [juntagrico](https://juntagrico.org/) - 社区花园和蔬菜合作社的管理平台。 ([Source Code](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
@@ -1465,7 +1466,7 @@ _Related: [流媒体 - 视频流媒体](#流媒体---视频流媒体)_
 [新闻聚合器](https://en.wikipedia.org/wiki/News_aggregator)，也称为订阅聚合器、订阅阅读器、新闻阅读器、[RSS](https://en.wikipedia.org/wiki/RSS)阅读器，是一种将网页内容（如报纸/博客/视频博客/播客）集中在一个位置以便轻松查看的应用程序。
 
 - [Bubo Reader](https://github.com/georgemandis/bubo-rss) - 开源的“非理性极简”RSS订阅阅读器。 ([Demo](https://bubo-rss-demo.netlify.app/)) `MIT` `Nodejs`
-- [CommaFeed](https://www.commafeed.com/) - 受Google Reader启发的自托管RSS阅读器。 ([Source Code](https://github.com/Athou/commafeed)) `Apache-2.0` `Java/Docker`
+- [CommaFeed](https://www.commafeed.com/) - 受Google Reader启发的自托管RSS阅读器。 ([Demo](https://www.commafeed.com/#/app/category/all), [Source Code](https://github.com/Athou/commafeed)) `Apache-2.0` `Java/Docker`
 - [FeedCord](https://github.com/Qolors/FeedCord) `⚠` - 一个简单、轻量且可定制的 Discord 服务器 RSS 新闻订阅工具。 `MIT` `Docker`
 - [Feedpushr](https://github.com/ncarlier/feedpushr) - 强大的RSS聚合器，能够转换并将文章发送到多个输出。单个二进制文件，可通过插件进行扩展。 `GPL-3.0` `Go/Docker`
 - [FreshRSS](https://freshrss.org/) - 可自主托管的RSS订阅聚合器。 ([Demo](https://demo.freshrss.org/i/), [Source Code](https://github.com/FreshRSS/FreshRSS), [Clients](https://github.com/Alkarex/EasyRSS)) `AGPL-3.0` `PHP/Docker`
@@ -1788,7 +1789,6 @@ _Related: [工单](#工单), [任务管理和待办清单](#任务管理和待�
 [可扩展消息和出席协议](https://en.wikipedia.org/wiki/XMPP)服务器。
 
 - [ejabberd](https://www.ejabberd.im/) - XMPP即时消息服务器。 ([Source Code](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang/Docker`
-- [Metronome IM](https://metronome.im/) - 一款轻量级的 XMPP 服务器，具有先进的微博功能（Prosody 的分支）。 ([Source Code](https://github.com/maranda/metronome)) `MIT` `Lua`
 - [MongooseIM](https://www.erlang-solutions.com/products/mongooseim.html) - 移动消息平台，注重性能和可扩展性。 ([Source Code](https://github.com/esl/MongooseIM)) `GPL-2.0` `Erlang/Docker/K8S`
 - [Openfire](https://www.igniterealtime.org/projects/openfire/) - 实时协作（RTC）服务器。 ([Source Code](https://github.com/igniterealtime/Openfire)) `Apache-2.0` `Java`
 - [Prosody IM](https://prosody.im/) - 功能丰富且易于配置的XMPP服务器。 ([Source Code](https://hg.prosody.im/)) `MIT` `Lua`
