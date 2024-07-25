@@ -1470,6 +1470,7 @@ _Related: [流媒体 - 视频流媒体](#流媒体---视频流媒体)_
 - [FeedCord](https://github.com/Qolors/FeedCord) `⚠` - 一个简单、轻量且可定制的 Discord 服务器 RSS 新闻订阅工具。 `MIT` `Docker`
 - [Feedpushr](https://github.com/ncarlier/feedpushr) - 强大的RSS聚合器，能够转换并将文章发送到多个输出。单个二进制文件，可通过插件进行扩展。 `GPL-3.0` `Go/Docker`
 - [FreshRSS](https://freshrss.org/) - 可自主托管的RSS订阅聚合器。 ([Demo](https://demo.freshrss.org/i/), [Source Code](https://github.com/FreshRSS/FreshRSS), [Clients](https://github.com/Alkarex/EasyRSS)) `AGPL-3.0` `PHP/Docker`
+- [Fusion](https://github.com/0x2E/fusion) - 一个轻量级的RSS聚合器和阅读器。 `MIT` `Go/Docker`
 - [Goeland](https://github.com/slurdge/goeland) - 读取RSS/Atom源并筛选/摘要它们以创建漂亮的电子邮件。 `MIT` `Go`
 - [JARR](https://1pxsolidblack.pl/jarr-en.html) - JARR（Just Another RSS Reader）是一个基于Web的新闻聚合器和阅读器（是Newspipe的分支）。 ([Demo](https://www.jarr.info/), [Source Code](https://github.com/jaesivsm/JARR)) `AGPL-3.0` `Docker/Python`
 - [Kriss Feed](https://github.com/tontof/kriss_feed) - 简单而智能（或愚蠢）的Feed阅读器。 `CC0-1.0` `PHP`
