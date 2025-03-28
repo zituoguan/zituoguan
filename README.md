@@ -1887,7 +1887,7 @@ _Related: [工单](#工单), [任务管理和待办清单](#任务管理和待�
 
 [通信软件](https://en.wikipedia.org/wiki/Communication_software) 用于提供对系统的远程访问，以及在不同计算机或用户之间以文本、音频和/或视频格式交换文件和消息，使用其自定义协议。
 
-- [AnyCable](https://anycable.io/) - Realtime server for reliable two-way communication over WebSockets, Server-sent events, etc. ([Demo](https://demo.anycable.io), [Source Code](https://github.com/anycable/anycable)) `MIT` `Go/Docker`
+- [AnyCable](https://anycable.io/) - 实时服务器，支持通过 WebSockets、服务器推送事件（Server-sent events）等实现可靠的双向通信。 ([Demo](https://demo.anycable.io), [Source Code](https://github.com/anycable/anycable)) `MIT` `Go/Docker`
 - [Apprise](https://github.com/caronc/apprise) - Apprise 允许您向几乎所有我们今天可以使用的最流行的通知服务发送通知，如：Telegram、Discord、Slack、Amazon SNS、Gotify 等。 `MIT` `Python/Docker/deb`
 - [Centrifugo](https://centrifugal.dev/) - 语言无关的实时消息（Websocket或SockJS）服务器。 ([Demo](https://github.com/centrifugal/centrifugo#demo), [Source Code](https://github.com/centrifugal/centrifugo)) `MIT` `Go/Docker/K8S`
 - [Chatwoot](https://www.chatwoot.com) - 自托管的客户沟通平台（替代Intercom和Zendesk）。 ([Source Code](https://github.com/chatwoot/chatwoot)) `MIT` `Ruby/Docker/K8S`
@@ -2191,7 +2191,7 @@ _Related: [投票和事件](#投票和事件)_
 
 ## 外部链接
 
-**[`^        返回顶部        ^`](#自托管精选)**
+**[`^        返回顶部        ^`](#id1)**
 
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - 精选的令人惊叹的开源系统管理员资源清单。
 - 面向隐私和去中心化的一些形式的软件列表: [PRISM Break](https://prism-break.org/en/)，[privacytools.io](https://www.privacytools.io/)，[Alternative Internet](https://redecentralize.github.io/alternative-internet/)，[Libre Projects](https://libreprojects.net/)，[Easy Indie App](https://easyindie.app)
