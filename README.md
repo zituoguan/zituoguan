@@ -1,10 +1,10 @@
-# 自托管精选
+# 自托管精选 {#自托管精选}
 
 [![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://img.shields.io/liberapay/goal/awesome-selfhosted?logo=liberapay)](https://liberapay.com/awesome-selfhosted/)
 
 自托管是在自己的服务器上托管和管理应用程序，而不是依赖于 [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) 提供商。
 
-这是一个列出了可以在您自己的服务器上托管的[自由](https://en.wikipedia.org/wiki/Free_software)软件 [网络服务](https://en.wikipedia.org/wiki/Network_service) 和 [Web 应用](https://en.wikipedia.org/wiki/Web_application)的清单。非自由软件列在 [Non-Free](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) 页面。
+这是一个列出了可以在您自己的服务器上托管的[自由](https://en.wikipedia.org/wiki/Free_software)软件 [网络服务](https://en.wikipedia.org/wiki/Network_service) 和 [Web 应用](https://en.wikipedia.org/wiki/Web_application)的清单。非自由软件列在 [Non-Free](https://github.com/zituoguan/zituoguan/blob/master/non-free.md) 页面。
 
 **[HTML 版本](https://zituoguan.com/)（推荐）**，[Markdown 版本](https://github.com/zituoguan/zituoguan)（旧版）。
 
@@ -2191,7 +2191,7 @@ _Related: [投票和事件](#投票和事件)_
 
 ## 外部链接
 
-**[`^        返回顶部        ^`](#id1)**
+**[`^        返回顶部        ^`](#自托管精选)**
 
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - 精选的令人惊叹的开源系统管理员资源清单。
 - 面向隐私和去中心化的一些形式的软件列表: [PRISM Break](https://prism-break.org/en/)，[privacytools.io](https://www.privacytools.io/)，[Alternative Internet](https://redecentralize.github.io/alternative-internet/)，[Libre Projects](https://libreprojects.net/)，[Easy Indie App](https://easyindie.app)
