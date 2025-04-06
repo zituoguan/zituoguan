@@ -1969,7 +1969,7 @@ _相关: [工单](#工单), [任务管理和待办清单](#任务管理和待办
 - [Postal](https://docs.postalserver.io/) - 用于网站和Web服务器的完整且功能齐全的邮件服务器。 ([源代码](https://github.com/postalserver/postal)) `MIT` `Docker/Ruby`
 - [Simple NixOS Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - 利用 Nix 生态系统的完整邮件服务器解决方案。 `GPL-3.0` `Nix`
 - [SimpleLogin](https://simplelogin.io) - 开源电子邮件别名解决方案，用于保护您的电子邮件地址。附带浏览器扩展和移动应用程序。 ([源代码](https://github.com/simple-login/app)) `MIT` `Docker/Python`
-- [Stalwart Mail Server](https:///stalw.art) - 一体化邮件服务器，支持JMAP、IMAP4和SMTP，并具有广泛的现代功能。 ([源代码](https://github.com/stalwartlabs/mail-server)) `AGPL-3.0` `Rust/Docker`
+- [Stalwart Mail Server](https://stalw.art) - 一体化邮件服务器，支持JMAP、IMAP4和SMTP，并具有广泛的现代功能。 ([源代码](https://github.com/stalwartlabs/mail-server)) `AGPL-3.0` `Rust/Docker`
 - [Wildduck](https://wildduck.email/) - 可伸缩的无单点故障IMAP/POP3邮件服务器。 ([源代码](https://github.com/nodemailer/wildduck)) `EUPL-1.2` `Nodejs/Docker`
 
 
