@@ -298,7 +298,6 @@ _相关: [软件开发 - 项目管理](#软件开发---项目管理), [工单](#
 
 用于提交[摘要](https://en.wikipedia.org/wiki/Abstract_management)和准备/管理学术会议的软件。
 
-- [frab](https://frab.github.io/frab/) - 基于Web的会议规划和管理系统。它有助于收集提交，管理演讲和演讲者，并创建日程表。 ([源代码](https://github.com/frab/frab)) `MIT` `Ruby/Docker`
 - [indico](https://getindico.io/) - 一个功能丰富的活动管理系统，由CERN创建，这是Web诞生的地方。 ([演示](https://sandbox.getindico.io/), [源代码](https://github.com/indico/indico)) `MIT` `Python`
 - [motion.tools (Antragsgrün)](https://motion.tools/) - 用于管理（政治）大会动议和修正案的网络工具。 ([演示](https://sandbox.motion.tools/createsite), [源代码](https://github.com/CatoTH/antragsgruen)) `AGPL-3.0` `PHP/Docker`
 - [OpenSlides](https://openslides.com/) - 基于 Web 的演示和议会系统，用于管理和投影议程、动议和议会选举。 ([演示](https://demo.os4.openslides.com/login), [源代码](https://github.com/OpenSlides/OpenSlides)) `MIT` `Docker`
@@ -1686,7 +1685,6 @@ _相关: [软件开发 - 低代码](#软件开发---低代码)_
 - [code-server](https://github.com/coder/code-server) - 在浏览器中运行的VS Code，托管在远程服务器上。 `MIT` `Nodejs/Docker`
 - [Coder](https://coder.com/) - 在您自己的基础设施上进行远程开发机器。 ([源代码](https://github.com/coder/coder)) `AGPL-3.0` `Go/Docker/K8S/deb`
 - [Eclipse Che](https://www.eclipse.org/che/) - 开源工作空间服务器和云IDE。 ([源代码](https://github.com/eclipse/che)) `EPL-1.0` `Docker/Java`
-- [Hakatime](https://github.com/mujx/hakatime) - 具有分析仪表板的WakaTime服务器实现。 `Unlicense` `Haskell`
 - [HttPlaceholder](https://github.com/dukeofharen/httplaceholder) - 使用 HttPlaceholder 快速模拟任何Web服务。HttPlaceholder 允许您指定请求的样式以及需要返回的响应。 `MIT` `C#`
 - [Judge0 CE](https://judge0.com) - 用于编译和运行源代码的开源API。 ([源代码](https://github.com/judge0/judge0)) `GPL-3.0` `Docker`
 - [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - 基于Web的交互式和可重现计算环境。 ([演示](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab), [源代码](https://github.com/jupyterlab/jupyterlab/)) `BSD-3-Clause` `Python/Docker`
@@ -1895,7 +1893,6 @@ _相关: [工单](#工单), [任务管理和待办清单](#任务管理和待办
 - [Chatwoot](https://www.chatwoot.com) - 自托管的客户沟通平台（替代Intercom和Zendesk）。 ([源代码](https://github.com/chatwoot/chatwoot)) `MIT` `Ruby/Docker/K8S`
 - [Chitchatter](https://chitchatter.im/) - 一款无服务器、去中心化且短暂的点对点聊天应用。 ([源代码](https://github.com/jeremyckahn/chitchatter)) `GPL-2.0` `Nodejs`
 - [Conduit](https://conduit.rs/) - 由Matrix支持的简单、快速且可靠的聊天服务器。 ([源代码](https://gitlab.com/famedly/conduit)) `Apache-2.0` `Rust`
-- [conduwuit](https://conduwuit.puppyirl.gay) - 维护良好的、功能丰富的 Matrix 聊天主机（Conduit 的分支）。 ([源代码](https://github.com/girlbossceo/conduwuit)) `Apache-2.0` `Rust`
 - [Databag](https://github.com/balzack/databag) - 面向 Web、iOS 和 Android 的联合、端到端加密的消息服务，支持文本、照片、视频以及 WebRTC 视频和音频通话。 ([演示](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
 - [Element](https://element.io) - 用于Web、iOS和Android的功能齐全的Matrix客户端。 ([源代码](https://github.com/vector-im/element-web)) `Apache-2.0` `Nodejs`
 - [GlobaLeaks](https://www.globaleaks.org/) - 一个举报软件，使任何人都能轻松设置和维护一个安全的报告平台。 ([演示](https://demo.globaleaks.org), [源代码](https://github.com/globaleaks/whistleblowing-software)) `AGPL-3.0` `Python/deb/Docker`
