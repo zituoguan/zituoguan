@@ -16,6 +16,7 @@
   - [杂项](#杂项)
   - [流媒体 - 视频流媒体](#流媒体---视频流媒体)
   - [游戏](#游戏)
+  - [游戏 - 管理工具和控制面板](#游戏---管理工具和控制面板)
   - [电子商务](#电子商务)
   - [相册](#相册)
   - [知识管理工具](#知识管理工具)
@@ -30,6 +31,7 @@
   - [远程访问](#远程访问)
   - [通信 - SIP](#通信---sip)
   - [通信 - 定制通信系统](#通信---定制通信系统)
+  - [通信 - 电子邮件 - 完整解决方案](#通信---电子邮件---完整解决方案)
   - [通信 - 电子邮件 - 邮件列表和通讯](#通信---电子邮件---邮件列表和通讯)
   - [通信 - 视频会议](#通信---视频会议)
   - [食谱管理](#食谱管理)
@@ -110,7 +112,6 @@
 
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
-- [GameVault](https://gamevau.lt) - 在您自己的服务器上组织、下载和播放无DRM的游戏，配备元数据增强和用户友好的界面。 ([演示](https://demo.gamevau.lt), [源代码](https://github.com/Phalcode/gamevault-backend)) `CC-BY-NC-SA-4.0` `Nodejs/Docker`
 - [Keygen](https://github.com/keygen-sh/keygen-api) - 自托管的软件许可和分发API。 `Elastic-2.0` `Ruby`
 - [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities是用于局域网管理和通过互联网进行远程支持的自托管远程支持软件。 `⊘ Proprietary` `Unknown`
 - [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - 高速远程支持和远程访问，可立即连接并更快地解决问题。 `⊘ Proprietary` `Unknown`
@@ -132,6 +133,13 @@
 
 - [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - 2048游戏的3D克隆。 ([演示](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CC-BY-NC-4.0` `Javascript`
 - [untrusted](https://github.com/AlexNisnevich/untrusted) - 一款为极客和开发人员设计的独特益智游戏，通过阅读和编写Javascript来解决游戏中的谜题。 ([演示](http://alexnisnevich.github.io/untrusted/)) `CC-BY-NC-SA-3.0` `Nodejs`
+
+
+### 游戏 - 管理工具和控制面板
+
+**[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
+
+- [GameVault](https://gamevau.lt) - 从您自己的服务器组织、下载和游玩无DRM的游戏，支持元数据丰富和用户友好的界面。 ([演示](https://demo.gamevau.lt), [源代码](https://github.com/Phalcode/gamevault-backend)) `CC-BY-NC-SA-4.0` `Nodejs/Docker`
 
 
 ### 电子商务
@@ -173,9 +181,9 @@
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Axigen](https://www.axigen.com/mail-server/free/) - 面向小型和微型企业、集成项目或测试环境的即插即用的消息解决方案。 `⊘ Proprietary` `Unknown`
-- [Cloud Seeder](https://ipv6.rs/cloudseeder/) - Cloud Seeder 是一个一键服务器设备部署和维护套件，支持 Windows、MacOS 和 Linux。 ([源代码](https://github.com/ipv6rslimited/cloudseeder)) `⊘ Proprietary` `Go`
+- [Cloud Seeder](https://ipv6.rs/cloudseeder/) - 一键式服务器设备部署和维护套件，支持 Windows、MacOS 和 Linux。 ([源代码](https://github.com/ipv6rslimited/cloudseeder)) `⊘ Proprietary` `Go`
 - [Cloudron](https://www.cloudron.io/) - 开放核心软件，让您轻松自托管Web应用程序在您的服务器上。 ([演示](https://my.demo.cloudron.io/), [源代码](https://git.cloudron.io/groups/cloudron)) `⊘ Proprietary` `Nodejs/Docker`
-- [Cosmos](https://cosmos-cloud.io/) - Cosmos是一个自托管平台，可安全运行具有内置隐私功能的服务器应用程序。它充当应用程序的安全网关和服务器管理器。 ([源代码](https://github.com/azukaar/cosmos-Server)) `Apache-2.0/Commons-Clause` `Docker/Go`
+- [Cosmos](https://cosmos-cloud.io/) - 安全运行服务器应用程序并内置隐私功能。它作为应用程序的安全网关和服务器管理器。 ([源代码](https://github.com/azukaar/cosmos-Server)) `Apache-2.0/Commons-Clause` `Docker/Go`
 - [Easypanel](https://easypanel.io) - 由 Docker 驱动的现代服务器控制面板。 `⊘ Proprietary` `Docker`
 - [Poste.io](https://poste.io) - 用于电子邮件服务器的全功能解决方案。采用最新的反垃圾邮件方法，包括Webmail和简便的管理。提供免费层级。 ([演示](https://poste.io/demo)) `⊘ Proprietary` `Unknown`
 - [Umbrel](https://umbrel.com/) - 一个漂亮的自托管个人服务器操作系统。可安装在Raspberry Pi 4或Ubuntu/Debian上。 ([源代码](https://github.com/getumbrel/umbrel)) `⊘ Proprietary` `Nodejs/Docker`
@@ -186,7 +194,7 @@
 
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
-- [Akaunting](https://akaunting.com/) - Akaunting 是一款免费、在线且开源的会计软件，专为小企业和自由职业者设计。 ([源代码](https://github.com/akaunting/akaunting)) `BUSL-1.1` `PHP`
+- [Akaunting](https://akaunting.com/) - 为小型企业和自由职业者设计的会计软件。 ([源代码](https://github.com/akaunting/akaunting)) `BUSL-1.1` `PHP`
 - [Pancake](https://www.pancakeapp.com/) - 在线发票、项目管理、时间跟踪和提案软件。 `⊘ Proprietary` `PHP`
 
 
@@ -195,7 +203,7 @@
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Composio](https://composio.dev/) `⚠` - 面向 AI 代理和大型语言模型（LLM）的集成平台，支持 250 多个应用和自定义工具。 ([源代码](https://github.com/ComposioHQ/composio)) `Elastic-2.0` `Python`
-- [Hook0](https://www.hook0.com) - 一个 Webhooks 作为服务（WaaS），使在线产品可以轻松提供 Webhooks 功能。每月免费分发最多 3,000 个事件，保留历史记录 7 天。 ([源代码](https://gitlab.com/hook0/hook0)) `SSPL-1.0` `Rust/Nodejs/Docker`
+- [Hook0](https://www.hook0.com) - Webhooks 即服务（WaaS），让在线产品轻松提供 Webhooks。免费版每月可分发多达 3,000 个事件，历史记录保留 7 天。 ([源代码](https://gitlab.com/hook0/hook0)) `SSPL-1.0` `Rust/Nodejs/Docker`
 
 
 ### 软件开发 - IDE 和工具
@@ -231,7 +239,7 @@
 
 - [92five](https://92fiveapp.com/) - 自托管的项目管理应用。 `⊘ Proprietary` `PHP`
 - [Active Collab](https://activecollab.com/) - 项目管理。 `⊘ Proprietary` `PHP`
-- [BitBucket Server](https://www.atlassian.com/software/bitbucket/enterprise/data-center) - 与GitLab类似的企业级Git解决方案。 `⊘ Proprietary` `Java`
+- [BitBucket Server](https://www.atlassian.com/software/bitbucket/enterprise/data-center) - 企业级 Git 解决方案（GitLab 的替代品）。 `⊘ Proprietary` `Java`
 - [Buddy Enterprise](https://buddy.works/) - Git 和持续集成/交付平台。 `⊘ Proprietary` `Nodejs/Java`
 - [Crucible](https://www.atlassian.com/software/crucible) - 同行代码审查应用程序。 `⊘ Proprietary` `Java`
 - [Kanban Tool](https://kanbantool.com/kanban-tool-on-site) - 具有时间跟踪功能的高级看板工具。 `⊘ Proprietary` `Ruby`
@@ -258,10 +266,18 @@
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Chaskiq](https://chaskiq.io) - 全功能的在线聊天、帮助中心和CRM，作为Intercom和Drift、Crisp等的替代方案。 ([源代码](https://github.com/chaskiq/chaskiq)) `AGPL-3.0/Commons-Clause` `Ruby`
+- [Chatwoot](https://www.chatwoot.com) - 客户沟通平台（Intercom 和 Zendesk 的替代品）。 ([源代码](https://github.com/chatwoot/chatwoot)) `⊘ Proprietary` `Ruby/Docker/K8S`
 - [Groupboard](https://www.groupboard.com/products/) - 在线白板、音频/视频会议、屏幕共享、共享代码编辑和可选的会话录制/回放。 `⊘ Proprietary` `Unknown`
 - [PrivMX WebMail](https://privmx.com) - 替代性的私有邮件系统 - 基于Web，通过设计端到端加密，自托管，去中心化，使用独立的PKI。易于安装和管理，免费软件，开源。 `⊘ Proprietary` `PHP`
 - [Virola Messenger](https://virola.io/) - 私聊和群聊工具，提供私聊和群聊室、持续的语音和视频会议、文件共享、问题跟踪和集成的任务看板。是Slack等工具的替代品。 `⊘ Proprietary` `C++`
 - [WorkAdventure](https://workadventu.re) - 以16位RPG视频游戏的形式呈现的虚拟办公/虚拟会议应用。 ([演示](https://play.staging.workadventu.re/@/tcm/workadventure/wa-village), [源代码](https://github.com/thecodingmachine/workadventure/)) `AGPL-3.0/Commons-Clause` `Docker`
+
+
+### 通信 - 电子邮件 - 完整解决方案
+
+**[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Forward Email](https://forwardemail.net) - 面向所有人的注重隐私加密邮件服务。集 Gmail、Mailchimp、Sendgrid 于一体的解决方案替代品。 ([源代码](https://github.com/forwardemail/forwardemail.net)) `BUSL-1.1/MPL-2.0` `Nodejs/Docker`
 
 
 ### 通信 - 电子邮件 - 邮件列表和通讯
@@ -275,7 +291,7 @@
 
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
-- [TrueConf](https://trueconf.com/products/server/video-conferencing-server.html) - 基于先进架构的企业通信平台，支持 UltraHD 视频会议，内置个人和群聊信使，免费版支持最多 1,000 名用户。 `⊘ Proprietary` `Docker/deb`
+- [TrueConf](https://trueconf.com/products/tcsf/trueconf-server-free.html) - 基于先进架构的企业通信平台，支持 UltraHD 视频会议，内置个人和群聊信使，免费版支持最多 1,000 名用户。 `⊘ Proprietary` `Docker/deb`
 
 
 ### 食谱管理
