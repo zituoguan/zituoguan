@@ -1185,7 +1185,7 @@ _相关: [游戏](#游戏)_
 - [auto-mcs](https://www.auto-mcs.com) - 跨平台的 Minecraft 服务器管理器。 ([源代码](https://github.com/macarooni-man/auto-mcs)) `AGPL-3.0` `Python`
 - [Crafty Controller](https://craftycontrol.com/) - 一个 Minecraft 启动器和管理器，允许用户通过用户友好的界面启动和管理 Minecraft 服务器。 ([源代码](https://gitlab.com/crafty-controller/crafty-4)) `GPL-3.0` `Docker/Python`
 - [EasyWI](https://easy-wi.com) - Easy-Wi 是一个 Web 界面，允许您管理服务器守护程序，如游戏服务器。此外，它为您提供了一个包括全自动游戏和语音服务器租赁服务的 CMS。 ([源代码](https://github.com/easy-wi/developer/)) `GPL-3.0` `PHP/Shell`
-- [Gaseous Server](https://github.com/gaseous-project/gaseous-server) `⚠` - 游戏 ROM 管理器，内置基于 Web 的模拟器，使用多个来源识别并提供元数据。 ([源代码](https://github.com/gaseous-project/gaseous-serv)) `AGPL-3.0` `Docker/.NET`
+- [Gaseous Server](https://github.com/gaseous-project/gaseous-server) `⚠` - 游戏 ROM 管理器，内置基于 Web 的模拟器，使用多个来源识别并提供元数据。 `AGPL-3.0` `Docker/.NET`
 - [Kubek](https://kubek.seeeroy.ru) - 用于Minecraft服务器的Web管理面板。 ([源代码](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
 - [Lancache](https://lancache.net) `⚠` - 简化的局域网派对游戏缓存工具。 ([源代码](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
 - [LinuxGSM](https://linuxgsm.com/) - Linux下专用游戏服务器的部署和管理的命令行工具：支持超过120种游戏。 ([源代码](https://github.com/GameServerManagers/LinuxGSM)) `MIT` `Shell`
@@ -1959,7 +1959,6 @@ _相关: [工单](#工单), [任务管理和待办清单](#任务管理和待办
 - [Rocket.Chat](https://rocket.chat/) - 与 Gitter.im 或 Slack 类似的团队聊天解决方案。 ([源代码](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs/Docker/K8S`
 - [SAMA](https://samacloud.io) - 下一代自托管聊天服务器和客户端。 ([演示](https://app.samacloud.io/demo), [源代码](https://github.com/SAMA-Communications/sama-server), [客户端](https://github.com/SAMA-Communications/sama-client)) `GPL-3.0` `Nodejs/Docker`
 - [Screego](https://screego.net) - Screego 是一个简单的工具，可以通过 Web 浏览器快速分享您的屏幕给一个或多个人。 ([演示](https://app.screego.net/), [源代码](https://github.com/screego/server)) `GPL-3.0` `Docker/Go`
-- [Screensy](https://github.com/screensy/screensy) - 一种简单的点对点屏幕共享解决方案，使用 WebRTC 进行屏幕共享。 ([演示](https://screensy.marijn.it/)) `GPL-3.0` `Nodejs/Docker`
 - [Shhh](https://github.com/smallwat3r/shhh) - 将秘密信息从电子邮件或聊天记录中保密，使用带有密码和过期日期的安全链接进行共享。 `MIT` `Python`
 - [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) - 最私密和安全的聊天和应用程序平台 - 现在支持双向棘轮端对端加密。 `AGPL-3.0` `Haskell`
 - [Spectrum 2](https://spectrum.im/) - Spectrum 2是一个开源的即时通讯传输工具。它允许用户即使在使用不同的即时通讯网络时也能进行聊天。 ([源代码](https://github.com/SpectrumIM/spectrum2)) `GPL-3.0` `C++`
