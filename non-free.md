@@ -20,6 +20,7 @@
   - [电子商务](#电子商务)
   - [相册](#相册)
   - [知识管理工具](#知识管理工具)
+  - [维基](#维基)
   - [自动化](#自动化)
   - [自托管解决方案](#自托管解决方案)
   - [资金、预算和管理](#资金、预算和管理)
@@ -47,14 +48,14 @@
 
 - [CraftCMS](https://craftcms.com/) - 以内容为先的CMS，旨在为开发人员和内容管理者提供愉快的生活体验。 ([演示](https://craftcms.com/demo), [源代码](https://github.com/craftcms/cms)) `⊘ Proprietary` `PHP`
 - [Kirby](https://getkirby.com/) - 基于文件的CMS。易于设置。易于使用。非常灵活。 ([源代码](https://github.com/getkirby/kirby)) `⊘ Proprietary` `PHP`
-- [October](https://octobercms.com/) - 基于Laravel PHP框架的自托管CMS平台。 ([源代码](https://github.com/octobercms/october)) `⊘ Proprietary` `PHP`
+- [October](https://octobercms.com/) - 基于 Laravel PHP 框架的内容管理系统（CMS）平台。 ([源代码](https://github.com/octobercms/october)) `⊘ Proprietary` `PHP`
 
 
 ### 地图和全球定位系统（GPS）
 
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
-- [MapTiler Server](https://www.maptiler.com/server/) - 用于自托管OpenStreetMap矢量瓦片、卫星图像、自有地理数据和PostGIS数据库数据的软件。 `⊘ Proprietary` `Unknown`
+- [MapTiler Server](https://www.maptiler.com/server/) - 托管 OpenStreetMap 矢量瓦片、卫星图像、自有地理数据以及来自 PostGIS 数据库的数据。 `⊘ Proprietary` `Unknown`
 
 
 ### 工单
@@ -66,7 +67,7 @@
 - [Erxes](https://erxes.io/install/) - 旨在帮助企业吸引更多参与的客户的营销、销售和客户服务平台。 ([源代码](https://github.com/erxes/erxes)) `AGPL-3.0/Commons-Clause` `Docker/Nodejs`
 - [Full Help](https://www.fullhelp.com/en/) - 简单易用的帮助台和知识库软件。自定义品牌、自定义主题、RESTful API、通信渠道、多公司支持、多语言支持等等！每月至少发布1个新版本。 `⊘ Proprietary` `PHP`
 - [JIRA](https://www.atlassian.com/software/jira) - 专业且可扩展的问题跟踪器。 `⊘ Proprietary` `Java`
-- [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - 自托管的帮助台软件 - 简单而强大。 ([演示](https://www.jitbit.com/saas-helpdesk/trial/)) `⊘ Proprietary` `.NET`
+- [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - 帮助台软件 - 简单但强大。 ([演示](https://www.jitbit.com/saas-helpdesk/trial/)) `⊘ Proprietary` `.NET`
 - [SupportPal](https://www.supportpal.com/) - 强大的帮助台软件 - 简单、快速且直观。 ([演示](https://www.supportpal.com/product/demo)) `⊘ Proprietary` `PHP`
 
 
@@ -82,6 +83,7 @@
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Cluster Control](https://severalnines.com/clustercontrol/) - 用监控、负载均衡等功能在几次点击中设置多个数据库。 `⊘ Proprietary` `deb/Ansible/Shell/Docker`
+- [MindsDB](https://mindsdb.com/) - 现有数据库的 AI 层，可让您使用标准查询轻松开发、训练和部署最先进的机器学习模型。 ([源代码](https://github.com/mindsdb/mindsdb)) `Elastic-2.0` `Docker/Python`
 
 
 ### 文件传输和同步
@@ -112,7 +114,7 @@
 
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
-- [Keygen](https://github.com/keygen-sh/keygen-api) - 自托管的软件许可和分发API。 `Elastic-2.0` `Ruby`
+- [Keygen](https://github.com/keygen-sh/keygen-api) - 软件授权和分发 API。 `⊘ Proprietary` `Ruby`
 - [RemoteUtilities](https://www.remoteutilities.com/) - Remote Utilities是用于局域网管理和通过互联网进行远程支持的自托管远程支持软件。 `⊘ Proprietary` `Unknown`
 - [ScreenConnect](https://www.connectwise.com/platform/unified-management/control) - 高速远程支持和远程访问，可立即连接并更快地解决问题。 `⊘ Proprietary` `Unknown`
 
@@ -165,6 +167,13 @@
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Wiznote](https://www.wiz.cn/docker) - 使用文件夹、Markdown、全文搜索和网页收藏支持管理您的文档中的知识。 ([演示](https://www.wiz.cn/), [客户端](https://www.wiz.cn/download.html)) `⊘ Proprietary` `Docker`
+
+
+### 维基
+
+**[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Outline](https://www.getoutline.com/) `⚠` - 为你的团队打造的可扩展维基。 ([源代码](https://github.com/outline/outline)) `BUSL-1.1` `Nodejs/Docker`
 
 
 ### 自动化
