@@ -508,7 +508,6 @@ _另见: [awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap
 - [TileServer GL](https://tileserver.readthedocs.io/) - 使用 GL 样式的矢量和栅格地图。由 Mapbox GL Native 进行服务器端渲染。适用于 Mapbox GL JS、Android、iOS、Leaflet、OpenLayers、通过 WMTS 的 GIS 等的地图切片服务器。 ([源代码](https://github.com/maptiler/tileserver-gl)) `BSD-2-Clause` `Nodejs/Docker`
 - [Traccar](https://www.traccar.org/) - 用于追踪GPS位置的Java应用。支持大量追踪设备和协议，具有Android和iOS应用程序。拥有Web界面，可查看您的行程。 ([演示](https://demo.traccar.org/), [源代码](https://github.com/traccar)) `Apache-2.0` `Java`
 - [wanderer](https://github.com/Flomp/wanderer) - 路径数据库，您可以上传录制的轨迹或创建新轨迹，并添加各种元数据以构建易于搜索的目录。 ([演示](https://demo.wanderer.to)) `AGPL-3.0` `Docker/Go/Nodejs`
-- [μlogger](https://github.com/bfabiszewski/ulogger-server) - 实时收集用户的地理位置，并在网站上显示他们的GPS轨迹。 ([演示](http://ulogger.fabiszewski.net/)) `GPL-3.0` `PHP`
 
 
 ### 备份
