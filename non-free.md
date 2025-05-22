@@ -83,6 +83,7 @@
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Cluster Control](https://severalnines.com/clustercontrol/) - 用监控、负载均衡等功能在几次点击中设置多个数据库。 `⊘ Proprietary` `deb/Ansible/Shell/Docker`
+- [Directus](https://directus.io/) - 一个用于SQL数据库的即时应用和API。Directus为开发人员提供了一个实时的GraphQL+REST API，可包装新的或现有的SQL数据库，并为非技术用户提供了直观的管理应用。 ([源代码](https://github.com/directus/directus)) `BUSL-1.1` `Nodejs/Docker`
 - [MindsDB](https://mindsdb.com/) - 现有数据库的 AI 层，可让您使用标准查询轻松开发、训练和部署最先进的机器学习模型。 ([源代码](https://github.com/mindsdb/mindsdb)) `Elastic-2.0` `Docker/Python`
 
 
