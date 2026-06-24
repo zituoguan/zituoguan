@@ -296,7 +296,7 @@
 
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
-- [92five](https://92fiveapp.com/) - 自托管的项目管理应用。 `⊘ Proprietary` `PHP`
+- [92five](https://github.com/chintanbanugaria/92five) - 自托管的项目管理应用。 `⊘ Proprietary` `PHP`
 - [Active Collab](https://activecollab.com/) - 项目管理。 `⊘ Proprietary` `PHP`
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/enterprise/data-center) - 企业级 Git 解决方案（GitLab 的替代品）。 `⊘ Proprietary` `Java`
 - [Buddy Enterprise](https://buddy.works/) - Git 和持续集成/交付平台。 `⊘ Proprietary` `Node.js/Java`
