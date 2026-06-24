@@ -1071,7 +1071,7 @@ _相关: [协同办公](#协同办公)_
 - [mikochi](https://github.com/zer0tonin/Mikochi) - 浏览远程文件夹，上传文件，删除、重命名、下载并流式传输文件到 VLC/mpv。 `MIT` `Go/Docker/K8S`
 - [miniserve](https://github.com/svenstaro/miniserve) - 用于通过 HTTP 提供文件和目录的命令行工具。 `MIT` `Rust`
 - [ResourceSpace](https://www.resourcespace.com) - 简单、快速且免费的数字资产管理方式。 ([演示](https://www.resourcespace.com/trial), [源代码](https://www.resourcespace.com/svn)) `BSD-4-Clause` `PHP`
-- [slcl](https://gitea.privatedns.org/xavi/slcl) - 简单轻量的 Web 云存储。 ([源代码](https://codeberg.org/xavidcr/slcl)) `AGPL-3.0` `C`
+- [slcl](https://codeberg.org/xavidcr/slcl) - 简单轻量的 Web 云存储。 `AGPL-3.0` `C`
 - [Surfer](https://git.cloudron.io/cloudron/surfer) - 带有 Web 用户界面的简单静态文件服务器，用于管理文件。 `MIT` `Node.js`
 - [TagSpaces](https://www.tagspaces.org/) - TagSpaces 是一款离线、跨平台的文件管理器和组织工具，也可以作为一个笔记应用。该应用的 WebDAV 版本可以安装在 WebDAV 服务器上，如 Nextcloud 或 ownCloud。 ([演示](https://demo.tagspaces.com), [源代码](https://github.com/tagspaces/tagspaces)) `AGPL-3.0` `Node.js`
 - [Tiny File Manager](https://tinyfilemanager.github.io) - PHP 编写的基于 Web 的文件管理器，简单、快速且体积小，只有一个文件。 ([演示](https://tinyfilemanager.github.io/demo/), [源代码](https://github.com/prasathmani/tinyfilemanager)) `GPL-3.0` `PHP`
@@ -1954,7 +1954,7 @@ _相关: [物联网（IoT）](#物联网（iot）), [软件开发 - 持续集成
 - [Dagu](https://docs.dagu.cloud/) - 功能强大的 Cron 替代品，具有 Web UI。它允许您以声明性的 YAML 格式将命令之间的依赖关系定义为有向无环图（DAG）。 ([源代码](https://github.com/dagucloud/dagu)) `GPL-3.0` `Go/Docker`
 - [Discount Bandit](https://discount-bandit.cybrarist.com/) `⚠` - 跟踪多家商店（如 Amazon、Ebay、Walmart 等）的产品价格和库存状态。 ([源代码](https://github.com/Cybrarist/Discount-Bandit)) `GPL-3.0` `PHP/Docker`
 - [Dittofeed](https://www.dittofeed.com) - 全渠道客户互动和消息自动化平台（Braze、Customer.io、Iterable 的替代品）。 ([演示](https://demo.dittofeed.com/dashboard/journeys), [源代码](https://github.com/dittofeed/dittofeed)) `MIT` `Docker`
-- [feedmixer](https://github.com/cristoper/feedmixer) - 一个微型 Web 服务，接收一组 feed URL，并返回一个由每个 feed 最新 n 条条目组成的新 feed（支持返回 Atom、RSS 或 JSON）。 ([演示](https://mretc.net/feedmixer/json?f=https://hnrss.org/newest&f=https://americancynic.net/atom.xml&n=1)) `WTFPL` `Python`
+- [feedmixer](https://github.com/cristoper/feedmixer) - 一个微型 Web 服务，接收一组 feed URL，并返回一个由每个 feed 最新 n 条条目组成的新 feed（支持返回 Atom、RSS 或 JSON）。 `WTFPL` `Python`
 - [flowctl](https://flowctl.net) - 支持审批、远程执行和调度的自助式工作流执行平台。 ([演示](https://demo.flowctl.net), [源代码](https://github.com/cvhariharan/flowctl)) `Apache-2.0` `Go/Docker`
 - [Fredy](https://fredy.orange-coding.net/) `⚠` - 在德国的平台如 ImmoScout24、Immowelt 等上搜索新的公寓、房屋和套房，并通过 Slack、Telegram 等即时将结果发送给您。 ([演示](https://fredy-demo.orange-coding.net), [源代码](https://github.com/orangecoding/fredy)) `Apache-2.0` `Node.js/Docker`
 - [Github Ntfy](https://github.com/BreizhHardware/ntfy_alerts) `⚠` - 当 Docker Hub 或 Github 上有新版本发布时，向 NTFY、Gotify、Discord 或 Slack 发送推送通知。 ([客户端](https://github.com/binwiederhier/ntfy)) `GPL-3.0` `Rust/Docker`
@@ -2561,7 +2561,7 @@ _相关: [工单](#工单), [任务管理和待办清单](#任务管理和待办
 
 简化[电子邮件](https://en.wikipedia.org/wiki/Email)服务器的部署，例如适用于经验不足或急躁的管理员。
 
-- [AnonAddy](https://anonaddy.com) - 用于创建别名的电子邮件转发服务。 ([源代码](https://github.com/anonaddy/anonaddy)) `MIT` `PHP/Docker`
+- [AnonAddy](https://addy.io/) - 用于创建别名的电子邮件转发服务。 ([源代码](https://github.com/anonaddy/anonaddy)) `MIT` `PHP/Docker`
 - [b1gMail](https://www.b1gmail.eu) - 完整的电子邮件解决方案，可在任何具有 PHP 和 MariaDB 的网络空间上运行。它支持 POP3 通配符邮箱，并且如果您运行自己的服务器，还可以与 Postfix 或 b1gMailServer 集成。 ([源代码](https://codeberg.org/b1gMail/b1gMail), [客户端](https://www.b1gmail.eu/en/start/addon-b1gmailserver/)) `GPL-2.0` `PHP`
 - [DebOps](https://docs.debops.org/) - 将基于 Debian 的数据中心装在一个盒子里。一组通用的 Ansible 角色，可用于管理 Debian 或 Ubuntu 主机。 ([源代码](https://github.com/debops/debops)) `GPL-3.0` `Ansible/Python`
 - [docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) - 在容器中运行的生产就绪的全栈但简单的邮件服务器（SMTP、IMAP、LDAP、Antispam、Antivirus等）。仅配置文件，没有 SQL 数据库。 ([源代码](https://github.com/docker-mailserver/docker-mailserver)) `MIT` `Docker`
