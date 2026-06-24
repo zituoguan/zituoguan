@@ -11,12 +11,12 @@
   - [分析](#分析)
   - [地图和全球定位系统（GPS）](#地图和全球定位系统（gps）)
   - [工单](#工单)
+  - [工时记录](#工时记录)
   - [搜索引擎](#搜索引擎)
   - [数据库管理](#数据库管理)
   - [文件传输 - 对象存储和文件服务器](#文件传输---对象存储和文件服务器)
   - [文件传输和同步](#文件传输和同步)
   - [文档管理 - 电子书](#文档管理---电子书)
-  - [时间追踪](#时间追踪)
   - [杂项](#杂项)
   - [流媒体 - 视频流媒体](#流媒体---视频流媒体)
   - [游戏](#游戏)
@@ -24,12 +24,12 @@
   - [生成式人工智能（GenAI）](#生成式人工智能（genai）)
   - [电子商务](#电子商务)
   - [相册](#相册)
-  - [知识管理工具](#知识管理工具)
+  - [知识管理](#知识管理)
   - [维基](#维基)
   - [自动化](#自动化)
   - [自托管解决方案](#自托管解决方案)
   - [虚拟化](#虚拟化)
-  - [资金、预算和管理](#资金、预算和管理)
+  - [财务与预算管理](#财务与预算管理)
   - [软件开发 - API 管理](#软件开发---api-管理)
   - [软件开发 - IDE 和工具](#软件开发---ide-和工具)
   - [软件开发 - 低代码](#软件开发---低代码)
@@ -100,6 +100,13 @@
 - [Telebugs](https://telebugs.com/) - 轻量级错误追踪工具，无需订阅（Sentry 替代品）。 `⊘ Proprietary` `Docker`
 
 
+### 工时记录
+
+**[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Virtual TimeClock](https://www.redcort.com/timeclock) - 强大而易于使用的时间跟踪软件。 ([演示](https://www.redcort.com/timeclock/free-timeclock-software-trial)) `⊘ Proprietary` `Unknown`
+
+
 ### 搜索引擎
 
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
@@ -139,13 +146,6 @@
 
 - [Bookwyrm](https://joinbookwyrm.com/) - Bookwyrm 是一个社交网络，用于追踪阅读、讨论图书、撰写书评，并发现下一本要读的书。 ([源代码](https://github.com/bookwyrm-social/bookwyrm)) `⊘ Proprietary` `Python`
 - [Ubooquity](https://vaemendis.net/ubooquity/) - 用于漫画和电子书库的免费、多用途、轻量级、多平台且安全的家庭服务器。 `⊘ Proprietary` `Java`
-
-
-### 时间追踪
-
-**[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
-
-- [Virtual TimeClock](https://www.redcort.com/timeclock) - 强大而易于使用的时间跟踪软件。 ([演示](https://www.redcort.com/timeclock/free-timeclock-software-trial)) `⊘ Proprietary` `Unknown`
 
 
 ### 杂项
@@ -205,7 +205,7 @@
 - [Single File PHP Gallery](http://sye.dk/sfpg/) - 一个单一的PHP文件构建的Web图库。 `⊘ Proprietary` `PHP`
 
 
-### 知识管理工具
+### 知识管理
 
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
@@ -248,7 +248,7 @@
 - [Vagrant](https://www.vagrantup.com/) - 构建完整开发环境的工具。 ([源代码](https://github.com/hashicorp/vagrant)) `BUSL-1.1` `Ruby`
 
 
-### 资金、预算和管理
+### 财务与预算管理
 
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
