@@ -91,6 +91,7 @@
 
 - [Bugsink](https://www.bugsink.com/) - 实时错误追踪，让您的应用程序所有细节尽在掌握。包含清晰指南，轻松完成设置。 ([源代码](https://github.com/bugsink/bugsink/)) `⊘ Proprietary` `Python/Docker`
 - [Deskpro](https://www.deskpro.com/) - 基于本地的帮助台软件，包括电子邮件、聊天、语音和帮助中心发布。具有完全可见的源代码和API。 `⊘ Proprietary` `Unknown`
+- [EKSO](https://ekso.app) - 帮助台工单系统与项目/问题追踪器。 `⊘ Proprietary` `Docker`
 - [Erxes](https://erxes.io/install/) - 旨在帮助企业吸引更多参与的客户的营销、销售和客户服务平台。 ([源代码](https://github.com/erxes/erxes)) `AGPL-3.0/Commons-Clause` `Docker/Node.js`
 - [Full Help](https://www.fullhelp.com/en/) - 简单易用的帮助台和知识库软件。自定义品牌、自定义主题、RESTful API、通信渠道、多公司支持、多语言支持等等！每月至少发布1个新版本。 `⊘ Proprietary` `PHP`
 - [JIRA](https://www.atlassian.com/software/jira) - 专业且可扩展的问题跟踪器。 `⊘ Proprietary` `Java`
@@ -112,7 +113,7 @@
 
 - [Cluster Control](https://severalnines.com/clustercontrol/) - 用监控、负载均衡等功能在几次点击中设置多个数据库。 `⊘ Proprietary` `deb/Ansible/Shell/Docker`
 - [Directus](https://directus.io/) - 一个用于SQL数据库的即时应用和API。Directus为开发人员提供了一个实时的GraphQL+REST API，可包装新的或现有的SQL数据库，并为非技术用户提供了直观的管理应用。 ([源代码](https://github.com/directus/directus)) `BUSL-1.1` `Node.js/Docker`
-- [MindsDB](https://mindsdb.com/) - 现有数据库的 AI 层，让你能够使用标准查询语句轻松开发、训练和部署最先进的机器学习模型。 ([源代码](https://github.com/mindsdb/mindsdb)) `Elastic-2.0` `Docker/Python`
+- [MindsDB](https://mindsdb.com/) - 现有数据库的 AI 层，让你能够使用标准查询语句轻松开发、训练和部署最先进的机器学习模型。 ([源代码](https://github.com/mindsdb/minds)) `Elastic-2.0` `Docker/Python`
 - [NocoDB](https://www.nocodb.com/) - 无代码平台，可将任何数据库转换为智能电子表格（Airtable 和 Smartsheet 的替代品）。 ([源代码](https://github.com/nocodb/nocodb)) `SUL-1.0` `Node.js/Docker`
 
 
@@ -171,7 +172,6 @@
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Cubiks-2048](https://github.com/Kshitij-Banerjee/Cubiks-2048) - 2048游戏的3D克隆。 ([演示](https://kshitij-banerjee.github.io/Cubiks-2048/)) `CC-BY-NC-4.0` `JavaScript`
-- [untrusted](https://github.com/AlexNisnevich/untrusted) - 一款为极客和开发人员设计的独特益智游戏，通过阅读和编写JavaScript来解决游戏中的谜题。 ([演示](http://alexnisnevich.github.io/untrusted/)) `CC-BY-NC-SA-3.0` `Node.js`
 
 
 ### 游戏 - 管理工具和控制面板
@@ -233,7 +233,6 @@
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Axigen](https://www.axigen.com/mail-server/free/) - 面向小型和微型企业、集成项目或测试环境的即插即用的消息解决方案。 `⊘ Proprietary` `Unknown`
-- [Cloud Seeder](https://ipv6.rs/cloudseeder/) - 一键式服务器设备部署和维护套件，支持 Windows、MacOS 和 Linux。 ([源代码](https://github.com/ipv6rslimited/cloudseeder)) `⊘ Proprietary` `Go`
 - [Cloudron](https://www.cloudron.io/) - 开放核心软件，让您轻松自托管Web应用程序在您的服务器上。 ([演示](https://my.demo.cloudron.io/), [源代码](https://git.cloudron.io/groups/cloudron)) `⊘ Proprietary` `Node.js/Docker`
 - [Cosmos](https://cosmos-cloud.io/) - 安全运行服务器应用程序并内置隐私功能。它作为应用程序的安全网关和服务器管理器。 ([源代码](https://github.com/azukaar/cosmos-Server)) `Apache-2.0/Commons-Clause` `Docker/Go`
 - [Easypanel](https://easypanel.io) - 由 Docker 驱动的现代服务器控制面板。 `⊘ Proprietary` `Docker`
@@ -254,6 +253,7 @@
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Akaunting](https://akaunting.com/) - 为小型企业和自由职业者设计的会计软件。 ([源代码](https://github.com/akaunting/akaunting)) `BUSL-1.1` `PHP`
+- [Assets](https://github.com/venil7/assets) `⚠` - 个人净资产与投资追踪工具。 `⊘ Proprietary` `Docker`
 - [Invoice Ninja](https://www.invoiceninja.org/) - 在线向客户开具发票的强大工具。 ([演示](https://app.invoiceninja.com/invoices/create), [源代码](https://github.com/invoiceninja/invoiceninja)) `Elastic-2.0` `PHP/Docker/K8S`
 - [Pancake](https://www.pancakeapp.com/) - 在线发票、项目管理、时间跟踪和提案软件。 `⊘ Proprietary` `PHP`
 
