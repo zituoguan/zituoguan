@@ -672,7 +672,6 @@ _相关: [数据库管理](#数据库管理), [个人仪表板](#个人仪表板
 - [Etherpad](https://etherpad.org/) - 高度可定制的在线编辑器，支持实时协作编辑。 ([演示](https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60), [源代码](https://github.com/ether/etherpad)) `Apache-2.0` `Node.js/Docker`
 - [Grist](https://getgrist.com/) - 新一代电子表格，具有关系型结构、基于公式的访问控制和可移植的自包含格式（Airtable 的替代品）。 ([演示](https://docs.getgrist.com), [源代码](https://github.com/gristlabs/grist-core)) `Apache-2.0` `Node.js/Python/Docker`
 - [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - 办公套件，使您能够在一个地方管理文档、项目、团队和客户关系。 ([源代码](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Node.js/Docker`
-- [Overleaf](https://www.overleaf.com) - 在线实时协作 LaTeX 编辑器。支持多人协同编辑、版本控制和丰富的 LaTeX 模板库。 ([源代码](https://github.com/overleaf/overleaf)) `AGPL-3.0` `Docker/Node.js`
 
 
 ### 包管理
@@ -1919,6 +1918,7 @@ _相关: [维基](#维基)_
 - [Memos](https://usememos.com/) - 基于 SQLite 数据库文件运行的知识库。 ([演示](https://demo.usememos.com/explore), [源代码](https://github.com/usememos/memos)) `MIT` `Docker/Go`
 - [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - 极简的基于 Web 的 Markdown 笔记应用。 ([源代码](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
 - [Notesnook](https://notesnook.com) - 开源端到端加密笔记应用（Evernote 替代品）。支持 Markdown、标签、组织和跨平台同步。 ([源代码](https://github.com/streetwriters/notesnook)) `GPL-3.0` `TypeScript/Docker`
+- [Overleaf](https://www.overleaf.com/) - 基于Web的协作LaTeX编辑器。 ([源代码](https://github.com/overleaf/overleaf)) `AGPL-3.0` `Ruby`
 - [Plainpad](https://alextselegidis.com/get/plainpad/) - 面向云端的现代笔记应用，充分利用了渐进式 Web 应用技术的优势特性。 ([演示](https://alextselegidis.com/try/plainpad/), [源代码](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
 - [plumio](https://plumio.app/) - 支持实时预览、文档加密、多用户和多组织的 Markdown 笔记应用。 ([演示](https://demo.plumio.app/homepage), [源代码](https://github.com/albertasaftei/plumio)) `AGPL-3.0` `Node.js/Docker`
 - [SilverBullet](https://silverbullet.md/) - 为黑客思维人群优化的笔记应用程序。 ([演示](https://play.silverbullet.md/), [源代码](https://github.com/silverbulletmd/silverbullet), [客户端](https://silverbullet.md/Libraries)) `MIT` `Docker/Deno`
