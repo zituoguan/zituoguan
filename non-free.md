@@ -234,7 +234,6 @@
 
 - [Axigen](https://www.axigen.com/mail-server/free/) - 面向小型和微型企业、集成项目或测试环境的即插即用的消息解决方案。 `⊘ Proprietary` `Unknown`
 - [Cloudron](https://www.cloudron.io/) - 开放核心软件，让您轻松自托管Web应用程序在您的服务器上。 ([演示](https://my.demo.cloudron.io/), [源代码](https://git.cloudron.io/groups/cloudron)) `⊘ Proprietary` `Node.js/Docker`
-- [Cosmos](https://cosmos-cloud.io/) - 安全运行服务器应用程序并内置隐私功能。它作为应用程序的安全网关和服务器管理器。 ([源代码](https://github.com/azukaar/cosmos-Server)) `Apache-2.0/Commons-Clause` `Docker/Go`
 - [Easypanel](https://easypanel.io) - 由 Docker 驱动的现代服务器控制面板。 `⊘ Proprietary` `Docker`
 - [Poste.io](https://poste.io) - 用于电子邮件服务器的全功能解决方案。采用最新的反垃圾邮件方法，包括Webmail和简便的管理。提供免费层级。 ([演示](https://poste.io/demo)) `⊘ Proprietary` `Unknown`
 - [Umbrel](https://umbrel.com/) - 一个漂亮的自托管个人服务器操作系统。可安装在Raspberry Pi 4或Ubuntu/Debian上。 ([源代码](https://github.com/getumbrel/umbrel)) `⊘ Proprietary` `Node.js/Docker`
