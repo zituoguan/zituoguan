@@ -2306,6 +2306,7 @@ _相关: [软件开发 - 低代码](#软件开发---低代码)_
 - [Atheos](https://www.atheos.io) - 一个基于Web的 IDE 框架，占用空间小、要求最低，是 Codiad 的延续。 ([源代码](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
 - [code-server](https://github.com/coder/code-server) - 在浏览器中运行的VS Code，托管在远程服务器上。 `MIT` `Node.js/Docker`
 - [Coder](https://coder.com/) - 在您自己的基础设施上进行远程开发机器。 ([源代码](https://github.com/coder/coder)) `AGPL-3.0` `Go/Docker/K8S/deb`
+- [Deep Code](https://deepcode.vegamo.cn/) - 专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制、Agent Skills 以及 MCP 集成。 ([源代码](https://github.com/lessweb/deepcode-cli)) `MIT` `TypeScript/Node.js`
 - [Eclipse Che](https://www.eclipse.org/che/) - 开源工作空间服务器和云IDE。 ([源代码](https://github.com/eclipse-che/che)) `EPL-1.0` `Docker/Java`
 - [Herdr](https://herdr.dev) - 在终端中运行和管理多个AI编码代理的终端多路复用器。每个代理拥有独立终端窗口，支持持久化会话、SSH远程连接和工作区管理。 ([源代码](https://github.com/ogulcancelik/herdr)) `AGPL-3.0` `Rust`
 - [Judge0 CE](https://judge0.com) - 用于编译和运行源代码的 API。 ([源代码](https://github.com/judge0/judge0)) `GPL-3.0` `Docker`
