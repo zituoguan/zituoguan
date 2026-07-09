@@ -15,6 +15,12 @@
 
 ## 目录
 
+  - [AI 上下文工程](#ai-上下文工程)
+  - [AI 个人助手](#ai-个人助手)
+  - [AI 个性化](#ai-个性化)
+  - [AI 智能体](#ai-智能体)
+  - [AI 第二大脑](#ai-第二大脑)
+  - [AI 记忆与持久化](#ai-记忆与持久化)
   - [ChatOps](#chatops)
   - [DNS](#dns)
   - [DNS - 控制面板与域名管理](#dns---控制面板与域名管理)
@@ -148,6 +154,121 @@
 --------------------
 
 ## 软件
+
+### AI 上下文工程
+
+**[`^        返回顶部        ^`](#Awesome-Selfhosted)**
+
+管理和优化 AI 智能体上下文信息的工具与框架，包括上下文数据库、上下文管理器和个性化上下文引擎。
+
+- [Agentic Context Engine](https://www.kayba.ai) - 让 AI 智能体从经验中学习。通过上下文管理实现智能体的持续改进和知识积累。 ([源代码](https://github.com/kayba-ai/agentic-context-engine)) `Apache-2.0` `Python/Docker`
+- [Alive](https://alivecontext.com) - Claude Code 的个人上下文管理器，持久化你的工作上下文、偏好和学习历程。 ([源代码](https://github.com/alivecontext/alive)) `MIT` `Python/Docker`
+- [Context Portal](https://github.com/GreatScottyMac/context-portal) - 基于 MCP 的记忆库服务，构建项目级知识图谱来增强 AI 助手的能力和上下文理解。 `Apache-2.0` `Python/Docker`
+- [OpenContext](https://0xranx.github.io/OpenContext) - 个人上下文存储，为 AI 智能体提供持久化上下文管理，支持内置技能和桌面 GUI。 ([源代码](https://github.com/0xranx/OpenContext)) `MIT` `Node.js/Docker`
+- [OpenViking](https://openviking.ai) - 自进化上下文数据库，统一 AI 智能体的记忆、知识 RAG 和技能，通过文件系统范式管理智能体上下文。 ([源代码](https://github.com/volcengine/OpenViking)) `AGPL-3.0` `Python/Docker`
+- [Personal Context Manager](https://github.com/mikhashev/personal-context-manager) - 本地上下文技术，为 AI 个性化提供持久的个人上下文存储和管理。 `MIT` `Docker`
+
+
+### AI 个人助手
+
+**[`^        返回顶部        ^`](#Awesome-Selfhosted)**
+
+个人 AI 助手与 AI 操作系统，提供对话交互、任务自动化、跨平台集成和个性化服务。
+
+- [DeepChat](https://deepchat.thinkinai.xyz) - 连接强大 AI 到个人世界的智能助手，支持多模型、MCP 插件和跨平台桌面运行，具备智能体技能和个性化配置。 ([源代码](https://github.com/ThinkInAIXYZ/deepchat)) `Apache-2.0` `Docker`
+- [Inbox Zero](https://getinboxzero.com) - AI 个人邮件助手，帮助你快速清空收件箱。支持自动分类、批量处理、模板回复等。 ([源代码](https://github.com/elie222/inbox-zero)) `AGPL-3.0` `TypeScript/Docker`
+- [LifeOS](https://ourlifeos.ai) - 通用 AI 增强平台。捕获你的身份、目标和上下文，通过了解你的 AI 辅助完成编码、创作、商业等任务。 ([源代码](https://github.com/danielmiessler/LifeOS)) `MIT` `TypeScript/Docker`
+- [Nanobot](https://nanobot.wiki) - 超轻量个人 AI 智能体，支持 WebUI、Telegram、Discord 等聊天渠道，具备工具调用、记忆、MCP 和自动化工作流。 ([源代码](https://github.com/HKUDS/nanobot)) `MIT` `Python/Docker`
+- [OpenClaw](https://openclaw.ai) - 个人 AI 助手，可运行在自有设备上。通过 WhatsApp、Telegram 等聊天应用管理邮件、日历、航班签到等任务。 ([源代码](https://github.com/openclaw/openclaw)) `MIT` `TypeScript/Node.js/Docker`
+- [OpenHanako](https://github.com/liliMozi/openhanako) - 具备记忆、个性和自主能力的个人 AI 智能体，基于 Electron 构建，支持多平台桌面运行和 MCP 扩展。 `Apache-2.0` `Docker`
+- [OpenHuman](https://tinyhumans.ai/openhuman) - 个人 AI 超级智能，构建本地优先的生活记忆，协调智能体完成任务，注重隐私和简洁。 ([源代码](https://github.com/tinyhumansai/openhuman)) `GPL-3.0` `Rust/Docker`
+- [Second Me](https://home.second.me) - 训练你的 AI 分身，学习你的思维模式和知识体系，辅助决策并拓展你的能力边界。 ([源代码](https://github.com/mindverse/Second-Me)) `Apache-2.0` `Python/Docker`
+- [ZeroClaw](https://www.zeroclawlabs.ai) - 快速小巧的全自主 AI 个人助理基础设施，支持 30+ 通信渠道和 20+ LLM 提供商，单二进制部署。 ([源代码](https://github.com/zeroclaw-labs/zeroclaw)) `Apache-2.0/MIT` `Rust/Docker`
+
+
+### AI 个性化
+
+**[`^        返回顶部        ^`](#Awesome-Selfhosted)**
+
+让 AI 理解和适应用户的个人化工具，涵盖用户画像建模、个性化微调和跨平台数据整合。
+
+- [AI Data Extraction](https://github.com/0xSero/ai-data-extraction) - 从 Cursor、Codex、Claude Code、Windsurf、Trae 等工具中提取你的个人 AI 对话历史数据。 `MIT` `Python/Docker`
+- [CatchMe](https://github.com/HKUDS/CatchMe) - 让 AI 智能体真正了解用户。通过屏幕记录和检索系统捕捉用户行为，实现深度个性化交互。 `Apache-2.0` `Python/Docker`
+- [Cura](https://cura.heyshreyas.com) - 个人 AI 健康助手，管理用药提醒、健康追踪和个性化健康建议。 ([源代码](https://github.com/Shreyas-29/cura)) `MIT` `TypeScript/Docker`
+- [Open MedKit](https://open-medkit.vercel.app) - AI 驱动的个人药品管理器，帮助追踪用药计划、剂量和健康数据。 ([源代码](https://github.com/MonoYan/open-medkit)) `MIT` `TypeScript/Docker`
+- [PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) - 基于 MCP 的统一个人数据中枢，让 AI 助手访问 Steam、YouTube、Bilibili 等平台的用户数据。 `MIT` `Python/Docker`
+
+
+### AI 智能体
+
+**[`^        返回顶部        ^`](#Awesome-Selfhosted)**
+
+AI 智能体框架、自动化平台和自主工作流引擎，支持任务编排、工具调用和持续学习。
+
+- [Aider](https://aider.chat) - 终端中的 AI 结对编程助手，支持 Git 感知、多文件编辑和多种 LLM 提供商。 ([源代码](https://github.com/Aider-AI/aider)) `Apache-2.0` `Python/Docker`
+- [Cline](https://cline.bot) - 自主编码智能体，可作为 SDK、IDE 扩展或 CLI 助手运行，支持代码库上下文理解和工具调用。 ([源代码](https://github.com/cline/cline)) `Apache-2.0` `TypeScript/Docker`
+- [Continue](https://continue.dev) - 开源编码智能体，提供 IDE 内 AI 代码补全、对话和代码库上下文理解。 ([源代码](https://github.com/continuedev/continue)) `Apache-2.0` `TypeScript/Docker`
+- [Crucix](https://crucix.live) - 个人情报智能体，监控多个数据源（网页、社交媒体等）并在内容变化时主动通知你。 ([源代码](https://github.com/calesthio/Crucix)) `AGPL-3.0` `Node.js/Docker`
+- [GSV](https://gsv.space) - 个人 AI 计算机。跨所有设备的分布式操作系统，统一智能体运行环境。 ([源代码](https://github.com/deathbyknowledge/gsv)) `MIT` `TypeScript/Docker`
+- [Hermes Agent](https://hermes-agent.nousresearch.com) - 可自我进化的 AI 代理，具备内置学习循环。通过 Telegram、Discord 等平台交互，支持持久记忆、技能自动创建和定时任务。 ([源代码](https://github.com/nousresearch/hermes-agent)) `MIT` `Python/Docker`
+- [OpenHands](https://openhands.dev) - AI 驱动的软件开发平台，自主编写代码、管理终端、浏览网页并与你协作。 ([源代码](https://github.com/OpenHands/OpenHands)) `MIT` `Python/Docker`
+- [PersonalAgentKit](https://github.com/gbelinsky/PersonalAgentKit) - 培育个人 AI 的种子包。通过持续使用和学习不断进化的个人智能体框架。 `MIT` `Python/Docker`
+- [PraisonAI](https://praison.ai) - 低代码多智能体 AI 框架，支持创建 24/7 自主工作的 AI 员工团队，自动解决复杂任务。 ([源代码](https://github.com/MervinPraison/PraisonAI)) `MIT` `Python/Docker`
+- [ResearchClaw](https://ymx10086.github.io/ResearchClaw) - 个人 AI 研究助手，支持文献综述、笔记记录、实验追踪和论文撰写全流程。 ([源代码](https://github.com/ymx10086/ResearchClaw)) `Apache-2.0` `Python/Docker`
+- [Rowboat](https://www.rowboatlabs.com) - 开源 AI 同事，具备记忆能力，可协作完成任务、管理知识库和自动化工作流程。 ([源代码](https://github.com/rowboatlabs/rowboat)) `Apache-2.0` `TypeScript/Docker`
+- [Understudy](https://understudy-ai.github.io/understudy) - AI 替补演员。观察你的操作，然后在你需要时自动执行重复性任务。 ([源代码](https://github.com/understudy-ai/understudy)) `MIT` `TypeScript/Docker`
+- [Vessel](https://vessel.cartcs.com) - 物理 AI 运行时平台，连接数据流、检测事件、控制设备，支持物联网与自动化场景。 ([源代码](https://github.com/cartesiancs/vessel)) `Apache-2.0` `TypeScript/Docker`
+
+
+### AI 第二大脑
+
+**[`^        返回顶部        ^`](#Awesome-Selfhosted)**
+
+AI 驱动的个人知识管理与第二大脑工具，结合 RAG、语义搜索和智能笔记来扩展个人认知能力。
+
+- [Dcup](https://dcup.dev) - 面向个人知识的高级 RAG 引擎，支持智能检索、知识关联和个性化问答。 ([源代码](https://github.com/Dcup-dev/dcup)) `GPL-3.0` `TypeScript/Docker`
+- [Huntly](https://github.com/lcomplete/huntly) - AI 驱动的个人信息中心，聚合 RSS 订阅、书签收藏和笔记，支持自托管部署和智能检索。 `Apache-2.0` `Docker`
+- [Logseq](https://logseq.com) - 隐私优先的开源知识管理和协作平台，支持双向链接、图谱视图和本地优先存储。 ([源代码](https://github.com/logseq/logseq)) `AGPL-3.0` `Docker`
+- [Notabase](https://notabase.io) - 知识、思想和创意的第二大脑，支持知识图谱、双向链接和 Zettelkasten 笔记法，帮助建立互联的个人知识库。 ([源代码](https://github.com/churichard/notabase)) `AGPL-3.0` `Docker`
+- [OrbitOS](https://github.com/MarsWang42/OrbitOS) - AI 驱动的个人生产力系统，智能编排知识管理与每日任务规划，打造统一的第二大脑。 `MIT` `Docker`
+- [Personal Vault](https://www.personalvault.dev) - 拥有你的个人上下文，让 AI 智能体通过 MCP 协议查询和利用你的知识库。 ([源代码](https://github.com/lovincyrus/personal-vault)) `MIT` `Go/Docker`
+- [PrivateGPT](https://www.privategpt.dev) - 与文档私密对话的 API 层。支持 RAG、技能、工具、MCP 和本地模型，完全保护数据隐私。 ([源代码](https://github.com/zylon-ai/private-gpt)) `Apache-2.0` `Python/Docker`
+- [Quivr](https://quivr.app) - 你的 GenAI 第二大脑。与文档对话，支持多种文件格式和 RAG 检索，可自托管部署。 ([源代码](https://github.com/QuivrHQ/quivr)) `Apache-2.0` `Python/Docker`
+- [Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - Obsidian 插件，为你的第二大脑提供隐私优先的 AI 助手，支持本地 LLM 和语义搜索。 `MIT` `Docker`
+- [Surf](https://deta.surf) - 个人 AI 笔记本。整理文件和网页并自动生成笔记，支持本地优先存储、多模型选择和丰富的媒体类型。 ([源代码](https://github.com/deta/surf)) `Apache-2.0` `Docker`
+
+
+### AI 记忆与持久化
+
+**[`^        返回顶部        ^`](#Awesome-Selfhosted)**
+
+为 AI 智能体提供持久化记忆存储、检索和管理的系统与工具，涵盖基于图、向量和文件的长期记忆方案。
+
+- [A-Mem](https://github.com/agiresearch/A-mem) - 面向 LLM 智能体的智能记忆系统，支持多级记忆组织和上下文感知检索。 `MIT` `Python/Docker`
+- [AutoMem](https://automem.ai) - 图-向量混合记忆服务，为 AI 助手提供持久化关系型记忆，支持多跳关联发现和记忆巩固。 ([源代码](https://github.com/verygoodplugins/automem)) `MIT` `Python/Docker`
+- [Basic Memory](https://basicmemory.com) - 让 AI 拥有持久记忆的本地优先工具。以 Markdown 文件存储知识，支持语义搜索、知识图谱和 MCP 协议，人类与 AI 可共同读写。 ([源代码](https://github.com/basicmachines-co/basic-memory)) `AGPL-3.0` `Python/Docker`
+- [Cognee](https://www.cognee.ai) - 开源 AI 记忆平台，为智能体提供持久化长期记忆，基于知识图谱和混合向量检索。 ([源代码](https://github.com/topoteretes/cognee)) `Apache-2.0` `Python/Docker`
+- [EverOS](https://github.com/EverMind-AI/EverOS) - 为每个 AI 智能体提供便携记忆层。本地优先、Markdown 原生、用户所有、可自我进化。 `Apache-2.0` `Python/Docker`
+- [Graphiti](https://github.com/getzep/graphiti) - 为 AI 智能体构建实时知识图，支持时间感知的关系推理和动态知识更新。 `Apache-2.0` `Python/Docker`
+- [GraphRAG](https://microsoft.github.io/graphrag) - 基于知识图谱的检索增强生成系统，由 LLM 自动提取实体和关系构建可查询的知识图。 ([源代码](https://github.com/microsoft/graphrag)) `MIT` `Python/Docker`
+- [Hindsight](https://hindsight.vectorize.io) - 智能体记忆系统，通过经验积累和模式识别实现持续学习和自我改进。 ([源代码](https://github.com/vectorize-io/hindsight)) `MIT` `Python/Docker`
+- [Letta](https://docs.letta.com) - 具有高级记忆功能的状态型智能体平台。智能体可随时间学习和自我改进，支持 CLI 运行、桌面应用和 Slack 等渠道集成。 ([源代码](https://github.com/letta-ai/letta)) `Apache-2.0` `Python/Docker`
+- [Mem0](https://mem0.ai) - AI 智能体的通用记忆层。自动提取和存储用户偏好、会话上下文与事实信息，支持多级记忆（用户/会话/智能体）和语义检索。 ([源代码](https://github.com/mem0ai/mem0)) `Apache-2.0` `Python/Docker`
+- [MemMachine](https://github.com/MemMachine/MemMachine) - AI 智能体的通用记忆层，提供可扩展、可互操作的记忆存储和检索，支持多种后端。 `Apache-2.0` `Python/Docker`
+- [Memobase](https://memobase.io) - 基于用户画像的长期记忆系统，专为 AI 聊天应用设计。支持结构化画像、事件时间线和批量处理，兼容多种 LLM。 ([源代码](https://github.com/memodb-io/memobase)) `Apache-2.0` `Python/Docker`
+- [MemOS AI](https://github.com/MemTensor/MemOS) - AI 记忆操作系统，为 LLM 和 AI 智能体提供超持久记忆、混合检索和跨任务技能复用。 `Apache-2.0` `TypeScript/Docker`
+- [MemVid](https://github.com/memvid/MemVid) - AI 智能体的记忆层。用单文件无服务器替代复杂 RAG 管线，提供嵌入式记忆存储和检索。 `Apache-2.0` `Rust/Docker`
+- [Nocturne Memory](https://github.com/Dataojitori/nocturne_memory) - 轻量级、可回滚、可视化的长期记忆服务器，专为 MCP 智能体设计，支持记忆时间线浏览。 `MIT` `Python/Docker`
+- [OpenMemory](https://github.com/CaviraOSS/OpenMemory) - 本地持久化记忆存储，兼容 Claude Desktop、GitHub Copilot、Codex 等 LLM 应用，支持 MCP 协议。 `Apache-2.0` `TypeScript/Docker`
+- [OpenRecall](https://github.com/openrecall/openrecall) - 完全开源、隐私优先的记忆回溯工具，定期记录屏幕活动并支持 AI 搜索和检索。 `AGPL-3.0` `Python/Docker`
+- [Pensieve](https://github.com/arkohut/pensieve) - 被动屏幕截图记录工具，提供 OCR 和语义搜索，所有数据本地存储，完全离线运行。 `Apache-2.0` `Python/Docker`
+- [Speaches](https://github.com/speaches-ai/speaches) - OpenAI 兼容的本地语音转文字和文字转语音服务，基于 faster-whisper 实现高性能转录。 `MIT` `Python/Docker`
+- [Supermemory](https://supermemory.ai) - AI 记忆与上下文引擎。从对话中自动提取事实、构建用户画像、处理知识更新与矛盾，支持混合搜索和多种数据源连接器。 ([源代码](https://github.com/supermemoryai/supermemory)) `MIT` `TypeScript/Python/Docker`
+- [Surya](https://github.com/datalab-to/surya) - 现代 OCR 引擎，支持 90+ 语言的文字检测、版面分析和阅读顺序识别。 `Apache-2.0` `Python/Docker`
+- [txtai](https://neuml.github.io/txtai) - 一体化 AI 框架，支持语义搜索、LLM 编排、RAG 和工作流自动化，可嵌入或独立部署。 ([源代码](https://github.com/neuml/txtai)) `Apache-2.0` `Python/Docker`
+- [Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windows 记忆搜索应用，通过小体积屏幕记录和 OCR 实现过去内容的检索与回顾。 `Apache-2.0` `Python/Docker`
+- [Zep](https://www.getzep.com) - AI 智能体的长期记忆层，基于时间知识图构建，支持会话历史、用户画像和语义检索。 ([源代码](https://github.com/getzep/zep)) `Apache-2.0` `Python/Docker`
+
 
 ### ChatOps
 
@@ -2040,7 +2161,6 @@ _相关: [物联网（IoT）](#物联网（iot）), [软件开发 - 持续集成
 - [gocron](https://github.com/flohoss/gocron) - 任务调度器，允许用户通过简单的 YAML 配置文件指定定期任务。 `MIT` `Docker`
 - [Gradle](https://gradle.org/) - 另一种构建自动化系统。 ([源代码](https://github.com/gradle/gradle)) `Apache-2.0` `Groovy/Java`
 - [HandBrake Web](https://github.com/TheNickOfTime/handbrake-web) - 通过 Web 界面在无头设备上使用一个或多个 HandBrake 视频转码器实例。 `AGPL-3.0` `Docker`
-- [Hermes Agent](https://hermes-agent.nousresearch.com) - 可自我进化的 AI 代理，具备内置学习循环。通过 Telegram、Discord 等平台交互，支持持久记忆、技能自动创建和定时任务。 ([源代码](https://github.com/nousresearch/hermes-agent)) `MIT` `Python/Docker`
 - [Huginn](https://github.com/huginn/huginn) - 构建可以为你监控和行动的代理程序。 `MIT` `Ruby`
 - [Kestra](https://kestra.io) - 基于事件驱动的、与语言无关的平台，用于创建、调度和监视工作流。通过代码协调数据管道和任务，如ETL和ELT。 ([源代码](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
 - [Kibitzr](https://kibitzr.github.io) - 轻量级个人网络助手，具有强大的集成功能。 ([源代码](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
@@ -2051,7 +2171,6 @@ _相关: [物联网（IoT）](#物联网（iot）), [软件开发 - 持续集成
 - [Mylar3](https://mylarcomics.com/) - 自动漫画书(cbr/cbz)下载程序，用于NZB和种子下载。 ([源代码](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
 - [OliveTin](https://www.olivetin.app/) - 用于运行 Linux Shell 命令的 Web 界面。 ([源代码](https://github.com/OliveTin/OliveTin)) `AGPL-3.0` `Go`
 - [OpenBolt](https://voxpupuli.org/openvox/) - 编排工具，用于运行编排工作流或一次性任务/脚本，以自动化节点的配置和管理。是最后一个开源版本的 [Puppet Bolt](https://help.puppet.com/bolt/current/topics/bolt.htm) 的社区分支。 ([源代码](https://github.com/OpenVoxProject/openbolt)) `Apache-2.0` `Ruby`
-- [OpenClaw](https://openclaw.ai) - 个人 AI 助手，可运行在自有设备上。通过 WhatsApp、Telegram 等聊天应用管理邮件、日历、航班签到等任务。 ([源代码](https://github.com/openclaw/openclaw)) `MIT` `TypeScript/Node.js/Docker`
 - [pyLoad](https://pyload.net/) - 一款轻量、可定制且可远程管理的下载器，用于支持1-click-hosting网站，如rapidshare.com或uploaded.to。 ([源代码](https://github.com/pyload/pyload)) `AGPL-3.0` `Python`
 - [Rake](https://ruby.github.io/rake/) - 类似于 Make 的构建自动化工具，用 Ruby 编写并可扩展。 ([源代码](https://github.com/ruby/rake)) `MIT` `Ruby`
 - [StackStorm](https://stackstorm.com) - StackStorm（又名_Ops的IFTTT_）是面向事件的自动化解决方案，用于自动修复、安全响应、故障排除、部署等。包括规则引擎、工作流、160个集成包，具有6000多个操作和ChatOps。 ([源代码](https://github.com/StackStorm/st2)) `Apache-2.0` `Python`
