@@ -406,6 +406,7 @@ IT [资产管理](https://en.wikipedia.org/wiki/Asset_management) 软件。
 - [clink](https://git.crueter.xyz/crueter/clink) - 一个超轻量的链接缩短服务，采用纯 C 语言编写，专注于小型可执行文件、可移植性和易配置性。 ([演示](https://short.crueter.xyz)) `AGPL-3.0` `C`
 - [Flink](https://gitlab.com/rtraceio/web/flink) - 创建二维码、可嵌入的链接预览以及网站的元数据抓取/爬取。 ([演示](https://flink.is)) `MIT` `Docker`
 - [Kutt](https://kutt.to) - 现代化短链接服务，支持自定义域名和自定义短链。 ([演示](https://kutt.to), [源代码](https://github.com/thedevs-network/kutt)) `MIT` `Node.js/Docker`
+- [nah.pet](https://github.com/heyitswit/nah.pet) - 轻量简单的网址缩短服务，可作为 TinyURL、YOURLS、Shlink 的替代品。 `MIT` `Node.js/Docker`
 - [rs-short](https://git.42l.fr/42l/rs-short) - 用 Rust 编写的轻量级短链接服务，具备缓存、防垃圾机器人和钓鱼检测等功能。 ([演示](https://s.42l.fr/)) `MPL-2.0` `Rust`
 - [Shlink](https://shlink.io) - 具有 REST API 和命令行界面的 URL 缩短服务。包括官方的渐进式 Web 应用和 Docker 镜像。 ([源代码](https://github.com/shlinkio/shlink), [客户端](https://shlink.io/apps)) `MIT` `PHP/Docker`
 - [Simple-URL-Shortener](https://github.com/azlux/Simple-URL-Shortener) - KISS URL缩短服务，支持公共或私有（需要帐户）。简约轻便，无依赖。 ([演示](https://u.azlux.fr)) `MIT` `PHP`
@@ -755,6 +756,7 @@ _相关: [数据库管理](#数据库管理), [个人仪表板](#个人仪表板
 - [Netron](https://netron.app/) - 神经网络和机器学习模型的可视化工具。 ([源代码](https://github.com/lutzroeder/netron)) `MIT` `Python/Node.js`
 - [Offen](https://www.offen.dev/) - 公平、轻量级和开放的Web分析工具。在用户完全访问其数据的同时获取见解。 ([演示](https://www.offen.dev/try-demo/), [源代码](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
 - [Plausible Analytics](https://plausible.io/) - 简单、轻量（小于 1 KB）且注重隐私的 Web 分析工具。 ([源代码](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
+- [Plausible CE](https://plausible.io) - 隐私友好的网站统计分析平台，轻量、无 Cookie，无需繁琐的 GDPR 横幅。自托管版本完全免费。 ([源代码](https://github.com/plausible/analytics)) `AGPL-3.0` `Docker/Elixir`
 - [PostHog](https://posthog.com) - 可自托管的产品分析、会话录制、功能开关与 A/B 测试平台（Mixpanel、Amplitude、Heap、HotJar、Optimizely 的替代方案）。 ([源代码](https://github.com/posthog/posthog)) `MIT` `Python`
 - [Postiz](https://postiz.com) `⚠` - 安排帖子发布，跟踪内容的表现，并在一个平台上管理所有社交媒体账户（Buffer、Hootsuite、Sprout Social 的替代品）。 ([源代码](https://github.com/gitroomhq/postiz-app)) `AGPL-3.0` `Docker`
 - [Prisme Analytics](https://www.prismeanalytics.com) - 基于 Grafana、以隐私为核心的渐进式分析服务。 ([源代码](https://github.com/prismelabs/analytics)) `AGPL-3.0/MIT` `Docker`
@@ -900,7 +902,6 @@ _另见: [WeblogMatrix](https://www.weblogmatrix.org/)_
 
 _另见: [awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap), [awesome-gis](https://github.com/sshuair/awesome-gis)_
 
-- [AdventureLog](https://adventurelog.app) - 旅行跟踪器和行程规划器。 ([演示](https://demo.adventurelog.app/signup), [源代码](https://github.com/seanmorley15/AdventureLog)) `GPL-3.0` `Docker`
 - [AirTrail](https://airtrail.johan.ohly.dk) - 个人飞行跟踪系统。 ([源代码](https://github.com/johanohly/AirTrail)) `GPL-3.0` `Docker/Node.js`
 - [Bicimon](https://github.com/knrdl/bicimon) - 自行车速度计作为渐进式Web应用。 ([演示](https://knrdl.github.io/bicimon/)) `MIT` `JavaScript`
 - [Dawarich](https://dawarich.app/) - 可视化您的位置历史，跟踪您的移动轨迹，并在完全隐私和控制下分析您的旅行模式（Google Timeline 或 Google 位置历史的替代方案）。 ([源代码](https://github.com/Freika/dawarich)) `AGPL-3.0` `Docker`
@@ -915,7 +916,6 @@ _另见: [awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap
 - [TileServer GL](https://tileserver.readthedocs.io/) - 使用 GL 样式的矢量和栅格地图。由 Mapbox GL Native 进行服务器端渲染。适用于 Mapbox GL JS、Android、iOS、Leaflet、OpenLayers、通过 WMTS 的 GIS 等的地图切片服务器。 ([源代码](https://github.com/maptiler/tileserver-gl)) `BSD-2-Clause` `Node.js/Docker`
 - [Traccar](https://www.traccar.org/) - 用于追踪GPS位置的Java应用。支持大量追踪设备和协议，具有Android和iOS应用程序。拥有Web界面，可查看您的行程。 ([演示](https://demo.traccar.org/), [源代码](https://github.com/traccar)) `Apache-2.0` `Java`
 - [TRIP](https://itskovacs-trip.netlify.app/) - 极简 POI 地图追踪与行程规划工具。 ([演示](https://itskovacs-trip.netlify.app/home), [源代码](https://github.com/itskovacs/trip)) `MIT` `Docker`
-- [wanderer](https://github.com/open-wanderer/wanderer) - 轨迹数据库，可上传记录的轨迹或新建轨迹，并添加多种元数据，构建易于检索的目录。 ([演示](https://demo.wanderer.to)) `AGPL-3.0` `Docker/Go/Node.js`
 
 
 ### 备份
@@ -1517,6 +1517,7 @@ _相关: [协同办公](#协同办公)_
 不属于其他部分的软件。
 
 - [2FAuth](https://github.com/Bubka/2FAuth) - 管理您的双因素认证 (2FA) 账户并生成其安全码。 ([演示](https://demo.2fauth.app/)) `AGPL-3.0` `PHP/Docker`
+- [AdventureLog](https://adventurelog.app) - 自托管的旅行追踪和行程规划工具。记录到访地点、规划行程、分享旅行经历。 ([源代码](https://github.com/seanmorley15/AdventureLog)) `GPL-3.0` `Docker`
 - [Anchr](https://anchr.io) - 用于互联网小型任务的工具箱，包括书签收集、URL 缩短和（加密）图片上传。 ([源代码](https://github.com/muety/anchr)) `GPL-3.0` `Node.js`
 - [Anubis](https://anubis.techaro.lol/) - 网络人工智能防火墙实用程序，保护上游资源免受爬虫机器人的侵害。 ([源代码](https://github.com/TecharoHQ/anubis)) `MIT` `Docker/deb/Go`
 - [asciinema](https://asciinema.org/) - 用于托管 asciicasts 的 Web 应用程序。 ([演示](https://asciinema.org/explore), [源代码](https://github.com/asciinema/asciinema-server)) `Apache-2.0` `Elixir/Docker`
@@ -1557,6 +1558,7 @@ _相关: [协同办公](#协同办公)_
 - [Infisical Community Edition](https://infisical.com/) - 平台用于管理机密、证书和特权访问。 ([源代码](https://github.com/Infisical/infisical)) `MIT` `Docker/K8S/deb`
 - [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) `⚠` - 阻止和跳过赞助内容，同时在 YouTube 上静音和跳过广告。 `GPL-3.0` `Docker/Python`
 - [IT-Tools by sharevb](https://github.com/sharevb/it-tools) - 开发者的实用在线工具集合（[it-tools](https://github.com/CorentinTh/it-tools) 的分支）。 ([演示](https://sharevb-it-tools.vercel.app/)) `GPL-3.0` `Docker`
+- [IT Tools](https://it-tools.tech) - 面向开发者的实用工具集合，所有操作在浏览器本地完成，无需后端服务。 ([源代码](https://github.com/CorentinTh/it-tools)) `GPL-3.0` `Node.js/Docker`
 - [Jan](https://jan.ai) - 完全离线的开源 AI 聊天桌面应用（ChatGPT 替代品）。支持本地运行多种 LLM 模型。 ([源代码](https://github.com/janhq/jan)) `AGPL-3.0` `TypeScript/Docker`
 - [Jelu](https://bayang.github.io/jelu-web) - 已读和待读书单追踪器。 ([源代码](https://github.com/bayang/jelu)) `MIT` `Java/Docker`
 - [jetlog](https://github.com/pbogre/jetlog) - 个人飞行跟踪器和查看器。 `GPL-2.0` `Docker`
@@ -1587,6 +1589,7 @@ _相关: [协同办公](#协同办公)_
 - [Transmute](https://transmute.sh) - 支持图片、视频、音频、JSON、Excel 等格式的文件转换工具，提供超过 2000 种转换方案。 ([源代码](https://github.com/transmute-app/transmute)) `MIT` `Docker`
 - [URL-to-PNG](https://github.com/jasonraimondi/url-to-png) - 使用 Playwright 进行并行渲染的 URL 到 PNG 实用工具，支持通过本地、S3 或 CouchDB 进行存储缓存。 `MIT` `Node.js/Docker`
 - [Usertour](https://www.usertour.io/) - 用户引导平台，可轻松创建应用内产品演示、清单和问卷。 ([源代码](https://github.com/usertour/usertour/)) `AGPL-3.0` `Docker`
+- [Wanderer](https://wanderer.to) - 自托管的户外徒步路线数据库。上传 GPX、规划路线、分享轨迹，支持 ActivityPub 联邦。 ([源代码](https://github.com/open-wanderer/wanderer)) `AGPL-3.0` `Go/Docker`
 - [Warracker](https://warracker.com) - 保修期追踪工具，可监控到期日、上传收据/文件，并在保修到期前提醒。 ([源代码](https://github.com/sassanix/Warracker)) `AGPL-3.0` `Docker`
 - [Wavelog](https://www.wavelog.org) - 针对业余无线电爱好者的基于 Web 的日志软件。提供增强的 QSO 日志记录、统计信息和地图功能。 ([演示](https://demo.wavelog.org), [源代码](https://github.com/wavelog/wavelog)) `MIT` `PHP/Docker`
 - [WeeWX](https://weewx.com/) - 用于您的气象站的开源软件。 ([演示](https://weewx.com/showcase.html), [源代码](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
@@ -2356,6 +2359,7 @@ _相关: [库存管理](#库存管理), [企业资源规划（ERP）](#企业资
 - [KeyCloak](https://www.keycloak.org) - 开源身份与访问管理。 ([源代码](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 - [Logto](https://logto.io) - 开源身份认证平台（Auth0 替代品）。支持 OIDC、OAuth 2.1、SSO、多租户和 RBAC。 ([源代码](https://github.com/logto-io/logto)) `MPL-2.0` `TypeScript/Node.js/Docker`
 - [Ory Kratos](https://www.ory.sh/kratos) - 开源身份和用户管理服务器。支持自助注册、登录、MFA、账户恢复和 SSO。 ([源代码](https://github.com/ory/kratos)) `Apache-2.0` `Go/Docker`
+- [Pocket ID](https://pocket-id.org) - 基于 Passkeys 的轻量 OAuth 2.0 和 OpenID Connect 提供商，告别密码，用通行密钥登录所有服务。 ([源代码](https://github.com/pocket-id/pocket-id)) `BSD-2-Clause` `Go/Docker`
 - [SuperTokens](https://supertokens.com) - 开源身份认证引擎（Auth0/Cognito 替代品）。支持会话管理、MFA、社交登录和无密码认证。 ([源代码](https://github.com/supertokens/supertokens-core)) `Apache-2.0` `Java/Docker`
 
 
@@ -2826,6 +2830,7 @@ _相关: [工单](#工单), [任务管理和待办清单](#任务管理和待办
 - [Simple Machines Forum](https://www.simplemachines.org/) - 免费、专业级的软件包，可让您在几分钟内建立自己的在线社区。 ([源代码](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
 - [Socialhome](https://socialhome.network) - 分布式和去中心化的个人资料构建器和社交网络引擎。 ([演示](https://socialhome.network/), [源代码](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
 - [Talkyard](https://www.talkyard.io/) - 创建一个社区，让您的用户提出想法并得到问题的解答。并进行友好的开放式讨论和聊天（类似 Slack/StackOverflow/Discourse/Reddit/Disqus 的混合体）。 ([演示](https://www.talkyard.io/forum/latest), [源代码](https://github.com/debiki/talkyard)) `AGPL-3.0` `Docker/Scala`
+- [Twikoo](https://twikoo.js.org) - 简洁、安全、免费的静态网站评论系统，支持云函数和自托管部署。 ([源代码](https://github.com/twikoojs/twikoo)) `MIT` `Node.js/Docker`
 - [yarn.social](https://yarn.social) - 自托管、类似Twitter™的分布式微日志平台。无广告、无追踪，您的内容，您的数据。 ([源代码](https://git.mills.io/yarnsocial/yarn)) `MIT` `Go`
 
 
