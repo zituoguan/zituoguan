@@ -2453,7 +2453,6 @@ _相关: [软件开发 - IDE 和工具](#软件开发---ide-和工具)_
 
 - [Appsmith](https://www.appsmith.com/) - 构建管理面板、CRUD 应用和工作流。以 10 倍速度构建所需的一切。 ([源代码](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker/K8S`
 - [Appwrite](https://appwrite.io) - 为 Web、本地和移动开发人员提供的端到端后端服务器 🚀。 ([源代码](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
-- [autokitteh](https://autokitteh.com/) - 用仅几行代码实现持久的工作流自动化。 ([源代码](https://github.com/autokitteh/autokitteh)) `Apache-2.0` `Go/Docker`
 - [Halo](https://www.halo.run) - 一款功能强大且易于使用的网站构建工具（文档为中文）。 ([演示](https://docs.halo.run/#%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C), [源代码](https://github.com/halo-dev/halo), [客户端](https://github.com/halo-sigs/awesome-halo)) `GPL-3.0` `Java/Docker`
 - [Illa Builder](https://illacloud.com) - 开源低代码开发平台（Retool 替代品）。支持拖拽式应用构建、数据库连接和 JavaScript 扩展。 ([源代码](https://github.com/illacloud/illa-builder)) `Apache-2.0` `TypeScript/Docker`
 - [Manifest](https://manifest.build) - 仅需一个 YAML 文件即可完成的完整后端。 ([演示](https://manifest.new), [源代码](https://github.com/mnfst/manifest)) `MIT` `Node.js`
