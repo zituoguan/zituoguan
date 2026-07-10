@@ -756,7 +756,6 @@ _相关: [数据库管理](#数据库管理), [个人仪表板](#个人仪表板
 - [Netron](https://netron.app/) - 神经网络和机器学习模型的可视化工具。 ([源代码](https://github.com/lutzroeder/netron)) `MIT` `Python/Node.js`
 - [Offen](https://www.offen.dev/) - 公平、轻量级和开放的Web分析工具。在用户完全访问其数据的同时获取见解。 ([演示](https://www.offen.dev/try-demo/), [源代码](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
 - [Plausible Analytics](https://plausible.io/) - 简单、轻量（小于 1 KB）且注重隐私的 Web 分析工具。 ([源代码](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
-- [Plausible CE](https://plausible.io) - 隐私友好的网站统计分析平台，轻量、无 Cookie，无需繁琐的 GDPR 横幅。自托管版本完全免费。 ([源代码](https://github.com/plausible/analytics)) `AGPL-3.0` `Docker/Elixir`
 - [PostHog](https://posthog.com) - 可自托管的产品分析、会话录制、功能开关与 A/B 测试平台（Mixpanel、Amplitude、Heap、HotJar、Optimizely 的替代方案）。 ([源代码](https://github.com/posthog/posthog)) `MIT` `Python`
 - [Postiz](https://postiz.com) `⚠` - 安排帖子发布，跟踪内容的表现，并在一个平台上管理所有社交媒体账户（Buffer、Hootsuite、Sprout Social 的替代品）。 ([源代码](https://github.com/gitroomhq/postiz-app)) `AGPL-3.0` `Docker`
 - [Prisme Analytics](https://www.prismeanalytics.com) - 基于 Grafana、以隐私为核心的渐进式分析服务。 ([源代码](https://github.com/prismelabs/analytics)) `AGPL-3.0/MIT` `Docker`
