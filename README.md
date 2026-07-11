@@ -540,6 +540,7 @@ _相关: [监控和状态页面](#监控和状态页面), [书签和链接分享
 _相关: [Web 服务器](#web-服务器)_
 
 - [Apache APISIX](https://apisix.apache.org/) - 云原生高性能 API 网关，支持动态路由、负载均衡、认证、可观测性和 100+ 插件。基于 NGINX 和 etcd 构建。 ([源代码](https://github.com/apache/apisix)) `Apache-2.0` `Lua/Docker`
+- [Caddy Proxy Manager](https://host.yt) - 基于 Caddy 的自托管反向代理管理器，Nginx Proxy Manager 的平替方案。支持自动 HTTPS、WAF、GeoIP 过滤和多租户。 ([源代码](https://github.com/host-yt/caddy-proxy-manager)) `MIT` `Go/Docker`
 - [g3proxy](https://g3-project.readthedocs.io/projects/g3proxy/en/latest/) - 支持代理链、协议检查、MITM 拦截、ICAP 适配和透明代理的前向代理服务器。 ([源代码](https://github.com/bytedance/g3/tree/master/g3proxy)) `Apache-2.0` `Rust/deb`
 - [imgproxy](https://imgproxy.net/) - 快速且安全的独立服务器，用于调整和转换远程图片。 ([源代码](https://github.com/imgproxy/imgproxy)) `MIT` `Go/Docker/K8S`
 - [iodine](https://code.kryo.se/iodine/) - 基于DNS的IPv4隧道解决方案，使您能够启动一个socks5代理监听器。 ([源代码](https://github.com/yarrick/iodine)) `ISC` `C/deb`
