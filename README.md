@@ -2058,6 +2058,7 @@ _相关: [维基](#维基)_
 - [Fast Note Sync](https://github.com/haierkeys/obsidian-fast-note-sync) - 可私有化部署的 Obsidian 多端实时笔记同步插件，支持自动备份、版本历史和在线协作。需配合独立服务端使用。 `Apache-2.0` `TypeScript/Node.js`
 - [flatnotes](https://github.com/dullage/flatnotes) - 一个无数据库的笔记网页应用，使用扁平文件夹中的 Markdown 文件进行存储。 ([演示](https://demo.flatnotes.io)) `MIT` `Docker`
 - [HedgeDoc](https://hedgedoc.org/) - 跨所有平台的实时协作Markdown笔记，以前被称为CodiMD和HackMD CE。 ([演示](https://demo.hedgedoc.org/), [源代码](https://github.com/hedgedoc/hedgedoc)) `AGPL-3.0` `Docker/Node.js`
+- [Ignis](https://github.com/Nystik-gh/ignis) - 将 Obsidian 以自托管 Web 应用方式运行，通过 Obsidian 本地插件桥接，实现浏览器端访问。 `AGPL-3.0` `Node.js/Docker`
 - [Joplin](https://joplinapp.org/) - 笔记应用程序，具有 Markdown 编辑器和加密支持，适用于移动和桌面平台。在客户端运行并通过自托管 Nextcloud 实例或类似的进行同步（Evernote 的替代品）。 ([源代码](https://github.com/laurent22/joplin)) `MIT` `Node.js`
 - [Jotty](https://jotty.page) - 轻量但功能强大的个人文件管理、笔记和清单替代方案。 ([源代码](https://github.com/fccview/jotty)) `AGPL-3.0` `Docker`
 - [Livebook](https://livebook.dev) - 实时协作的基于Markdown的笔记本应用，支持运行Elixir代码片段、TeX和Mermaid图表。可通过Docker或Elixir轻松部署。 ([源代码](https://github.com/livebook-dev/livebook)) `Apache-2.0` `Elixir/Docker`
