@@ -5,6 +5,7 @@
 
 ## 目录
 
+  - [AI 智能体](#ai-智能体)
   - [书签和链接分享](#书签和链接分享)
   - [任务管理和待办清单](#任务管理和待办清单)
   - [内容管理系统（CMS）](#内容管理系统（cms）)
@@ -47,6 +48,13 @@
 --------------------
 
 ## 软件
+
+### AI 智能体
+
+**[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Academic Research Skills](https://github.com/Imbad0202/academic-research-skills) - 专为 Claude Code 打造的科研全流程技能包，覆盖文献调研、写作、审稿、修改到定稿。 `CC-BY-NC-4.0` `Python/Docker`
+
 
 ### 书签和链接分享
 
