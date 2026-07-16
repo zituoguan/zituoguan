@@ -458,7 +458,6 @@ _相关: [代理](#代理)_
 - [Ferron](https://ferron.sh/) - 用 Rust 编写的快速、内存安全的 Web 服务器。 ([源代码](https://github.com/ferronweb/ferron)) `MIT` `Rust/Docker/deb`
 - [go-doxy](https://github.com/yusing/godoxy) - 轻量、简单且高性能的反向代理，带有 WebUI、Docker 集成，可根据流量自动关闭/启动容器。 `MIT` `Docker/Go`
 - [godoxy](https://docs.godoxy.dev/) - 高性能反向代理和容器编排工具，适用于自托管用户。 ([演示](https://demo.godoxy.dev/), [源代码](https://github.com/yusing/godoxy)) `MIT` `Docker/Go`
-- [HAProxy](https://www.haproxy.org/) - 非常快速且可靠的反向代理，提供高可用性、负载均衡以及 TCP 和 HTTP 基于应用程序的代理服务。 ([源代码](https://git.haproxy.org/?p=haproxy.git;a=tree)) `GPL-2.0` `C/deb/Docker`
 - [Lighttpd](https://www.lighttpd.net/) - 安全、快速、符合规范且非常灵活的 web 服务器，经过优化，适用于高性能环境。 ([源代码](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C/deb/Docker`
 - [Nginx Proxy Manager](https://nginxproxymanager.com/) - 用于管理 Nginx 代理主机的 Docker 容器，具有简洁而强大的界面。 ([源代码](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Docker`
 - [NGINX](https://nginx.org/en/) - HTTP 和反向代理服务器、邮件代理服务器以及通用的 TCP/UDP 代理服务器。 ([源代码](https://github.com/nginx/nginx)) `BSD-2-Clause` `C/deb/Docker`
@@ -550,6 +549,7 @@ _相关: [Web 服务器](#web-服务器)_
 - [Apache APISIX](https://apisix.apache.org/) - 云原生高性能 API 网关，支持动态路由、负载均衡、认证、可观测性和 100+ 插件。基于 NGINX 和 etcd 构建。 ([源代码](https://github.com/apache/apisix)) `Apache-2.0` `Lua/Docker`
 - [Caddy Proxy Manager](https://host.yt) - 基于 Caddy 的自托管反向代理管理器，Nginx Proxy Manager 的平替方案。支持自动 HTTPS、WAF、GeoIP 过滤和多租户。 ([源代码](https://github.com/host-yt/caddy-proxy-manager)) `MIT` `Go/Docker`
 - [g3proxy](https://g3-project.readthedocs.io/projects/g3proxy/en/latest/) - 支持代理链、协议检查、MITM 拦截、ICAP 适配和透明代理的前向代理服务器。 ([源代码](https://github.com/bytedance/g3/tree/master/g3proxy)) `Apache-2.0` `Rust/deb`
+- [HAProxy](https://www.haproxy.org) - 高性能 TCP/HTTP 负载均衡器和反向代理，广泛应用于高可用和流量分发场景。 ([源代码](https://github.com/haproxy/haproxy)) `GPL-2.0` `Docker`
 - [imgproxy](https://imgproxy.net/) - 快速且安全的独立服务器，用于调整和转换远程图片。 ([源代码](https://github.com/imgproxy/imgproxy)) `MIT` `Go/Docker/K8S`
 - [iodine](https://code.kryo.se/iodine/) - 基于DNS的IPv4隧道解决方案，使您能够启动一个socks5代理监听器。 ([源代码](https://github.com/yarrick/iodine)) `ISC` `C/deb`
 - [Outline Server](https://getoutline.org/) - 代理服务器，为每个访问密钥运行一个Shadowsocks实例，并提供一个REST API来管理访问密钥。 ([源代码](https://github.com/OutlineFoundation/outline-server)) `Apache-2.0` `Docker/Node.js`
@@ -1057,6 +1057,7 @@ _相关: [通信 - 电子邮件 - 邮件列表和通讯](#通信---电子邮件-
 - [OpenVZ](https://github.com/OpenVZ) - Linux 的基于容器的虚拟化。 ([源代码](https://src.openvz.org/projects/OVZ)) `GPL-2.0` `C`
 - [Podman](https://podman.io) - 无守护进程的容器引擎，支持以 root 或 rootless 模式运行。可直接 `alias docker=podman`。 ([源代码](https://github.com/containers/podman)) `Apache-2.0` `Go`
 - [Portainer Community Edition](https://www.portainer.io/) - 简单易用的 Docker 管理界面。 ([源代码](https://github.com/portainer/portainer)) `Zlib` `Go`
+- [Portainer](https://www.portainer.io) - Docker 和 Kubernetes 的轻量级图形化管理界面，支持容器、镜像、网络和卷的直观操作。 ([源代码](https://github.com/portainer/portainer)) `Zlib` `Docker`
 - [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - 轻量级、类似 chroot 的环境，可直接在 systemd 下运行操作系统或命令。 ([源代码](https://github.com/systemd/systemd)) `GPL-2.0` `C`
 
 
@@ -1280,7 +1281,10 @@ _另见: [dbdb.io - 数据库之数据库](https://dbdb.io/)_
 - [Datasette](https://datasette.io/) - 通过简单的导入导出和数据库管理，探索和发布数据。 ([源代码](https://github.com/simonw/datasette)) `Apache-2.0` `Python/Docker`
 - [Evidence](https://evidence.dev) - 基于代码的BI工具。使用SQL和Markdown编写报告，并以网站形式呈现。 ([源代码](https://github.com/evidence-dev/evidence)) `MIT` `Node.js`
 - [Limbas](https://www.limbas.com/en/) - 用于创建数据库驱动业务应用的数据库框架。作为图形化数据库前端，支持高效处理数据存量并灵活开发便捷的数据库应用。 ([源代码](https://github.com/limbas/limbas)) `GPL-2.0` `PHP`
+- [MariaDB](https://mariadb.org) - MySQL 的社区分支关系型数据库，保持开源自由，广泛兼容并持续优化性能。 ([源代码](https://github.com/MariaDB/server)) `GPL-2.0` `Docker`
 - [Mathesar](https://mathesar.org/) - 直观的协作数据管理界面，适合各技术水平的用户使用。基于 Postgres 构建，可连接现有数据库或新建数据库。 ([源代码](https://github.com/mathesar-foundation/mathesar)) `GPL-3.0` `Docker/Python`
+- [PostgreSQL](https://www.postgresql.org) - 先进的开源关系型数据库管理系统，支持 ACID 事务、扩展插件和丰富的数据类型。 ([源代码](https://github.com/postgres/postgres)) `PostgreSQL` `Docker`
+- [Redis](https://redis.io) - 开源内存数据结构存储系统，用作数据库、缓存和消息代理，支持多种数据结构。 ([源代码](https://github.com/redis/redis)) `BSD-3-Clause` `Docker`
 - [Supabase](https://supabase.com) - 开源 Firebase 替代品。提供 Postgres 数据库、认证、实时订阅、存储和 Edge Functions。 ([源代码](https://github.com/supabase/supabase)) `Apache-2.0` `TypeScript/Docker`
 
 
@@ -1365,6 +1369,7 @@ _相关: [协同办公](#协同办公)_
 
 - [GarageHQ](https://garagehq.deuxfleurs.fr/) - 地理分布式、兼容 S3 的存储服务，可满足多种需求。 ([源代码](https://git.deuxfleurs.fr/Deuxfleurs/garage)) `AGPL-3.0` `Docker/Rust`
 - [Harbor](https://goharbor.io/) - 云原生镜像仓库，存储、签名和扫描内容。 ([源代码](https://github.com/goharbor/harbor)) `Apache-2.0` `Docker/K8S`
+- [MinIO](https://min.io) - S3 兼容的高性能对象存储系统，适合私有云存储、备份和大数据存储场景。 ([源代码](https://github.com/minio/minio)) `AGPL-3.0` `Go/Docker`
 - [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - SeaweedFS 是一个开源的分布式文件系统，支持 WebDAV、S3 API、FUSE 挂载、HDFS 等，针对大量小文件进行优化，易于扩展容量。 `Apache-2.0` `Go`
 - [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer，一个处理Amazon S3协议的开源服务器实现。 ([源代码](https://github.com/scality/cloudserver)) `Apache-2.0` `Docker/Node.js`
 - [ZOT OCI Registry](https://zotregistry.dev) - 一个生产就绪、厂商中立、OCI 原生的容器镜像仓库。 ([演示](https://zothub.io), [源代码](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
@@ -3045,6 +3050,7 @@ _相关: [投票和活动](#投票和活动), [协同办公](#协同办公)_
 - `OLDAP-2.8` - [Open LDAP Public License v2.8](https://spdx.org/licenses/OLDAP-2.8.html)
 - `QPL-1.0` - [Q Public License 1.0](https://spdx.org/licenses/QPL-1.0.html)
 - `Vim` - [Vim License](https://spdx.org/licenses/Vim.html)
+- `PostgreSQL` - [PostgreSQL License](https://spdx.org/licenses/PostgreSQL.html)
 
 
 --------------------

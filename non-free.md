@@ -18,6 +18,7 @@
   - [文件传输 - 对象存储和文件服务器](#文件传输---对象存储和文件服务器)
   - [文件传输和同步](#文件传输和同步)
   - [文档管理 - 电子书](#文档管理---电子书)
+  - [日志管理](#日志管理)
   - [杂项](#杂项)
   - [流媒体 - 视频流媒体](#流媒体---视频流媒体)
   - [游戏](#游戏)
@@ -154,6 +155,14 @@
 
 - [Bookwyrm](https://joinbookwyrm.com/) - Bookwyrm 是一个社交网络，用于追踪阅读、讨论图书、撰写书评，并发现下一本要读的书。 ([源代码](https://github.com/bookwyrm-social/bookwyrm)) `⊘ Proprietary` `Python`
 - [Ubooquity](https://vaemendis.net/ubooquity/) - 用于漫画和电子书库的免费、多用途、轻量级、多平台且安全的家庭服务器。 `⊘ Proprietary` `Java`
+
+
+### 日志管理
+
+**[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Kibana](https://www.elastic.co/kibana) - Elasticsearch 的数据可视化仪表板，提供日志分析、图表展示和交互式数据探索。 ([源代码](https://github.com/elastic/kibana)) `Elastic-2.0` `Docker`
+- [Logstash](https://www.elastic.co/logstash) - 服务器端数据处理管道，从多源采集、转换并发送数据到 Elasticsearch 等存储后端。 ([源代码](https://github.com/elastic/logstash)) `Elastic-2.0` `Docker`
 
 
 ### 杂项
