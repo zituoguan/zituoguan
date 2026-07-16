@@ -19,7 +19,6 @@
   - [文件传输和同步](#文件传输和同步)
   - [文档管理 - 电子书](#文档管理---电子书)
   - [日志管理](#日志管理)
-  - [杂项](#杂项)
   - [流媒体 - 视频流媒体](#流媒体---视频流媒体)
   - [游戏](#游戏)
   - [游戏 - 管理工具和控制面板](#游戏---管理工具和控制面板)
@@ -165,15 +164,6 @@
 - [Logstash](https://www.elastic.co/logstash) - 服务器端数据处理管道，从多源采集、转换并发送数据到 Elasticsearch 等存储后端。 ([源代码](https://github.com/elastic/logstash)) `Elastic-2.0` `Docker`
 
 
-### 杂项
-
-**[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
-
-- [Keygen](https://keygen.sh/) - 软件授权与分发 API。 ([源代码](https://github.com/keygen-sh/keygen-api)) `⊘ Proprietary` `Ruby`
-- [RemoteUtilities](https://www.remoteutilities.com/) - 用于局域网管理和互联网远程支持的远程协助软件。 `⊘ Proprietary` `Unknown`
-- [ScreenConnect](https://www.screenconnect.com/) - 闪电般快速的远程支持与远程访问，助你即时连接并更快解决问题。 `⊘ Proprietary` `Unknown`
-
-
 ### 流媒体 - 视频流媒体
 
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
@@ -280,6 +270,7 @@
 
 - [Composio](https://composio.dev/) `⚠` - 面向 AI 代理和大型语言模型（LLM）的集成平台，支持 250 多个应用和自定义工具。 ([源代码](https://github.com/ComposioHQ/composio)) `Elastic-2.0` `Python`
 - [Hook0](https://www.hook0.com) - Webhooks 即服务（WaaS），让在线产品轻松提供 Webhooks。免费版每月可分发多达 3,000 个事件，历史记录保留 7 天。 ([源代码](https://gitlab.com/hook0/hook0)) `SSPL-1.0` `Rust/Node.js/Docker`
+- [Keygen](https://keygen.sh/) - 软件授权与分发 API。 ([源代码](https://github.com/keygen-sh/keygen-api)) `⊘ Proprietary` `Ruby`
 
 
 ### 软件开发 - IDE 和工具
@@ -327,6 +318,8 @@
 
 **[`^        返回顶部        ^`](##awesome-selfhosted---non-free-software)**
 
+- [RemoteUtilities](https://www.remoteutilities.com/) - 用于局域网管理和互联网远程支持的远程协助软件。 `⊘ Proprietary` `Unknown`
+- [ScreenConnect](https://www.screenconnect.com/) - 闪电般快速的远程支持与远程访问，助你即时连接并更快解决问题。 `⊘ Proprietary` `Unknown`
 - [SparkView](https://www.beyondssl.com/en/products/sparkview/) - 基于浏览器的远程访问解决方案。无需 VPN 客户端；只需将软件部署在 DMZ 中。随时随地访问虚拟机、桌面、服务器和应用程序，无需复杂昂贵的客户端部署或用户管理。 `⊘ Proprietary` `Java`
 
 
