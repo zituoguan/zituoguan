@@ -2393,15 +2393,14 @@ _相关: [库存管理](#库存管理), [企业资源规划（ERP）](#企业资
 [单点登录（SSO）](https://en.wikipedia.org/wiki/Single_sign-on) 是一种认证方案，允许用户使用单一身份登录多个相关但独立的软件系统。
 
 - [Authelia](https://www.authelia.com/) - Web 应用的单点登录多因素门户。 ([源代码](https://github.com/authelia/authelia)) `Apache-2.0` `Go`
-- [authentik](https://goauthentik.io) - 多合一身份验证平台，集成 SSO、MFA、LDAP 和访问控制，可嵌入任意应用。 ([源代码](https://github.com/goauthentik/authentik)) `MIT` `Python/Docker`
+- [Authentik](https://goauthentik.io/) - 灵活的身份提供者，支持多种协议（OAuth 2.0、SAML、LDAP 和 Radius）。 ([源代码](https://github.com/goauthentik/authentik)) `MIT` `Python`
 - [Casdoor](https://casdoor.org) - 开源身份和访问管理（IAM）平台。支持 OAuth 2.0、OIDC、SAML、WebAuthn 和 MFA。 ([源代码](https://github.com/casdoor/casdoor)) `Apache-2.0` `Go/Docker`
 - [Hanko](https://www.hanko.io) - 开源身份认证平台（Auth0 替代品）。支持 Passkey、WebAuthn、OAuth 2.0、SAML 和 MFA。 ([源代码](https://github.com/teamhanko/hanko)) `AGPL-3.0` `Go/Docker`
-- [Keycloak](https://www.keycloak.org) - 开源身份和访问管理平台，支持 SSO、OIDC、SAML、社交登录和用户联合。 ([源代码](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java/Docker`
+- [KeyCloak](https://www.keycloak.org) - 开源身份与访问管理。 ([源代码](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 - [Logto](https://logto.io) - 开源身份认证平台（Auth0 替代品）。支持 OIDC、OAuth 2.1、SSO、多租户和 RBAC。 ([源代码](https://github.com/logto-io/logto)) `MPL-2.0` `TypeScript/Node.js/Docker`
 - [Ory Kratos](https://www.ory.sh/kratos) - 开源身份和用户管理服务器。支持自助注册、登录、MFA、账户恢复和 SSO。 ([源代码](https://github.com/ory/kratos)) `Apache-2.0` `Go/Docker`
 - [Pocket ID](https://pocket-id.org) - 基于 Passkeys 的轻量 OAuth 2.0 和 OpenID Connect 提供商，告别密码，用通行密钥登录所有服务。 ([源代码](https://github.com/pocket-id/pocket-id)) `BSD-2-Clause` `Go/Docker`
 - [SuperTokens](https://supertokens.com) - 开源身份认证引擎（Auth0/Cognito 替代品）。支持会话管理、MFA、社交登录和无密码认证。 ([源代码](https://github.com/supertokens/supertokens-core)) `Apache-2.0` `Java/Docker`
-- [ZITADEL](https://zitadel.com) - 现代身份基础设施平台，提供 OIDC、SSO、用户管理和安全策略的简化方案。 ([源代码](https://github.com/zitadel/zitadel)) `AGPL-3.0` `Go/Docker`
 
 
 ### 身份管理 - 工具和 Web 界面
@@ -2416,6 +2415,7 @@ _相关: [库存管理](#库存管理), [企业资源规划（ERP）](#企业资
 - [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - 用于管理 LDAP 目录中条目（如用户、组、DHCP 设置）的 Web 前端。 ([源代码](https://github.com/LDAPAccountManager/lam/)) `GPL-3.0` `PHP`
 - [Libravatar](https://www.libravatar.org/) - 向其他网站分发头像（个人资料图片）的服务。 ([源代码](https://git.linux-kernel.at/oliver/ivatar/)) `AGPL-3.0` `Python`
 - [Smallstep Certificates](https://smallstep.com/certificates/) - 私有证书颁发机构（X.509 & SSH）及相关自动化证书管理工具。 ([源代码](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
+- [ZITADEL](https://zitadel.com/) - 云原生身份与访问管理解决方案，提供安全认证、授权和身份管理平台。 ([源代码](https://github.com/zitadel/zitadel)) `Apache-2.0` `Go/Docker/K8S`
 
 
 ### 软件开发
