@@ -1057,7 +1057,6 @@ _相关: [通信 - 电子邮件 - 邮件列表和通讯](#通信---电子邮件-
 - [OpenVZ](https://github.com/OpenVZ) - Linux 的基于容器的虚拟化。 ([源代码](https://src.openvz.org/projects/OVZ)) `GPL-2.0` `C`
 - [Podman](https://podman.io) - 无守护进程的容器引擎，支持以 root 或 rootless 模式运行。可直接 `alias docker=podman`。 ([源代码](https://github.com/containers/podman)) `Apache-2.0` `Go`
 - [Portainer Community Edition](https://www.portainer.io/) - 简单易用的 Docker 管理界面。 ([源代码](https://github.com/portainer/portainer)) `Zlib` `Go`
-- [Portainer](https://www.portainer.io) - Docker 和 Kubernetes 的轻量级图形化管理界面，支持容器、镜像、网络和卷的直观操作。 ([源代码](https://github.com/portainer/portainer)) `Zlib` `Docker`
 - [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - 轻量级、类似 chroot 的环境，可直接在 systemd 下运行操作系统或命令。 ([源代码](https://github.com/systemd/systemd)) `GPL-2.0` `C`
 
 
@@ -1369,7 +1368,6 @@ _相关: [协同办公](#协同办公)_
 
 - [GarageHQ](https://garagehq.deuxfleurs.fr/) - 地理分布式、兼容 S3 的存储服务，可满足多种需求。 ([源代码](https://git.deuxfleurs.fr/Deuxfleurs/garage)) `AGPL-3.0` `Docker/Rust`
 - [Harbor](https://goharbor.io/) - 云原生镜像仓库，存储、签名和扫描内容。 ([源代码](https://github.com/goharbor/harbor)) `Apache-2.0` `Docker/K8S`
-- [MinIO](https://min.io) - S3 兼容的高性能对象存储系统，适合私有云存储、备份和大数据存储场景。 ([源代码](https://github.com/minio/minio)) `AGPL-3.0` `Go/Docker`
 - [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - SeaweedFS 是一个开源的分布式文件系统，支持 WebDAV、S3 API、FUSE 挂载、HDFS 等，针对大量小文件进行优化，易于扩展容量。 `Apache-2.0` `Go`
 - [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer，一个处理Amazon S3协议的开源服务器实现。 ([源代码](https://github.com/scality/cloudserver)) `Apache-2.0` `Docker/Node.js`
 - [ZOT OCI Registry](https://zotregistry.dev) - 一个生产就绪、厂商中立、OCI 原生的容器镜像仓库。 ([演示](https://zothub.io), [源代码](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
