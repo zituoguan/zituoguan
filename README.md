@@ -371,7 +371,6 @@ IT [资产管理](https://en.wikipedia.org/wiki/Asset_management) 软件。
 - [OPSI](https://www.opsi.org) - Linux 和 Windows 的硬件/软件清单、客户端管理、部署和补丁。 ([源代码](https://github.com/opsi-org/)) `GPL-3.0/AGPL-3.0` `OVF/Python`
 - [RackTables](https://racktables.org/) - 数据中心和机房资产管理，如硬件资产、网络地址、机架空间、网络配置等文档化。 ([演示](https://www.racktables.org/demo.php), [源代码](https://github.com/RackTables/racktables)) `GPL-2.0` `PHP`
 - [Ralph](https://github.com/allegro/ralph) - 适用于大型数据中心和小型局域网的资产管理、DCIM 和 CMDB 系统。 ([演示](https://github.com/allegro/ralph#live-demo)) `Apache-2.0` `Python/Docker`
-- [Snipe IT](https://snipeitapp.com/) - 资产与许可证管理软件。 ([源代码](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
 
 
 ### PaaS
@@ -1551,20 +1550,31 @@ _相关: [协同办公](#协同办公)_
 
 不属于其他部分的软件。
 
+- [1Panel](https://1panel.pro) - Web-based control panel for managing Linux servers ([源代码](https://github.com/1Panel-dev/1Panel)) `GPL-3.0` `Docker`
 - [2FAuth](https://github.com/Bubka/2FAuth) - 管理您的双因素认证 (2FA) 账户并生成其安全码。 ([演示](https://demo.2fauth.app/)) `AGPL-3.0` `PHP/Docker`
 - [AdventureLog](https://adventurelog.app) - 自托管的旅行追踪和行程规划工具。记录到访地点、规划行程、分享旅行经历。 ([源代码](https://github.com/seanmorley15/AdventureLog)) `GPL-3.0` `Docker`
+- [Amnezia](https://amnezia.org) - Open source VPN server and client ([源代码](https://github.com/amnezia-vpn/amnezia-client)) `GPL-3.0` `Docker`
 - [Anchr](https://anchr.io) - 用于互联网小型任务的工具箱，包括书签收集、URL 缩短和（加密）图片上传。 ([源代码](https://github.com/muety/anchr)) `GPL-3.0` `Node.js`
 - [Anubis](https://anubis.techaro.lol/) - 网络人工智能防火墙实用程序，保护上游资源免受爬虫机器人的侵害。 ([源代码](https://github.com/TecharoHQ/anubis)) `MIT` `Docker/deb/Go`
+- [Arcane](https://getarcane.app) - Web-based Docker management interface ([源代码](https://github.com/getarcaneapp/arcane)) `GPL-3.0` `Docker`
 - [asciinema](https://asciinema.org/) - 用于托管 asciicasts 的 Web 应用程序。 ([演示](https://asciinema.org/explore), [源代码](https://github.com/asciinema/asciinema-server)) `Apache-2.0` `Elixir/Docker`
+- [Aureus](https://aureuserp.com) - Comprehensive enterprise resource planning solution ([源代码](https://github.com/aureuserp/aureuserp)) `GPL-3.0` `Docker`
 - [Baby Buddy](https://github.com/babybuddy/babybuddy) - 帮助照顾者追踪婴儿的睡眠、喂养、换尿布和俯卧时间。 ([演示](https://github.com/babybuddy/babybuddy#-demo)) `BSD-2-Clause` `Python`
+- [Cap](https://trycap.dev) - Lightweight CAPTCHA alternative ([源代码](https://github.com/tiagozip/cap)) `GPL-3.0` `Docker`
+- [Checkmate](https://checkmate.so/) - Open source server monitoring app ([源代码](https://github.com/bluewave-labs/Checkmate)) `GPL-3.0` `Docker`
 - [Chocolatey](https://chocolatey.org/) - Windows 的包管理器。 ([源代码](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
+- [ClamAV](https://www.clamav.net/) - Open source antivirus engine for detecting malicious threats ([源代码](https://github.com/Cisco-Talos/clamav)) `GPL-3.0` `Docker`
 - [ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - 即时同步您的剪贴板到多个设备，无需任何按钮操作。支持 Windows、macOS、Linux 和 Android，提供无缝、安全的剪贴板共享，并且支持端到端数据加密。 `GPL-3.0` `Java/Docker`
 - [Clonezilla](https://clonezilla.org/) - 分区和磁盘镜像/克隆程序。 ([源代码](https://clonezilla.org/downloads/src/)) `GPL-2.0` `Perl/Shell/Other`
+- [Cloudflared](https://github.com/cloudflare/cloudflared) - Tunneling proxy for Cloudflare traffic `GPL-3.0` `Docker`
 - [Cloudlog](https://magicbug.co.uk/cloudlog/) - 随时随地记录你的业余无线电联络。 ([源代码](https://github.com/magicbug/cloudlog)) `MIT` `PHP/Docker`
+- [Cobalt](https://cobalt.tools) - Fast, friendly media downloader ([源代码](https://github.com/imputnet/cobalt)) `GPL-3.0` `Docker`
 - [ConvertX](https://github.com/C4illin/ConvertX) - 支持超过一千种不同格式的在线文件转换器。 `AGPL-3.0` `Docker`
+- [CrowdSec](https://crowdsec.net) - Crowd-sourced protection against malicious IPs ([源代码](https://github.com/crowdsecurity/crowdsec)) `GPL-3.0` `Docker`
 - [CUPS](https://www.cups.org/) - CUPS（Common Unix Print System）使用Internet Printing Protocol（IPP）支持打印到本地和网络打印机。 ([源代码](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
 - [CyberChef](https://github.com/gchq/CyberChef) - 在Web浏览器中执行各种操作，如AES、DES和Blowfish加密和解密，创建十六进制转储，计算哈希等等。 ([演示](https://gchq.github.io/CyberChef)) `Apache-2.0` `JavaScript`
 - [DadaMail](https://dadamailproject.com/) - 用 Perl 编写的邮件列表管理器。 ([源代码](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
+- [DbGate](https://www.dbgate.io) - Cross-platform database manager ([源代码](https://github.com/dbgate/dbgate)) `GPL-3.0` `Docker`
 - [Digiboard](https://digiboard.app/) - 创建协作式白板（文档以法语提供）。 ([源代码](https://codeberg.org/ladigitale/digiboard)) `AGPL-3.0` `Node.js`
 - [Digicard](https://codeberg.org/ladigitale/digicard) - 创建简单的图形组合（文档以法语提供）。 ([演示](https://ladigitale.dev/digicard/)) `AGPL-3.0` `Node.js`
 - [Digicut](https://ladigitale.dev/digicut/) - 使用 FFMPEG.wasm 剪辑音频和视频文件（文档为法语）。 ([源代码](https://codeberg.org/ladigitale/digicut)) `AGPL-3.0` `Node.js`
@@ -1578,60 +1588,132 @@ _相关: [协同办公](#协同办公)_
 - [Digiview](https://ladigitale.dev/digiview/) `⚠` - 以无干扰的界面查看 YouTube 视频（法语文档）. ([演示](https://ladigitale.dev/digiview/), [源代码](https://codeberg.org/ladigitale/digiview)) `AGPL-3.0` `Node.js/PHP`
 - [Digiwords](https://ladigitale.dev/digiwords/) - 用于创建词云的简单在线应用程序（文档以法语提供）。 ([源代码](https://codeberg.org/ladigitale/digiwords)) `AGPL-3.0` `Node.js/PHP`
 - [DOCAT](https://github.com/docat-org/docat) - 托管您的文档。简单。有版本。时尚。 `MIT` `Python/Docker`
+- [Dockhand](https://dockhand.pro) - Docker management and orchestration app ([源代码](https://github.com/Finsys/dockhand)) `GPL-3.0` `Docker`
 - [Domain Locker](https://domain-locker.com) - 域名投资组合管理和追踪器。 ([演示](https://demo.domain-locker.com), [源代码](https://github.com/lissy93/domain-locker)) `MIT` `Deno/Docker`
 - [DOMJudge](https://www.domjudge.org/) - 用于举办编程竞赛的系统，如 ICPC 区域赛和世界总决赛等。 ([演示](https://www.domjudge.org/demo), [源代码](https://github.com/DOMjudge/domjudge)) `GPL-2.0/BSD-3-Clause/MIT` `PHP`
+- [Dozzle](https://dozzle.dev/) - Real-time log viewer for Docker containers ([源代码](https://github.com/amir20/dozzle)) `GPL-3.0` `Docker`
+- [Dub](https://dub.co) - Link management infrastructure for marketing teams ([源代码](https://github.com/dubinc/dub)) `GPL-3.0` `Docker`
+- [Dufs](https://github.com/sigoden/dufs) - Static file server with uploads, searching, and access control `GPL-3.0` `Docker`
+- [Duplicacy](https://duplicacy.com) - New generation cross-platform cloud backup tool ([源代码](https://github.com/gilbertchen/duplicacy)) `MIT` `Docker`
+- [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with metadata `GPL-3.0` `Docker`
 - [ESMira](https://esmira.kl.ac.at) - 运行纵向研究（ESM、AA、EMA），数据收集和与参与者的通信完全匿名。 ([演示](https://demo-esmira.kl.ac.at/#admin,username:demo,password:demodemodemo), [源代码](https://github.com/KL-Psychological-Methodology/ESMira)) `AGPL-3.0` `PHP`
+- [ESPHome](https://esphome.io/) - Config system for ESP-based devices ([源代码](https://github.com/esphome/esphome)) `GPL-3.0` `Docker`
 - [Excalidraw](https://excalidraw.com) - 开源虚拟白板工具，可用于绘制手绘风格图表、线框图和思维导图。支持端到端加密协作。 ([源代码](https://github.com/excalidraw/excalidraw)) `MIT` `TypeScript/Docker`
 - [F-Droid](https://f-droid.org) - 用于维护F-Droid存储库系统的服务器工具。 ([源代码](https://gitlab.com/fdroid/fdroidserver)) `AGPL-3.0` `Python/Docker/deb`
+- [Fail2Ban](https://http://www.fail2ban.org) - Ban hosts after too many login atttempts ([源代码](https://github.com/fail2ban/fail2ban)) `GPL-3.0` `Docker`
+- [FileBrowser Quantum](https://github.com/gtsteffaniak/filebrowser) - Web-based file manager `GPL-3.0` `Docker`
+- [FilePizza](https://github.com/kern/filepizza) - Peer-to-peer file transfers in the browser `GPL-3.0` `Docker`
+- [Fizzy](https://fizzy.do) - Kanban boards for issue and idea tracking ([源代码](https://github.com/basecamp/fizzy)) `GPL-3.0` `Docker`
+- [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection `GPL-3.0` `Docker`
+- [Fluxer](https://docs.fluxer.app/operator/get-started/) - Instant messaging and VoIP platform ([源代码](https://github.com/fluxerapp/fluxer)) `GPL-3.0` `Docker`
 - [Flyimg](https://flyimg.io) - 实时调整和裁剪图像。使用ImageMagick、高效的缓存系统，获得经过MozJPEG、WebP或PNG优化的图像。 ([演示](https://demo.flyimg.io), [源代码](https://github.com/flyimg/flyimg)) `MIT` `Docker`
 - [Fog](https://www.fogproject.org/) - 克隆/镜像解决方案与救援套件。 ([源代码](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 - [Geeftlist](https://codeberg.org/nanawel/geeftlist) - 供朋友和家人之间管理、共享和预定礼物的协作平台。 `GPL-3.0` `Docker`
 - [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) `⚠` - 无麻烦地自托管Google字体的方式。获取eot、ttf、svg、woff和woff2文件 + CSS片段。 ([演示](https://gwfh.mranftl.com/fonts)) `MIT` `Node.js`
+- [Grav](https://getgrav.org) - Grav is a fast, simple, and flexible file-based web-platform ([源代码](https://github.com/getgrav/grav)) `GPL-3.0` `Docker`
+- [Graylog](https://www.graylog.org) - Free and open log management platform ([源代码](https://github.com/Graylog2/graylog2-server)) `GPL-3.0` `Docker`
 - [Habitica](https://habitica.com/) - 将你的目标变成角色扮演游戏的习惯追踪应用。 ([源代码](https://github.com/HabitRPG/habitica)) `GPL-3.0/CC-BY-SA-3.0` `Node.js/Docker`
 - [HortusFox](https://hortusfox.github.io) - 协作式植物管理与追踪系统，适合植物爱好者。 ([源代码](https://github.com/danielbrendel/hortusfox-web)) `MIT` `PHP/Docker`
 - [ImgCompress](https://imgcompress.karimzouine.com) - 完全运行于 Docker 的图像处理工具，支持压缩、格式转换、调整尺寸、批量处理，以及使用本地 AI 去除背景。 ([源代码](https://github.com/karimz1/imgcompress)) `GPL-3.0` `Docker`
 - [Infisical Community Edition](https://infisical.com/) - 平台用于管理机密、证书和特权访问。 ([源代码](https://github.com/Infisical/infisical)) `MIT` `Docker/K8S/deb`
+- [InfluxDB](https://influxdata.com) - Scalable datastore for metrics and real-time analytics ([源代码](https://github.com/influxdata/influxdb)) `GPL-3.0` `Docker`
 - [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) `⚠` - 阻止和跳过赞助内容，同时在 YouTube 上静音和跳过广告。 `GPL-3.0` `Docker/Python`
 - [IT-Tools by sharevb](https://github.com/sharevb/it-tools) - 开发者的实用在线工具集合（[it-tools](https://github.com/CorentinTh/it-tools) 的分支）。 ([演示](https://sharevb-it-tools.vercel.app/)) `GPL-3.0` `Docker`
 - [IT Tools](https://it-tools.tech) - 面向开发者的实用工具集合，所有操作在浏览器本地完成，无需后端服务。 ([源代码](https://github.com/CorentinTh/it-tools)) `GPL-3.0` `Node.js/Docker`
+- [Jackett](https://github.com/Jackett/Jackett) - API support for torrent trackers `GPL-3.0` `Docker`
 - [Jan](https://jan.ai) - 完全离线的开源 AI 聊天桌面应用（ChatGPT 替代品）。支持本地运行多种 LLM 模型。 ([源代码](https://github.com/janhq/jan)) `AGPL-3.0` `TypeScript/Docker`
 - [Jelu](https://bayang.github.io/jelu-web) - 已读和待读书单追踪器。 ([源代码](https://github.com/bayang/jelu)) `MIT` `Java/Docker`
 - [jetlog](https://github.com/pbogre/jetlog) - 个人飞行跟踪器和查看器。 `GPL-2.0` `Docker`
-- [Kasm Workspaces](https://kasmweb.com/) - 将容器化的应用程序和桌面流式传输给终端用户。示例包括在浏览器中运行的Ubuntu，或者仅运行Chrome、OpenOffice、Gimp、Filezilla等单个应用程序。 ([演示](https://www.kasmweb.com/#demo), [源代码](https://github.com/kasmtech)) `GPL-3.0` `Docker`
+- [Kan](https://kan.bn) - Powerful, flexible kanban app ([源代码](https://github.com/kanbn/kan)) `GPL-3.0` `Docker`
+- [Kanidm](https://kanidm.com) - Modern and simple identity management platform ([源代码](https://github.com/kanidm/kanidm)) `GPL-3.0` `Docker`
+- [Kasm Workspaces](https://github.com/kasmtech/KasmVNC) - Workspace streaming for desktops, apps, and browsers `GPL-3.0` `Docker`
 - [Koillection](https://koillection.github.io/) - Koillection 是一项服务，允许用户管理任何类型的收藏品。 ([源代码](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`
+- [Komodo](https://komo.do) - Build and deploy software on multiple servers ([源代码](https://github.com/moghtech/komodo)) `GPL-3.0` `Docker`
+- [Kopia](https://kopia.io) - Cross-platform backup tool ([源代码](https://github.com/kopia/kopia)) `GPL-3.0` `Docker`
 - [LanguageTool](https://languagetool.org/) - 适用于20多种语言的校对工具。它能发现许多简单拼写检查器无法检测到的错误。 ([源代码](https://github.com/languagetool-org/languagetool), [客户端](https://languagetool.org/insights/post/product-windows-app/)) `LGPL-2.1` `Java/Docker`
 - [Libre Translate](https://libretranslate.com/) - 机器翻译 API。 ([源代码](https://github.com/LibreTranslate/LibreTranslate)) `AGPL-3.0` `Docker/Python`
+- [LibreSpeed](https://librespeed.org) - Free and open source speed test ([源代码](https://github.com/librespeed/speedtest)) `GPL-3.0` `Docker`
 - [LubeLogger](https://lubelogger.com) - 基于 Web 的车辆维护与燃油里程追踪工具。 ([演示](https://github.com/hargata/lubelog?tab=readme-ov-file#demo), [源代码](https://github.com/hargata/lubelog)) `MIT` `Docker/K8S/C#`
+- [Mailpit](https://mailpit.axllent.org) - Email testing tool and API for developers ([源代码](https://github.com/axllent/mailpit)) `GPL-3.0` `Docker`
+- [MkDocs](https://www.mkdocs.org) - Project documentation with Markdown ([源代码](https://github.com/mkdocs/mkdocs)) `Apache-2.0` `Docker`
 - [mosparo](https://mosparo.io/) - 现代的垃圾邮件保护工具。用简单易用的垃圾邮件保护解决方案替代其他验证码方法。 ([源代码](https://github.com/mosparo/mosparo)) `MIT` `PHP`
+- [Mosquitto](https://mosquitto.org) - Open source implementation of the MQTT protocol ([源代码](https://github.com/eclipse-mosquitto/mosquitto)) `GPL-3.0` `Docker`
 - [Movary](https://github.com/leepeuker/movary) `⚠` - 用于追踪和评分已观看电影的 Web 应用。 ([演示](https://github.com/leepeuker/movary?tab=readme-ov-file#demo)) `MIT` `Docker/PHP`
+- [Nakama](https://heroiclabs.com) - Scalable backend for social and real-time games ([源代码](https://github.com/heroiclabs/nakama)) `GPL-3.0` `Docker`
+- [NanoClaw](https://nanoclaw.dev) - Lightweight AI chat bot alternative to OpenClaw ([源代码](https://github.com/nanocoai/nanoclaw)) `GPL-3.0` `Docker`
 - [Neko](https://neko.m1k1o.net) - 在 Docker 中运行并使用 WebRTC 的虚拟浏览器。 ([源代码](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
+- [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated proxy for Docker containers `GPL-3.0` `Docker`
+- [Nginx UI](https://nginxui.com) - Yet another NGINX web interface ([源代码](https://github.com/0xJacky/nginx-ui)) `GPL-3.0` `Docker`
+- [OAuth2 Proxy](https://oauth2-proxy.github.io/oauth2-proxy) - Reverse proxy and authentication middleware ([源代码](https://github.com/oauth2-proxy/oauth2-proxy)) `GPL-3.0` `Docker`
+- [Obsidian LiveSync](https://github.com/vrtmrz/obsidian-livesync) - Community-implemented sync plugin for Obsidian `GPL-3.0` `Docker`
 - [OmniTools](https://omnitools.app/) - 强大的基于 Web 的日常工具集合（编码、图像/视频处理、PDF 操作或数字运算等）。 ([源代码](https://github.com/iib0011/omni-tools)) `MIT` `Docker`
 - [Open-Meteo](https://open-meteo.com/) - 提供来自各主要国家气象服务机构的开放数据预报、历史数据和气候数据的天气 API。 ([演示](https://open-meteo.com/en/docs), [源代码](https://github.com/open-meteo/open-meteo)) `AGPL-3.0` `Docker`
+- [OpenBao](https://openbao.org/) - Sensitive data store for secrets, certificates, and keys ([源代码](https://github.com/openbao/openbao)) `GPL-3.0` `Docker`
+- [OpenList](https://doc.oplist.org) - File manager with support for multiple storage backends ([源代码](https://github.com/OpenListTeam/OpenList)) `GPL-3.0` `Docker`
 - [OpenReader](https://openreader.richardr.dev/) - EPUB、PDF、DOCX、MD 和 TXT 文件的文本转语音文档阅读器。使用高质量 TTS 实时朗读文档，或提取有声书。 ([演示](https://openreader.richardr.dev/), [源代码](https://github.com/richardr1126/openreader)) `MIT` `Docker`
 - [OpenZiti](https://openziti.io/) - 功能齐全的零信任全网格覆盖网络。内置双因素认证支持，提供所有主流桌面/移动操作系统的客户端。 ([源代码](https://github.com/openziti/ziti)) `Apache-2.0` `Go`
 - [Operational.co](https://operational.co) - 在实时时间线中接收来自您产品的警报。 ([演示](https://app.operational.co/?signinas=kevin), [源代码](https://github.com/operational-co/operational.co)) `AGPL-3.0` `Node.js/Docker`
+- [Organizr](https://github.com/causefx/Organizr) - Homelab services organizer and dashboard `GPL-3.0` `Docker`
+- [PairDrop](https://pairdrop.net) - Local file sharing in your browser inspired by Apple's AirDrop ([源代码](https://github.com/schlagmichdoch/PairDrop)) `GPL-3.0` `Docker`
+- [Paperless AI](https://clusterzx.github.io/paperless-ai/) - Automated document analyzer for Paperless using AI ([源代码](https://github.com/clusterzx/paperless-ai)) `GPL-3.0` `Docker`
 - [penpot](https://penpot.app/) - 面向跨领域团队的基于 Web 的设计和原型制作平台。 ([源代码](https://github.com/penpot/penpot)) `MPL-2.0` `Docker`
+- [pgweb](https://sosedoff.github.io/pgweb) - Simple web-based PostgreSQL database explorer ([源代码](https://github.com/sosedoff/pgweb)) `GPL-3.0` `Docker`
+- [phpMyAdmin](https://www.phpmyadmin.net/) - Web interface for MySQL and MariaDB ([源代码](https://github.com/phpmyadmin/phpmyadmin)) `GPL-3.0` `Docker`
+- [Piped](https://piped.video) - Privacy-friendly YouTube frontend ([源代码](https://github.com/TeamPiped/Piped)) `GPL-3.0` `Docker`
 - [POMjs](https://password.oppetmoln.se/) - 随机密码生成器。 ([源代码](https://github.com/joho1968/POMjs)) `GPL-2.0` `JavaScript`
+- [Prowlarr](https://prowlarr.com) - Indexer manager and proxy ([源代码](https://github.com/Prowlarr/Prowlarr)) `GPL-3.0` `Docker`
+- [Pulse](https://pulserelay.pro) - Proxmox monitoring interface ([源代码](https://github.com/rcourtman/Pulse)) `GPL-3.0` `Docker`
 - [Pønskelisten](https://github.com/aunefyren/poenskelisten) - 分享愿望清单，并协作准备礼物与赠品。 `GPL-3.0` `Docker/Go`
 - [re:Director](https://re-director.github.io/) - 简单的域名重定向管理工具。 ([源代码](https://github.com/re-Director/re-director)) `Apache-2.0` `Java/Docker`
 - [Reactive Resume](https://rxresu.me/) - 独特的简历生成器，注重隐私保护。完全安全、可定制、可移植、开源且永久免费。 ([演示](https://rxresu.me/), [源代码](https://github.com/AmruthPillai/Reactive-Resume)) `MIT` `Docker/Node.js`
+- [Requestly](https://requestly.com/) - Developer tool for building, testing, and debuging web apps ([源代码](https://github.com/requestly/requestly)) `GPL-3.0` `Docker`
 - [revealjs](https://revealjs.com) - 使用 HTML 轻松创建漂亮演示文稿的框架。 ([演示](https://revealjs.com/), [源代码](https://github.com/hakimel/reveal.js)) `MIT` `JavaScript`
 - [Revive Adserver](https://www.revive-adserver.com/) - 广告投放系统，前身为 OpenX Adserver 和 phpAdsNew。 ([源代码](https://github.com/revive-adserver/revive-adserver)) `GPL-2.0` `PHP`
+- [Rundeck](https://http://rundeck.org) - Orchestration tool for automation ([源代码](https://github.com/rundeck/rundeck)) `GPL-3.0` `Docker`
+- [RustFS](https://github.com/rustfs/rustfs) - High-performance distributed object storage `GPL-3.0` `Docker`
 - [SANE Network Scanning](http://sane-project.org/) - 允许远程客户端访问本地主机上可用的图像采集设备（扫描仪）。 ([源代码](http://www.sane-project.org/cvs.html)) `GPL-2.0` `C`
+- [Scanopy](https://scanopy.net) - Automatically discover and document network infrastructure ([源代码](https://github.com/scanopy/scanopy)) `GPL-3.0` `Docker`
+- [Scrypted](https://scrypted.app) - Home video integration and automation platform ([源代码](https://github.com/koush/scrypted)) `GPL-3.0` `Docker`
+- [Sink](https://Sink.Cool) - Simple, speedy, secure link shortener with analytics and deployed with Cloudflare ([源代码](https://github.com/miantiao-me/Sink)) `GPL-3.0` `Docker`
+- [Snapdrop](https://snapdrop.net) - Local file sharing via browser ([源代码](https://github.com/SnapDrop/snapdrop)) `MIT` `Docker`
+- [Snipe-IT](https://snipeitapp.com) - Asset management for IT operations ([源代码](https://github.com/grokability/snipe-it)) `GPL-3.0` `Docker`
+- [Soft Serve](https://github.com/charmbracelet/soft-serve) - Self-hostable git server for the command line `GPL-3.0` `Docker`
+- [SonarQube](https://http://www.sonarqube.org) - Automated code quality and security analysis ([源代码](https://github.com/SonarSource/sonarqube)) `GPL-3.0` `Docker`
+- [Spacebar](https://spacebar.chat) - Discord-compatible chat, voice, and video app ([源代码](https://github.com/spacebarchat/spacebarchat)) `GPL-3.0` `Docker`
 - [string.is](https://string.is/) - 面向开发人员的开源、注重隐私的在线字符串工具包。 ([源代码](https://github.com/recurser/string-is)) `AGPL-3.0` `Node.js`
+- [Tautulli](https://tautulli.com) - Monitoring and tracking tool for Plex Media Server ([源代码](https://github.com/Tautulli/Tautulli)) `GPL-3.0` `Docker`
+- [TaxHacker](https://taxhacker.app) - AI-driven accounting app ([源代码](https://github.com/vas3k/TaxHacker)) `GPL-3.0` `Docker`
+- [Teable](https://teable.ai) - No-code database built on PostgreSQL ([源代码](https://github.com/teableio/teable)) `GPL-3.0` `Docker`
 - [Teleport](https://goteleport.com/) - 用于 SSH、Kubernetes、Web 应用和数据库的证书颁发机构和访问平面。 ([源代码](https://github.com/gravitational/teleport)) `Apache-2.0` `Go/Docker/K8S`
 - [TeslaMate](https://github.com/teslamate-org/teslamate) - 一款强大的特斯拉车辆数据记录器。 `MIT` `Elixir/Docker`
+- [Tinyauth](https://tinyauth.app) - Simple authentication middleware for reverse proxies ([源代码](https://github.com/tinyauthapp/tinyauth)) `GPL-3.0` `Docker`
 - [Transmute](https://transmute.sh) - 支持图片、视频、音频、JSON、Excel 等格式的文件转换工具，提供超过 2000 种转换方案。 ([源代码](https://github.com/transmute-app/transmute)) `MIT` `Docker`
+- [TREK](https://github.com/mauriceboe/TREK) - Real-time collaborative travel planner `GPL-3.0` `Docker`
+- [Uncloud](https://uncloud.run) - Lightweight clustering and container orchestration tool ([源代码](https://github.com/psviderski/uncloud)) `GPL-3.0` `Docker`
+- [Unsloth Studio](https://unsloth.ai/docs) - Unified interface for training local AI models ([源代码](https://github.com/unslothai/unsloth)) `GPL-3.0` `Docker`
 - [URL-to-PNG](https://github.com/jasonraimondi/url-to-png) - 使用 Playwright 进行并行渲染的 URL 到 PNG 实用工具，支持通过本地、S3 或 CouchDB 进行存储缓存。 `MIT` `Node.js/Docker`
 - [Usertour](https://www.usertour.io/) - 用户引导平台，可轻松创建应用内产品演示、清单和问卷。 ([源代码](https://github.com/usertour/usertour/)) `AGPL-3.0` `Docker`
+- [Valkey](https://valkey.io) - In-memory key-value database ([源代码](https://github.com/valkey-io/valkey)) `GPL-3.0` `Docker`
+- [Vector](https://vector.dev) - High-performance observability data pipeline ([源代码](https://github.com/vectordotdev/vector)) `GPL-3.0` `Docker`
+- [VERT](https://vert.sh) - On-device file conversion utility ([源代码](https://github.com/VERT-sh/VERT)) `GPL-3.0` `Docker`
+- [VueTorrent](https://vuetorrent.github.io/demo) - Sleek web UI for qBittorrent made with Vue.js ([源代码](https://github.com/VueTorrent/VueTorrent)) `GPL-3.0` `Docker`
 - [Wanderer](https://wanderer.to) - 自托管的户外徒步路线数据库。上传 GPX、规划路线、分享轨迹，支持 ActivityPub 联邦。 ([源代码](https://github.com/open-wanderer/wanderer)) `AGPL-3.0` `Go/Docker`
 - [Warracker](https://warracker.com) - 保修期追踪工具，可监控到期日、上传收据/文件，并在保修到期前提醒。 ([源代码](https://github.com/sassanix/Warracker)) `AGPL-3.0` `Docker`
 - [Wavelog](https://www.wavelog.org) - 针对业余无线电爱好者的基于 Web 的日志软件。提供增强的 QSO 日志记录、统计信息和地图功能。 ([演示](https://demo.wavelog.org), [源代码](https://github.com/wavelog/wavelog)) `MIT` `PHP/Docker`
+- [Web-Check](https://web-check.xyz) - Comprehensive, on-demand intelligence ([源代码](https://github.com/lissy93/web-check)) `GPL-3.0` `Docker`
+- [Webhook](https://github.com/adnanh/webhook) - Lightweight webhook server for running shell commands `GPL-3.0` `Docker`
 - [WeeWX](https://weewx.com/) - 用于您的气象站的开源软件。 ([演示](https://weewx.com/showcase.html), [源代码](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
 - [WeTTY](https://butlerx.github.io/wetty/#/) - 通过http/https在浏览器中使用的终端。 ([源代码](https://github.com/butlerx/wetty)) `MIT` `Docker/Node.js`
+- [wg-easy](https://wg-easy.github.io/wg-easy/latest/) - All-in-one WireGuard and web interface ([源代码](https://github.com/wg-easy/wg-easy)) `GPL-3.0` `Docker`
+- [Whoogle](https://pypi.org/project/whoogle-search/) - Privacy-respecting metasearch engine ([源代码](https://github.com/benbusby/whoogle-search)) `GPL-3.0` `Docker`
 - [Wishlist](https://github.com/cmintey/wishlist) - 可与亲友分享的愿望清单应用。 `MIT` `Docker/K8S`
+- [Workout.cool](https://workout.cool) - Modern fitness coaching platform ([源代码](https://github.com/Snouzy/workout-cool)) `GPL-3.0` `Docker`
+- [World Monitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard `GPL-3.0` `Docker`
 - [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) `⚠` - 媒体追踪器，可用于电影、电视剧、动漫、漫画、电子游戏和书籍。 ([演示](https://github.com/FuzzyGrim/Yamtrack?tab=readme-ov-file#demo)) `AGPL-3.0` `Docker/Python`
+- [Zensical](https://zensical.org/docs/) - Modern static site generator ([源代码](https://github.com/zensical/zensical)) `GPL-3.0` `Docker`
 - [Zero-TOTP](https://zero-totp.com) - 基于零知识加密的完整、可靠、安全且零信任的 Web 应用，用于存储您的 TOTP 验证码。 ([源代码](https://github.com/SeaweedbrainCY/zero-totp)) `GPL-3.0` `Docker`
+- [Zerobyte](https://zerobyte.app) - Backup automation with remote storage support ([源代码](https://github.com/nicotsx/zerobyte)) `GPL-3.0` `Docker`
+- [Zigbee2MQTT](https://www.zigbee2mqtt.io) - Zigbee to MQTT bridge ([源代码](https://github.com/Koenkk/zigbee2mqtt)) `GPL-3.0` `Docker`
 
 
 ### 构建工具
