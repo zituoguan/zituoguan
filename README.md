@@ -1759,6 +1759,7 @@ _相关: [媒体管理](#媒体管理)_
 - [multi-scrobbler](https://foxxmd.github.io/multi-scrobbler) - 将多个来源的播放记录到多个 scrobbling 服务中。 ([源代码](https://github.com/FoxxMD/multi-scrobbler)) `MIT` `Node.js/Docker`
 - [musikcube](https://musikcube.com/) - 具有 Linux/macOS/Windows/Android 客户端的音频流媒体服务器。 ([源代码](https://github.com/clangen/musikcube)) `BSD-3-Clause` `C++/deb`
 - [Navidrome Music Server](https://www.navidrome.org) - 现代音乐服务器和流媒体服务器，兼容Subsonic/Airsonic。 ([演示](https://www.navidrome.org/demo), [源代码](https://github.com/navidrome/navidrome), [客户端](https://www.navidrome.org/docs/overview/#apps)) `GPL-3.0` `Docker/Go`
+- [Navidrome](https://www.navidrome.org) - 现代音乐流媒体服务，兼容 Subsonic/Airsonic 客户端。支持多种音频格式、元数据管理和多用户。 ([源代码](https://github.com/navidrome/navidrome)) `GPL-3.0` `Go/Docker`
 - [Pinepods](https://www.pinepods.online/) - 支持多用户的播客管理系统。Pinepods 使用中央数据库，因此收听时长、主题等设置可在不同设备之间同步。 ([演示](https://try.pinepods.online), [源代码](https://github.com/madeofpendletonwool/PinePods)) `GPL-3.0` `Docker`
 - [Polaris](https://github.com/agersant/polaris) - 针对大型音乐收藏、易用性和高性能优化的音乐浏览和流媒体应用。 `MIT` `Rust/Docker`
 - [Snapcast](https://github.com/snapcast/snapcast) - 同步多房间音频服务器。 `GPL-3.0` `C++/deb`
@@ -2299,6 +2300,7 @@ _相关: [流媒体 - 视频流媒体](#流媒体---视频流媒体)_
 - [motionEye](https://github.com/motioneye-project/motioneye) - Motion 软件的在线界面，Motion 是一款具备运动检测功能的视频监控程序。 `GPL-3.0` `Python/Docker`
 - [Secluso](https://secluso.com) - 基于树莓派的私人 DIY 家庭安防摄像系统，提供端对端加密远程访问和支持实时视频、警报及录像回放的移动应用。 ([源代码](https://github.com/secluso/core)) `GPL-3.0` `Rust`
 - [SentryShot](https://codeberg.org/SentryShot/sentryshot) - 视频监控管理系统。 `GPL-2.0` `Docker/Rust`
+- [Shinobi](https://shinobi.video) - 开源视频管理系统，支持 6000+ 款 IP 和 USB 摄像头，提供录像、异常检测和 Web 界面管理。 ([源代码](https://github.com/ShinobiCCTV/Shinobi)) `GPL-3.0` `Node.js/Docker`
 - [Strix](https://github.com/eduard256/Strix) - 自动发现 IP 摄像头的可用流地址，并生成即用型 Frigate 和 go2rtc 配置文件。 `MIT` `Go/Docker`
 - [Viseron](https://viseron.netlify.app/) - 自托管、仅限本地的 NVR 和 AI 计算机视觉软件。具有物体检测、动作检测、面部识别等功能，让您能够监控家中、办公室或其他任何想监视的地方。 ([源代码](https://github.com/roflcoopter/viseron)) `MIT` `Docker`
 - [Zoneminder](https://www.zoneminder.com/) - 支持IP、USB和模拟摄像头的闭路电视（CCTV）软件应用程序。 ([源代码](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
